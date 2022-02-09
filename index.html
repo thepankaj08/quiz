@@ -73,6 +73,19 @@
                     <span class="hidden material-icons text-red-500">cancel</span>
                     {{item}}
                 </div>
+                <div
+                    class="flex flex-row items-center justify-between p-6 m-2 font-family-product-sans rounded-full bg-blue-100 gap-2">
+                    <span 
+                    v-on:click="prev()"
+                    class="material-icons text-2xl lg:text-4xl  p-2 px-4 cursor-pointer select-none bg-blue-500 text-white rounded-full">
+                        arrow_back
+                    </span>
+                    <span
+                    v-on:click="next()"
+                    class="material-icons text-2xl lg:text-4xl  p-2 px-4 cursor-pointer select-none bg-blue-500 text-white rounded-full">arrow_forward</span>
+
+                </div>
+                
             </div>
 
 
@@ -81,15 +94,11 @@
 
 
 
-        <div class="flex items-center p-2 text-blue-400 justify-between">
-            <span 
-            v-on:click="prev()"
-            class="material-icons text-xl lg:text-2xl p-2 px-4 cursor-pointer select-none bg-blue-50 rounded-full">
-                arrow_back
-            </span>
-
-                <!-- select set -->
-            <select class="text-xl lg:text-2xl font-family-product-sans" v-model="set_selected_index" @change="update_set($event)">
+        <div class="flex items-center p-4 text-blue-400 justify-between">
+            <select
+            v-model="set_selected_index" 
+            @change="update_set($event)"
+            class="text-xl lg:text-2xl font-family-product-sans">
                 <option disabled value="">Select Set</option>
                 <option v-for="(item,index) in available_sets" :value="index" class="font-family-product-sans">Set {{item.title}}
                 </option>
@@ -99,11 +108,6 @@
                 <option v-for="(item,index) in data" :value="index" class="font-family-product-sans">Question {{index+1}}
                 </option>
             </select>
-
-            
-            <span
-            v-on:click="next()"
-            class="material-icons text-xl lg:text-2xl p-2 px-4 cursor-pointer select-none bg-blue-50 rounded-full">arrow_forward</span>
         </div>
     </div>
 
