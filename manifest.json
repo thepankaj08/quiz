@@ -1,9 +1,9 @@
 {
   "short_name": "Quiz App",
   "name": "Quiz App",
-  "start_url": "/",
+  "start_url": "/quiz/",
   "background_color": "#3b82f6",
-  "scope": ".",
+  "scope": "/quiz/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "prefer_related_applications": true,
