@@ -1,0 +1,14 @@
+@font-face {
+    font-family: PSR;
+    src: url('fonts/PSR.ttf');
+  }
+
+.ws-bs{
+    white-space: break-spaces;
+}
+
+
+.font-family-product-sans
+{
+    font-family:"PSR";
+}

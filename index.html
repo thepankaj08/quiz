@@ -1,16 +1,38 @@
 <!DOCTYPE html>
 <html lang="en" class="h-full">
-
 <head>
+    <title>Question Bank</title>
+    
+    
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Question Bank</title>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    </link>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <meta http-equiv="cache-control" content="max-age=800" />
+    <meta http-equiv="cache-control" content="Private" />
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="img/ios/180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/ios/32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/ios/16.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#3b82f6"/>
+    <meta name="mobile-web-app-capable" content="yes">
+
+    
+    
+    
+    
+    
+    
+    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+      <link rel="stylesheet" href="css/tailwind.min.css"></link>
+      <link rel="stylesheet" href="css/style.css"></link>
+    
     <script src="https://hammerjs.github.io/dist/hammer.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
 </head>
@@ -20,103 +42,84 @@
 
         <div class="flex items-center p-2 text-blue-500 justify-between text-2xl shadow">
             <span class="material-icons">opacity</span>
-            <div class="capitalize flex   p-2 font-family-H">Question Bank</div>
+            <div class="capitalize flex p-2 font-family-product-sans">Question Bank</div>
             <span class="material-icons">settings</span>
-
         </div>
 
+
         <div class="flex flex-col p-4 h-full overflow-auto items-center ">
-            <div class="text-3xl m-4  leading-10 select-text">
-                <pre class="whitespace-pre-line font-family-H">
+
+            <div class="text-xl lg:text-2xl m-4  leading-10 select-text bg-gray-50 p-4">
+                <pre class="ws-bs font-family-product-sans">
                     {{display_data('question')}}
                 </pre>
 
                 <div class="text-lg">
-                    <div v-on:click="show_exp=!show_exp" class="underline cursor-pointer text-center text-blue-500">
+                    <div v-on:click="show_exp=!show_exp" class="font-family-product-sans underline cursor-pointer text-center text-blue-500">
                         View Explanation
                     </div>
-                    <div v-if="show_exp" class="select-text">
+                    <div v-if="show_exp" class="select-text font-family-product-sans">
                         {{display_data('exp')}}
                     </div>
                 </div>
             </div>
-
-
-            <div v-for="(item,index) in display_data('options')" v-bind:tabindex="index"
-                v-on:click="attempt($event,index)"
-                class="options cursor-pointer uppercase border-b-4 border-gray-200 p-6 text-2xl m-2 font-family-H">
-                {{item}}
+            
+            <div>
+                <div
+                    v-for="(item,index) in display_data('options')"
+                    v-on:click="attempt_using_click($event,index)"
+                    class="options flex flex-row items-center cursor-pointer capitalize p-6 text-xl lg:text-2xl m-2 font-family-product-sans rounded-full bg-gray-50 gap-2">
+                    <span class="hidden material-icons text-green-500">check_circle</span>
+                    <span class="hidden material-icons text-red-500">cancel</span>
+                    {{item}}
+                </div>
             </div>
+
 
 
         </div>
 
-        <div class="flex items-center p-2 text-blue-400 justify-between">
-            <span v-on:click="prev()"
-                class="material-icons text-2xl p-2 px-4 cursor-pointer select-none bg-blue-50 rounded-full">arrow_back</span>
 
-            <select tabindex="4" class="text-2xl" v-model="set_selected_index" @change="update_set($event)">
+
+        <div class="flex items-center p-2 text-blue-400 justify-between">
+            <span 
+            v-on:click="prev()"
+            class="material-icons text-xl lg:text-2xl p-2 px-4 cursor-pointer select-none bg-blue-50 rounded-full">
+                arrow_back
+            </span>
+
+                <!-- select set -->
+            <select class="text-xl lg:text-2xl font-family-product-sans" v-model="set_selected_index" @change="update_set($event)">
                 <option disabled value="">Select Set</option>
-                <option v-for="(item,index) in available_sets" :value="index" class="font-family-H">Set {{index+1}}
+                <option v-for="(item,index) in available_sets" :value="index" class="font-family-product-sans">Set {{item.title}}
                 </option>
             </select>
 
-            <div class="flex text-2xl  p-2 rounded-full bg-blue-50">
-                <input tabindex="5" v-model="index" type="number" placeholder="Page number" style="width: 100px;"
-                    class="bg-transparent text-center font-family-H" />
-                <div class="font-family-H">of {{ data.length-1 }}</div>
-            </div>
+            <select class="text-xl lg:text-2xl font-family-product-sans" v-model="index" @change="update_question_index($event)">
+                <option v-for="(item,index) in data" :value="index" class="font-family-product-sans">Question {{index+1}}
+                </option>
+            </select>
 
-            <span v-on:click="next()"
-                class="material-icons text-2xl p-2 px-4 cursor-pointer select-none bg-blue-50 rounded-full">arrow_forward</span>
+            
+            <span
+            v-on:click="next()"
+            class="material-icons text-xl lg:text-2xl p-2 px-4 cursor-pointer select-none bg-blue-50 rounded-full">arrow_forward</span>
         </div>
     </div>
 
 
 
-    <script src="data/science/set1.js"></script>
-    <script src="data/science/set2.js"></script>
-    <script src="data/science/set3.js"></script>
-    <script src="data/science/set4.js"></script>
-    <script src="data/science/set5.js"></script>
-    <script src="data/science/set6.js"></script>
-    <script src="data/science/set7.js"></script>
-    <script src="data/science/set8.js"></script>
-    <script src="data/science/set9.js"></script>
-    <script src="data/science/set10.js"></script>
-    <script src="data/science/set11.js"></script>
-    <script src="data/science/set12.js"></script>
-    <script src="data/science/set13.js"></script>
-    <script src="data/science/set14.js"></script>
-    <script src="data/science/set15.js"></script>
-    <script src="data/science/set16.js"></script>
-    <script src="data/science/set17.js"></script>
-    <script src="data/science/set18.js"></script>
-    <script src="data/science/set19.js"></script>
-    <script src="data/science/set20.js"></script>
-    <script src="data/science/set21.js"></script>
-    <!-- <script src="data/science/set22.js"></script> -->
-    <!-- <script src="data/science/set23.js"></script> -->
-    <!-- <script src="data/science/set24.js"></script> -->
-    <!-- <script src="data/science/set25.js"></script> -->
-    <!-- <script src="data/science/set26.js"></script> -->
-    <!-- <script src="data/science/set27.js"></script> -->
-    <!-- <script src="data/science/set28.js"></script> -->
-    <!-- <script src="data/science/set29.js"></script> -->
-    <!-- <script src="data/science/set30.js"></script> -->
-    <!-- <script src="data/science/set31.js"></script> -->
-    <!-- <script src="data/science/set32.js"></script> -->
-    <!-- <script src="data/science/set33.js"></script> -->
-    <!-- <script src="data/science/set34.js"></script> -->
-    <!-- <script src="data/science/set35.js"></script> -->
-    <!-- <script src="data/science/set36.js"></script> -->
-    <!-- <script src="data/science/set37.js"></script> -->
-    <!-- <script src="data/science/set38.js"></script> -->
-    <!-- <script src="data/science/set39.js"></script> -->
-    <!-- <script src="data/science/set40.js"></script> -->
+    <script src="data/good_to_go/science.js"></script>
+    <script src="scripts/confetti.js"></script>
+    <script src="scripts/vue.js"></script>
+    <script src="scripts/app.js"></script>
 
-    <script src="vue.js"></script>
-    <script src="app.js"></script>
+    <script>
+        if ('serviceWorker' in navigator && 'PushManager' in window) {
+  navigator.serviceWorker.register('./service-worker.js');
+    console.log('Service Worker is registered');
+}
+    </script>
 
 </body>
 
