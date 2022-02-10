@@ -56,6 +56,8 @@ var app = new Vue(
         })
         this.show_exp=false
 
+        //focus question
+        this.$refs.head.scrollIntoView()
       },
       next:function()
       {

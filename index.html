@@ -40,16 +40,16 @@
 <body class="h-full bg-white">
     <div id='app' class="flex flex-col h-full w-full ">
 
-        <div class="flex items-center p-2 text-blue-500 justify-between text-2xl shadow">
-            <span class="material-icons">opacity</span>
-            <div class="capitalize flex p-2 font-family-product-sans">Question Bank</div>
-            <span class="material-icons">settings</span>
-        </div>
+        <div class="flex flex-col h-full overflow-auto items-center ">
 
+            <!-- header -->
+            <div ref="head"  class="w-full flex items-center p-2 text-blue-500 justify-between text-2xl">
+                <span class="material-icons">opacity</span>
+                <div class="capitalize flex p-2 font-family-product-sans">Question Bank</div>
+                <span class="material-icons">settings</span>
+            </div>
 
-        <div class="flex flex-col p-4 h-full overflow-auto items-center ">
-
-            <div class="text-xl lg:text-2xl m-4  leading-10 select-text bg-gray-50 p-4">
+            <div class=" text-xl lg:text-2xl leading-10 select-text bg-gray-50 p-2">
                 <pre class="ws-bs font-family-product-sans">
                     {{display_data('question')}}
                 </pre>
@@ -64,7 +64,7 @@
                 </div>
             </div>
             
-            <div>
+            <div class="grid grid-cols-1 sm:grid-cols-2">
                 <div
                     v-for="(item,index) in display_data('options')"
                     v-on:click="attempt_using_click($event,index)"
@@ -74,7 +74,7 @@
                     {{item}}
                 </div>
                 <div
-                    class="flex flex-row items-center justify-between p-6 m-2 font-family-product-sans rounded-full bg-blue-100 gap-2">
+                    class="col-span-1 sm:col-span-2 flex flex-row items-center justify-between p-6 m-2 font-family-product-sans rounded-full bg-blue-100 gap-2">
                     <span 
                     v-on:click="prev()"
                     class="material-icons text-2xl lg:text-4xl  p-2 px-4 cursor-pointer select-none bg-blue-500 text-white rounded-full">
