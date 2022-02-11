@@ -1,7 +1,8 @@
 let science =
 [
     {
-    question: `1 Match the List-I with List-II and select the correct answer using the code given below :
+    question: `
+1 Match the List-I with List-II and select the correct answer using the code given below :
 List-I (soil layers) List II (their specifications)
 A. Top soil or A-horizon        1.This layer is soft, porous and can retain more water.
 B. Middle layer or B-horizon    2.It is made up of small lumps of rocks with cracks & crevices.
@@ -35,7 +36,8 @@ which is hard and difficult to dig with a spade.
 `
 },
 {
-    question: `2 Consider the following assertions:
+    question: `
+2 Consider the following assertions:
 1. The best topsoil for growing plants is loamy.
 2. Loamy soil is a mixture of sand,clay and slit.
 3. The size of the silt particles is between those of sand and clay.
@@ -64,7 +66,8 @@ water.
 `
 },
 {
-    question: `3 During heavy exercise, we get cramps in the legs due to the accumulation of?`,
+    question: `
+3 During heavy exercise, we get cramps in the legs due to the accumulation of?`,
     options: [
         'A. Carbon dioxide',
         'B. Lactic acid',
@@ -88,7 +91,8 @@ into carbon dioxide and water.
 `
 },
 {
-    question: `4 What is the percentage of oxygen in inhaled and exhaled air, respectively?`,
+    question: `
+4 What is the percentage of oxygen in inhaled and exhaled air, respectively?`,
     options: [
         'A. 21% and 16.4%',
         'B. 4% and 21%',
@@ -107,7 +111,8 @@ exhaled air contains 16.4% oxygen and 4.4% carbon dioxide.
 `
 },
 {
-    question: `5 In the context of respiration in various animals, consider the following assertions —
+    question: `
+5 In the context of respiration in various animals, consider the following assertions —
 1. The process of breakdown of food in the cell with the release of energy is called cellular respiration.
 2. In the cell, the food (glucose) is broken down into carbon dioxide and water using oxygen.
 3. Food can also be broken down, without using oxygen. This is called aerobic respiration.
@@ -129,7 +134,8 @@ respiration.
 `
 },
 {
-    question: `6 Which of the following terms, is/are transported in the body, through blood? :
+    question: `
+6 Which of the following terms, is/are transported in the body, through blood? :
 1. Digested food
 2. Oxygen
 3. Waste material
@@ -151,7 +157,8 @@ body.
 `
 },
 {
-    question: `7 What is the function of white blood cells or granules?`,
+    question: `
+7 What is the function of white blood cells or granules?`,
     options: [
         'A. Carry oxygen',
         'B. Carry carbon-dioxide',
@@ -174,7 +181,8 @@ presence of another type of cells in the blood, called platelets.
 `
 },
 {
-    question: `8 Consider the following:
+    question: `
+8 Consider the following:
 1. Blood
 2. Blood vessels
 3. Heart
@@ -214,7 +222,8 @@ circulatory system.
 `
 },
 {
-    question: `9 Consider the following:
+    question: `
+9 Consider the following:
 1. Fish
 2. Hydra
 3. Sponge
@@ -238,7 +247,8 @@ circulatory system is found in fishes.
 `
 },
 {
-    question: `10 Match List I to List II and select the correct answer with the code given below:
+    question: `
+10 Match List I to List II and select the correct answer with the code given below:
 List-I (Parts of Plants) List-II (Their Work)
 A. Stomata      1.Transport of food
 B. Xylem        2.Transport of water
@@ -257,7 +267,8 @@ D. Root hair    4.Water absorption
 },
 
 {
-    question: `11 Match the List-I with List-II and select the correct answer
+    question: `
+11 Match the List-I with List-II and select the correct answer
 using the code given below :
 List-I (Organ) List-II (Characteristic)
 A. Stomach 1.The biggest gland in the body
@@ -288,7 +299,8 @@ The liver is the largest gland in the body. It secretes bile juice that
 is stored in a sac called the gallbladder. Bile plays an important role
 in the digestion of fats.`
 }, {
-    question: `12 Regarding amoeba, consider the following assertions:
+    question: `
+12 Regarding amoeba, consider the following assertions:
 1. It is a microscopic single-celled organism found in pond water.
 2. Amoeba constantly changes its shape and position.
 3. Amoeba has a cell membrane, a rounded, dense nucleus and many
@@ -334,7 +346,8 @@ membrane and carbon dioxide gas leaves through it. A complex, jellylike series o
 cell. A large, disk-shaped nucleus within the amoeba controls the
 growth and reproduction of the amoeba.`
 }, {
-    question: `13 Which of the following assertions is/are correct?
+    question: `
+13 Which of the following assertions is/are correct?
 1. The liver is the largest gland in the body.
 2. The liver does not secrete bile juice.
 3. Bile juice plays an important role in the digestion of fat.
@@ -382,7 +395,8 @@ bacteria from the bloodstream
  Clearance of bilirubin, also from red blood cells. If there is an
 accumulation of bilirubin, the skin and eyes turn yellow.`
 }, {
-    question: `14 Regarding the digestive system, consider the following
+    question: `
+14 Regarding the digestive system, consider the following
 assertions:
 1. Digestive juices convert simple substances of food into complex
 ones, which is helpful in digestion.
@@ -406,7 +420,8 @@ The inner walls of the stomach and the small intestine, and the
 various glands associated with the alimentary canal such as salivary
 glands, the liver and the pancreas secrete digestive juices.`
 }, {
-    question: `15 Which of the following are examples of a symbiotic
+    question: `
+15 Which of the following are examples of a symbiotic
 relationship?
 1. Algae and fungus
 2. Algae and bacteria
@@ -434,7 +449,8 @@ other legumes and provides them with nitrogen. In return, the plants
 provide food and shelter to the bacteria. They, thus, have a
 symbiotic relationship. (i.e., between plants and bacteria).`
 }, {
-    question: `16 Consider the following statements :
+    question: `
+16 Consider the following statements :
 1. Some organisms live together and share both shelter and
 nutrients. This relationship is called symbiosis.
 2. Nutrition in which organisms take in nutrients from dead and
@@ -463,7 +479,8 @@ weather for a long time, is a saprotroph. Note that during the rainy
 season such fungal growth may spoil a lot of household things.
 `
 }, {
-    question: `17 Regarding plants, consider the following sentences:
+    question: `
+17 Regarding plants, consider the following sentences:
 1. All plants synthesize their food themselves.
 2. Plants obtain nitrogen through roots present in the soil.
 Which of the above assertions is/are correct?
@@ -486,7 +503,8 @@ release it into the soil. This is absorbed by the plants along with
 water.
 `
 }, {
-    question: `18 Consider the following assertions in relation to photosynthesis:
+    question: `
+18 Consider the following assertions in relation to photosynthesis:
 1. Only oxygen is formed from the process of photosynthesis.
 2. In addition to the leaves, the other green parts of plants also
 carry out photosynthesis.
@@ -506,7 +524,8 @@ branches. Desert plants have scales or spine-like leaves to
 reduce loss of water by transpiration. These plants have green
 stems which carry out photosynthesis.`
 }, {
-    question: `19 Which of the following is/are necessary for photosynthesis?
+    question: `
+19 Which of the following is/are necessary for photosynthesis?
 1. Chlorophyll
 2. Sunlight
 3. Carbon dioxide
@@ -536,7 +555,8 @@ water and carbon dioxide, and oxygen is released as a byproduct.
 The glucose molecules provide organisms with two crucial resources:
 energy and fixed—organic—carbon.`
 }, {
-    question: `20 Which of the followings is/are called 'Food Factories of
+    question: `
+20 Which of the followings is/are called 'Food Factories of
 Plants'?
 1. Leaf
 2. Stem
@@ -568,7 +588,8 @@ and roots.`
 },
 
 {
-    question: `21. Where was the first oil well of the world drilled?`,
+    question: `
+21. Where was the first oil well of the world drilled?`,
     options: [
         'A. Pennsylvania',
         'B. Pittsburgh',
@@ -579,7 +600,8 @@ and roots.`
     exp: `Explanation: The world’s first oil well was drilled in Pennsylvania, USA, in 1859. Eight years later, in 1867, oil was found at Makum in Assam.In India, oil is found in Assam, Gujarat, Mumbai High and in the river basins of Godavari and Krishna.`
 },
 {
-    question: `22. Naphthalene balls, used to combat moths and other pests, is obtained from which of the following?`,
+    question: `
+22. Naphthalene balls, used to combat moths and other pests, is obtained from which of the following?`,
     options: [
         'A. Coke',
         'B. Coal tar',
@@ -590,7 +612,8 @@ and roots.`
     exp: `Explanation: Naphthalene balls are obtained from coal tar. Coke, coal tar and goal gas are all obtained from coal.Natural gas is stored, under high pressure as compressed natural gas (CNG).India has vast reserves of natural gas. Natural gas has been found in Tripura, Rajasthan, Maharashtra and in the Krishna (Godavari delta).`
 },
 {
-    question: `23. Consider the following statements regarding combustion and ignition temperature? \n 1. Oxygen is required for the combustion of materials.Heat and light are given out in this process. \n 2. The lowest temperature at which a substance (fuel) catches fire is called its ignition temperature. \n 3. The combustion of phosphorus occurs at room temperature, in the presence of air. \n Which of the statements given above is/are correct?`,
+    question: `
+23. Consider the following statements regarding combustion and ignition temperature? \n 1. Oxygen is required for the combustion of materials.Heat and light are given out in this process. \n 2. The lowest temperature at which a substance (fuel) catches fire is called its ignition temperature. \n 3. The combustion of phosphorus occurs at room temperature, in the presence of air. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 and 2 only',
         'B. 2 and 3 only',
@@ -601,7 +624,8 @@ and roots.`
     exp: `Explanation: The way food is broken down in the human body, on reaction with oxygen, to give out energy; substances react with oxygen during combustion and give out heat and light. The lowest temperature at which a substance catches fire is called its Ignition temperature. The ignition temperature of phosphorus is so low, that it catches fire in room temperature, in the presence of air.`
 },
 {
-    question: `24. Consider the following statements in context of safety matches: \n 1. A mixture of Antimony Trisulphide and Potassium Chlorate is applied on the heads of matchsticks. \n 2. The rubbing surface has powdered glass and a little white phosphorus. \n Which of the statements given above is/are correct?`,
+    question: `
+24. Consider the following statements in context of safety matches: \n 1. A mixture of Antimony Trisulphide and Potassium Chlorate is applied on the heads of matchsticks. \n 2. The rubbing surface has powdered glass and a little white phosphorus. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 only',
         'B. 2 only',
@@ -612,7 +636,8 @@ and roots.`
     exp: `Explanation: A mixture of Antimony Trisulphide and Potassium Chlorate is applied on the heads of matchsticks. Earlier, white phosphorus was also used along with these two chemicals, but due to its harmful effects, its use was discontinued in the manufacture of safety matches. The rubbing surface has powdered glass and a little red phosphorus.. When the match is struck against the rubbing surface, some red phosphorus gets converted into white phosphorus. This immediately reacts with Potassium Chlorate in the matchstick head to produce enough heat to ignite Antimony Trisulphide and start the combustion.`
 },
 {
-    question: `25. The job of a fire extinguisher is to cut off the supply of air, or to bring down the temperature of the fuel, or both. Consider the following statements in the context of cutting off the supply of air: \n 1. Water vapours, formed due to water being poured on the flame, surround the combustible material, helping in cutting off the supply of air. \n 2. CO2, being heavier than oxygen, covers the fire like a blanket. Since the contact between the fuel and oxygen is cut off, the fire is controlled. \n Which of the statements given above is/are correct?`,
+    question: `
+25. The job of a fire extinguisher is to cut off the supply of air, or to bring down the temperature of the fuel, or both. Consider the following statements in the context of cutting off the supply of air: \n 1. Water vapours, formed due to water being poured on the flame, surround the combustible material, helping in cutting off the supply of air. \n 2. CO2, being heavier than oxygen, covers the fire like a blanket. Since the contact between the fuel and oxygen is cut off, the fire is controlled. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 only',
         'B. 2 only',
@@ -623,7 +648,8 @@ and roots.`
     exp: `Explanation: Water cools the combustible and the water vapours formed also surround the combustible material, cutting off the supply of air. thus, the fire is extinguished. The most common fire extinguisher is water. But for fires involving electrical equipment and inflammable materials like petrol, carbon dioxide (CO2) is the best extinguisher. CO2, being heavier than oxygen, covers the fire like a blanket. Since the contact between the fuel and oxygen is cut off, the fire is controlled. It does not harm the electrical equipment. CO2 can be stored at high pressure as a liquid in cylinders. When released from the cylinder, CO2 expands enormously in volume and cools down. Another way to get CO2 is to release a lot of dry powder of chemicals like sodium bicarbonate (baking soda) or potassium bicarbonate. On coming near the fire, these chemicals decompose to give off CO2.`
 },
 {
-    question: `26. Of the following statements, which of the following is/are correct regarding candle flames? \n 1. Unburnt carbon particles are present in the luminous zone of the flame. \n 2. The non-luminous zone of the flame has a highest temperature.`,
+    question: `
+26. Of the following statements, which of the following is/are correct regarding candle flames? \n 1. Unburnt carbon particles are present in the luminous zone of the flame. \n 2. The non-luminous zone of the flame has a highest temperature.`,
     options: [
         'A. 1 only',
         'B. 2 only',
@@ -634,7 +660,8 @@ and roots.`
     exp: `Explanation: The substances which vapourise on combustion, produce flame. The flame produced during the combustion of candle has three parts: non luminous zone, luminous zone and non combustible zone. Unburnt carbon particles are present in the luminous zone of the flame. The non luminous zone of the candle flame has the highest temperature. It is the outermost region of the flame, which is blue in colour.`
 },
 {
-    question: `27. Consider the following statements: \n 1. Incomplete combustion of fuels produce the poisonous gas, carbon dioxide. \n 2. Excessive proportion of carbon dioxide in the environment results in global warming. \n 3. Oxides of sulfur and nitrogen mix with rain, and result in acid rain. \n Which of the above statement/statements is/are correct?`,
+    question: `
+27. Consider the following statements: \n 1. Incomplete combustion of fuels produce the poisonous gas, carbon dioxide. \n 2. Excessive proportion of carbon dioxide in the environment results in global warming. \n 3. Oxides of sulfur and nitrogen mix with rain, and result in acid rain. \n Which of the above statement/statements is/are correct?`,
     options: [
         'A. Only 1 and 2',
         'B. Only 2 and 3',
@@ -645,7 +672,8 @@ and roots.`
     exp: `Explanation: Incomplete combustion of fuels produce carbon monoxide. It is an extremely poisonous gas.Combustion of most fuels give out carbon dioxide in the environment, the excessive quantity of which, results in global warming.Combustion of coal and petrol give out sulfur dioxide. It is an extremely suffocating and caustic gas. Moreover, petrol engines give off gaseous oxides of nitrogen. Oxides of sulphur and nitrogen dissolve in rain water and form acids. Such rain is called acid rain. It is very harmful for crops, buildings and soil.CNG produces the oxides of sulfur and nitrogen in very small amounts.`
 },
 {
-    question: `28. Assertion (A): In India, 98% of the coal is found in Gondwana rocks of Moran region. \n Reason (R): The main regions of Gondwana rocks are found in West Bengal, Jharkhand and Odisha.`,
+    question: `
+28. Assertion (A): In India, 98% of the coal is found in Gondwana rocks of Moran region. \n Reason (R): The main regions of Gondwana rocks are found in West Bengal, Jharkhand and Odisha.`,
     options: [
         'A. Both A and R are true and R is the correct explanation of A',
         'B. Both A and R are true but R is not a correct explanation of A',
@@ -656,7 +684,8 @@ and roots.`
     exp: `Explanation: Around 67 % of total commercial energy produced in India and 98% of India's total account is found in Gondwana rocks of Moran region. The main regions of Gondwana rocks are found in West Bengal, Jharkhand and Odisha. There are four types of coal found in India: Anthracite (Best quality of coal found only in Jammu & Kashmir); Bituminous (Second best quality of coal); Lignite (Found in Tamil Nadu, Rajasthan, Gujarat and Jammu & Kashmir). Coal accounts for approx. 67 % of total commercial energy produced in India and 98% of India’s total account is found in Gondwana rocks of Moran region. The main regions of Gondwana rocks are found in West Bengal, Jharkhand and,  Odisha. The first effort made to extract coal with modern technology in India was at Ranigunj coal region in West Bengal. Types of coal on the basis of carbon content: Anthracite is the best quality of coal which carries 80 to 95 per cent carbon content. It ignites slowly with a blue flame. It has the highest calorific value. It is found in small quantity in Jammu and Kashmir. Bituminous carries 60 to 80 per cent of carbon content and a low level of moisture content. It is widely used and has high calorific value. It is found in Jharkhand, West Bengal, Odisha, Chhattisgarh and Madhya Pradesh. Lignite is often brown in colour. It carries 40 to 55 per cent carbon content. It is an intermediate stage which happens during the alteration of woody matter into coal. It has high moisture content so it gives smoke when burnt. It is found in Rajasthan, Lakhimpur (Assam), and Tamil Nadu. Peat has less than 40 per cent carbon content. It is in the first stage of transformation from wood to coal. It has low calorific value and burns like wood.`
 },
 {
-    question: `29. The major constituent of biogas is:`,
+    question: `
+29. The major constituent of biogas is:`,
     options: [
         'A. Methane',
         'B. Ethane',
@@ -667,7 +696,8 @@ and roots.`
     exp: `Explanation: Biogas comprises primarily methane (CH4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulphide (H2S), moisture and siloxanes.`
 },
 {
-    question: `30. Carbonisation is a process in which`,
+    question: `
+30. Carbonisation is a process in which`,
     options: [
         'A. Dead vegetation convert into coal',
         'B. Dead marine organisms convert into petroleum',
@@ -678,7 +708,8 @@ and roots.`
     exp: `Explanation: Carbonization is a slow pyrolysis process in which biomass is converted into a highly carbonaceous, charcoal-like material. Typically, carbonization consists of heating the biomass in an oxygen-free or oxygen-limited environment, and reaction conditions are tailored to maximize the production of char. Traditionally, charcoal production is one of the oldest chemical conversion processes known to mankind. Even today, charcoal production continues on a large scale worldwide, and is still making,  use—in part—of tradition charcoal kilns. Furthermore, there is renewed interest to carbonization, both from a scientific and a commercial point of view, for the production and application of biochar and torrefied biomass. This chapter gives an overview of carbonization, its chemistry, and the physicochemical properties of the resulting products. It also highlights the effects of feedstock properties and process conditions and concludes with an overview of traditional and modern carbonization techniques.`
 },
 {
-    question: `31 Consider the following assertions-
+    question: `
+31 Consider the following assertions-
 1. Fibers obtained from animals are known as fleece.
 2. Silk fibers come from cocoons of the silk moth.
 3. Sheep, goat and yak are wool-yielding animals.
@@ -699,7 +730,8 @@ animals; for example (sheep, goat and yak) bear hair on their body.
 `
 },
 {
-    question: `32 Which of the following assertions is/are incorrect?
+    question: `
+32 Which of the following assertions is/are incorrect?
 1. Angora wool is obtained from Angora goats.
 2. Angora goats are found in the hilly regions of Jammu and Kashmir.
 3. Pashmina shawls are made from the soft under fur of Angora
@@ -743,7 +775,8 @@ embroidery.
 `
 },
 {
-    question: `33 Consider the following assertions in terms of silk-
+    question: `
+33 Consider the following assertions in terms of silk-
 1. The rearing of silkworms for obtaining silk is called sericulture.
 2. Silk fibers are made of proteins.
 Which of the above assertions is/are correct?
@@ -768,7 +801,8 @@ becomes silk fibre.
 `
 },
 {
-    question: `34 In relation to silk, which of the following assertions is/are
+    question: `
+34 In relation to silk, which of the following assertions is/are
 correct?
 1. The silk fibre is as strong as steel wire.
 2. Tussar silk, muga silk and kosa silk are different varieties of silk.
@@ -792,7 +826,8 @@ silk moth is the mulberry silk moth.
 `
 },
 {
-    question: `35 Which of the following is not a measurement of temperature?
+    question: `
+35 Which of the following is not a measurement of temperature?
 `,
     options: [
         'A. Celsius',
@@ -809,7 +844,8 @@ temperature). The SI unit of temperature is Kelvin.
 `
 },
 {
-    question: `36 Consider the following assertions :
+    question: `
+36 Consider the following assertions :
 1. The heat flows from a hotter object to a colder object.
 2. The mode of heat transfer that continues till the whole water
 gets heated is known as convection.
@@ -887,7 +923,8 @@ is when electricity passes through wires, which are conductors, so
 we can watch TV or use a computer.`
 },
 {
-    question: `37 Match List I to List II and select the correct answer with
+    question: `
+37 Match List I to List II and select the correct answer with
 the code given below:
 List I List II
 A. Time at which land breeze flows 1.Summer season
@@ -920,7 +957,8 @@ comfortable wearing them in the summer.
 `
 },
 {
-    question: `38 An iron ball at 40°C is dropped in a mug containing water at
+    question: `
+38 An iron ball at 40°C is dropped in a mug containing water at
 40°C. The heat will
 `,
     options: [
@@ -939,7 +977,8 @@ objects.
 `
 },
 {
-    question: `39 More is the difference in temperature of the bodies in
+    question: `
+39 More is the difference in temperature of the bodies in
 contact:
 `,
     options: [
@@ -953,7 +992,8 @@ contact:
 `
 },
 {
-    question: `40 Which of the following pairs may give equal numerical values
+    question: `
+40 Which of the following pairs may give equal numerical values
 of the temperature of a body?
 `,
     options: [
@@ -967,7 +1007,8 @@ of the temperature of a body?
 `
 },
 {
-    question: `41 Match List I to List II and select the correct answer with
+    question: `
+41 Match List I to List II and select the correct answer with
 the code given below:
 List-I (Name of acids/bases) List-II (found in)
 A. Formic acid 1.Ant’s Sting
@@ -1006,7 +1047,8 @@ Name of base Found in
 `
 },
 {
-    question: `42 Consider the following assertions:
+    question: `
+42 Consider the following assertions:
 1. The solutions which do not change the colour of either red or blue
 litmus are known as neutral solutions.
 2. Turmeric, litmus, china rose petals are some of the naturally
@@ -1056,7 +1098,8 @@ close to these sources.
 `
 },
 {
-    question: `43 Which of the following assertions is/are correct with
+    question: `
+43 Which of the following assertions is/are correct with
 reference to soil treatment due to excessive use of chemical
 fertilisers?
 1. Excessive use of chemical fertilisers makes the soil acidic.
@@ -1080,7 +1123,8 @@ releases acids which neutralises the basic nature of the soil.
 `
 },
 {
-    question: `44 Regarding the examples of neutralisation in Everyday Life,
+    question: `
+44 Regarding the examples of neutralisation in Everyday Life,
 consider the following assertions :
 1. The waste of many factories contain acids; therefore, they are
 neutralised by adding basic substances before they are allowed to
@@ -1116,7 +1160,8 @@ contains zinc carbonate.
 `
 },
 {
-    question: `45 Which of the following examples is/are related to physical
+    question: `
+45 Which of the following examples is/are related to physical
 change?
 1. Tearing of paper
 2. Change in color
@@ -1140,7 +1185,8 @@ Rest, other changes are the examples of chemical change.
 `
 },
 {
-    question: `46 In terms of physical and chemical changes, which of the
+    question: `
+46 In terms of physical and chemical changes, which of the
 following assertions is/are correct?
 1. All physical changes are irreversible, while chemical changes are
 reversible.
@@ -1187,7 +1233,8 @@ Chemical Changes
 `
 },
 {
-    question: `47 Which of the following is not a physical change?`,
+    question: `
+47 Which of the following is not a physical change?`,
     options: [
         'A. Boiling of water to give water vapour',
         'B. Melting of ice to give water',
@@ -1203,7 +1250,8 @@ changes as no new products are formed.
 `
 },
 {
-    question: `48 Which of the following are exothermic processes?
+    question: `
+48 Which of the following are exothermic processes?
 1. Reaction of water with quick lime
 2. Dilution of an acid
 3. Evaporation of water
@@ -1237,7 +1285,8 @@ endothermic.
 `
 },
 {
-    question: `49 The process used to prevent rusting of iron, in which a thin
+    question: `
+49 The process used to prevent rusting of iron, in which a thin
 coat of zinc is provided over iron surface. This process is:
 `,
     options: [
@@ -1260,7 +1309,8 @@ zinc.
 `
 },
 {
-    question: `50 Which statement is correct regarding acids?
+    question: `
+50 Which statement is correct regarding acids?
 1. Acid is a molecule which donate proton or accept electron pair in
 reactions.
 2. Acid increases the concentration of hydrogen atoms or hydronium
@@ -1295,7 +1345,8 @@ solution contains water, ions, and the acid (e.g., acetic acid).
 },
 
 {
-    question: `51 Regarding the weather and climate, consider the following
+    question: `
+51 Regarding the weather and climate, consider the following
 assertions —
 1. The day-to-day condition of the atmosphere at a place with
 respect to the temperature, humidity, rainfall, wind speed, etc., is
@@ -1322,7 +1373,8 @@ range of weather extremes for a location.
 `
 },
 {
-    question: `52 In the context of polar areas, consider the following
+    question: `
+52 In the context of polar areas, consider the following
 assertions :
 1. There happens to be six months of day and six months of night.
 2. These regions are covered with snow and the temperature can be
@@ -1349,7 +1401,8 @@ when winter sets in. They come back after the winter is over.
 `
 },
 {
-    question: `53Which of the following assertions is/are true, in terms of
+    question: `
+53Which of the following assertions is/are true, in terms of
 tropical region?
 1. The climate of these areas is generally hot.
 2. These regions get plenty of rainfall.
@@ -1385,7 +1438,8 @@ food on the trees, it rarely comes down on the ground.
 `
 },
 {
-    question: `54 Consider the following assertion and reason carefully:
+    question: `
+54 Consider the following assertion and reason carefully:
 Assertion: The moving air is called the wind.
 Reason: Air moves from the region where the air pressure is high to
 the region where the pressure is low.
@@ -1436,7 +1490,8 @@ pressure is always to your left. (In the Southern Hemisphere, lowpressure system
 `
 },
 {
-    question: `55 Consider the following assertions :
+    question: `
+55 Consider the following assertions :
 1. The regions close to the equator get maximum heat from the Sun.
 2. The warm air rises, and the cooler air from the regions in the 0-
 30 degrees latitude belt, move in the equator from the 30 degree
@@ -1465,7 +1520,8 @@ from the poles to the warmer latitudes.
 `
 },
 {
-    question: `56 In the context of wind flow, which of the following assertions
+    question: `
+56 In the context of wind flow, which of the following assertions
 is/are true?
 1. In winter, the wind flows from the land to the ocean.
 2. In summers, the wind flows from the oceans towards the land.
@@ -1493,7 +1549,8 @@ carry water and it rains.
 `
 },
 {
-    question: `57 Consider the following assertions in the context of
+    question: `
+57 Consider the following assertions in the context of
 thunderstorms and cyclones —
 1. The swift movement of the falling water droplets along with the
 rising air create lightning and sound, is called a thunderstorm.
@@ -1526,7 +1583,8 @@ process.
 `
 },
 {
-    question: `58 In the context of cyclone, which of the following assertions
+    question: `
+58 In the context of cyclone, which of the following assertions
 is/are correct?
 1. The western coast of India is more sensitive than the eastern
 coast in both strength and frequency of cyclones.
@@ -1569,7 +1627,8 @@ the cyclones/depressions further away.
 `
 },
 {
-    question: `59 Consider the following statement about tropical cyclone
+    question: `
+59 Consider the following statement about tropical cyclone
 1. It is characterised by a low-pressure centre.
 2. In this, counter clockwise wind flow in the Northern
 Hemisphere and clockwise wind flow in the Southern Hemisphere.
@@ -1611,7 +1670,8 @@ from high winds and rain in the eyewall to calm conditions in the eye.
 `
 },
 {
-    question: `60 Consider the following factors causes an increase in salinity
+    question: `
+60 Consider the following factors causes an increase in salinity
 of ocean water:
 1. High temperature
 2. High humidity
@@ -1634,7 +1694,8 @@ temperature, but higher humidity do not have high salinity.`
 },
 
 {
-    question: `61 Consider the following assertions, in the context of Vegetative Propagation:
+    question: `
+61 Consider the following assertions, in the context of Vegetative Propagation:
 1. Plant produced by vegetative propagation take less time to grow.
 2. Plants produced by seeds bear flowers earlier than those produced from vegetative propagation.
 Which of the above assertions is/are correct?
@@ -1663,7 +1724,8 @@ produced from a single parent.
 `
 },
 {
-    question: `62 Consider the following assertions in terms of fertility in
+    question: `
+62 Consider the following assertions in terms of fertility in
 various organisms:
 1. Reproduction in yeast takes place through budding.
 2. Reproduction process in algae takes place through fragmentation.
@@ -1696,7 +1758,8 @@ develops into a new individual.
 `
 },
 {
-    question: `63 In the context of pollination in plants, consider the following
+    question: `
+63 In the context of pollination in plants, consider the following
 assertions :
 1. Pollination of pollen grains is done on the stigma of flowers from
 the pollinators.
@@ -1727,7 +1790,8 @@ plant of the same kind, it is called cross-pollination.
 `
 },
 {
-    question: `64 Which equipment measures the distance covered by a vehicle?`,
+    question: `
+64 Which equipment measures the distance covered by a vehicle?`,
     options: [
         'A. Odometer',
         'B. Speedometer',
@@ -1748,7 +1812,8 @@ especially a barometric or radar device fitted in an aircraft.
 `
 },
 {
-    question: `65 In the context of magnetic and heating effects of the electric current, consider the following assertions :
+    question: `
+65 In the context of magnetic and heating effects of the electric current, consider the following assertions :
 1. The wire gets hot when an electric current passes through it.
 2. When electric current passes through a wire, it behaves like a magnet.
 Which of the above assertions is/are correct?`,
@@ -1770,7 +1835,8 @@ effect of the electric current.
 `
 },
 {
-    question: `66 What is the SI unit of electric charge?`,
+    question: `
+66 What is the SI unit of electric charge?`,
     options: [
         'A. Volt',
         'B. Coulomb',
@@ -1792,7 +1858,8 @@ representation of the current.
 `
 },
 {
-    question: `67 What is the work done in moving a unit positive charge from infinity to that point in electric field called?`,
+    question: `
+67 What is the work done in moving a unit positive charge from infinity to that point in electric field called?`,
     options: [
         'A. Electric potential',
         'B. Potential difference',
@@ -1825,7 +1892,8 @@ differences in potential energy are measured with a voltmeter.
 `
 },
 {
-    question: `68 The S.I. unit of force is:`,
+    question: `
+68 The S.I. unit of force is:`,
     options: [
         'A. Kgm/s',
         'B. Kgm/s2',
@@ -1860,7 +1928,8 @@ shape and size.
 `
 },
 {
-    question: `69 The rate of change of momentum of an object is proportional to:`,
+    question: `
+69 The rate of change of momentum of an object is proportional to:`,
     options: [
         'A. Mass of the body',
         'B. Velocity of the body',
@@ -1895,7 +1964,8 @@ F=ma…….(3)
 `
 },
 {
-    question: `70 How many electrons taken together make one coulomb?`,
+    question: `
+70 How many electrons taken together make one coulomb?`,
     options: [
         'A. 6.25 * 10^18 electrons',
         'B. 3.25 * 10^18 electrons',
@@ -1915,7 +1985,8 @@ So, 6.25 × 10^18 electrons make up a total of -1 Coulomb of charge.
 },
 
 {
-    question: `71 Which of the following is the correct sequence of food chain?`,
+    question: `
+71 Which of the following is the correct sequence of food chain?`,
     options: [
         'A. Grass → insects → frog → snake → eagle',
         'B. Eagle → snake → frog → insects → grass',
@@ -1936,7 +2007,8 @@ it affects other food chains too.
 `
 },
 {
-    question: `72 In the context of decomposition, which of the following assertions is/are correct?
+    question: `
+72 In the context of decomposition, which of the following assertions is/are correct?
 1. Decomposers feed upon the dead plant and animal tissues and convert them into a dark coloured substance called humus.
 2. These are helpful in maintaining the supply of nutrients for plants and animals.
 Use the code given below to choose the correct answer.
@@ -1961,7 +2033,8 @@ cycled. So, nothing goes waste in a forest.
 `
 },
 {
-    question: `73 Select the chain that contains primary consumers:`,
+    question: `
+73 Select the chain that contains primary consumers:`,
     options: [
         'A. Bird, rabbit, elephant',
         'B. Grass, parrot, snake',
@@ -1998,7 +2071,8 @@ as zooplankton to animals as big as elephants.
 `
 },
 {
-    question: `74 The correct arrangement in the order from upper layers to lower layer in forests is:`,
+    question: `
+74 The correct arrangement in the order from upper layers to lower layer in forests is:`,
     options: [
         'A. Trees, Shrubs, herbs, vegetation.',
         'B. Vegetation, herbs, shrubs, trees.',
@@ -2010,7 +2084,8 @@ as zooplankton to animals as big as elephants.
     exp: ``
 },
 {
-    question: `75 Consider the following statements regarding adaptation in plants and animals.
+    question: `
+75 Consider the following statements regarding adaptation in plants and animals.
 1. The presence of specific features or certain habits, which enable
 a plant or an animal to live in its surroundings, is called adaptation.
 2. A person who lives in the plains, breathes rapidly in a hilly region,
@@ -2041,7 +2116,8 @@ acclimatisation.
 `
 },
 {
-    question: `76 Through which of the following parts does cactus
+    question: `
+76 Through which of the following parts does cactus
 photosynthesise?
 `,
     options: [
@@ -2065,7 +2141,8 @@ the soil for absorbing water.
 `
 },
 {
-    question: `77 In India the area under forest cover is about of the total
+    question: `
+77 In India the area under forest cover is about of the total
 area?
 `,
     options: [
@@ -2090,7 +2167,8 @@ growth pattern of our forests this decade.
 `
 },
 {
-    question: `78 Column-I Column-II
+    question: `
+78 Column-I Column-II
 A. Crown 1. Branches of tall trees forming a roof in a forest
 B. Understory 2. Plants that climb another trees
 C. canopy 3. different horizontal layers in forests
@@ -2107,7 +2185,8 @@ D. Creepers 4. Branchy part of tree above the stem
     exp: ``
 },
 {
-    question: `79 Consider the following:
+    question: `
+79 Consider the following:
 1. Growth
 2. Response to stimuli
 3. Reproduction
@@ -2132,7 +2211,8 @@ methods are different.
 `
 },
 {
-    question: `80 Plants take in air during respiration. What does the plants
+    question: `
+80 Plants take in air during respiration. What does the plants
 do in the next step?
 `,
     options: [
@@ -2156,7 +2236,8 @@ much more than that used during respiration.
 },
 
 {
-    question: `81. Consider the following statements regarding in vitro fertilization. \n 1. In this technique, after fertilization, the zygote is allowed to develop for 7 days and then transferred to the mother’s uterus. \n 2. Baby born through this method is called test tube baby; because the development of the baby occurs in a test tube. \n Which of the statements given above is/are correct?`,
+    question: `
+81. Consider the following statements regarding in vitro fertilization. \n 1. In this technique, after fertilization, the zygote is allowed to develop for 7 days and then transferred to the mother’s uterus. \n 2. Baby born through this method is called test tube baby; because the development of the baby occurs in a test tube. \n Which of the statements given above is/are correct?`,
     options: [
 
         'A. 1 only',
@@ -2168,7 +2249,8 @@ much more than that used during respiration.
     exp: `Explanation: Fertilization occurring outside the body, artificially, is called in vitro fertilization. If the sperms are unable to reach the egg, due to blockage in the oviduct, the doctor collects fresh sperms and eggs; and fertilizes them in appropriate media for several hours, to bring about IVF or In vitro fertilization. If fertilization occurs, the zygote is allowed to develop for around a week, following which, it is transferred to the mother’s uterus. The test tube baby is born like any other baby and its complete development takes place in the uterus. A baby born through this,  technique is called a test tube baby. This is misleading because babies do not grow in a test tube.`
 },
 {
-    question: `82. The first step of reproduction is called fertilization. Consider the following statements regarding reproduction of organisms. \n 1. The fusion of sperms and ovum is called fertilization. \n 2. Fertilization in all oviparous animals occurs outside the female body. \n Which of the above given statement/statements is/are correct?`,
+    question: `
+82. The first step of reproduction is called fertilization. Consider the following statements regarding reproduction of organisms. \n 1. The fusion of sperms and ovum is called fertilization. \n 2. Fertilization in all oviparous animals occurs outside the female body. \n Which of the above given statement/statements is/are correct?`,
     options: [
 
         'A. Only 1',
@@ -2180,7 +2262,8 @@ much more than that used during respiration.
     exp: `Explanation: Sperm and ovum, both are examples of single celled bodies. The fusion of both is called fertilization, the result of which is the formation of zygote. The cells of zygote divide continuously, to form a ball of cells, after which, the cells differentiate and divide into tissues and organs. This is called an embryo. The embryo undergoes development after being implanted on the wall of the,  uterus. The stage of embryo development, wherein all the body parts are distinguishable, is called foetus. Animals which give birth to offsprings, are called viviparous; and the ones which develop through eggs are called oviparous. Statement 2 is not correct, because fertilisation in some oviparous animals occurs outside the body, and in some, inside the body. Fertilisation in chicken is an example of internal fertilization. In many animals (frogs, toad, fish, starfish, etc), fertilization occurs outside the female body. In these animals, fertilization occurs in water. As soon as the egg is released from the female body, males release the sperms. All the sperms swim in the water with the help of their tail. These sperms, on coming in contact with the membrane of the egg, result in fertilization. This type of fertilization, where male and female gametes fuse outside the female body is called external fertilization.`
 },
 {
-    question: `83. Consider the following pairs regarding reproduction and development of organisms. \n 1. Budding — Reproduction process in Amoeba. \n 2. Binary fission — Reproduction process in Hydra. \n 3. Metamorphosis — Transformation of the larva into an adult through drastic changes. \n Which of the pairs given above are correctly matched?`,
+    question: `
+83. Consider the following pairs regarding reproduction and development of organisms. \n 1. Budding — Reproduction process in Amoeba. \n 2. Binary fission — Reproduction process in Hydra. \n 3. Metamorphosis — Transformation of the larva into an adult through drastic changes. \n Which of the pairs given above are correctly matched?`,
     options: [
 
         'A.1 and 3 only,',
@@ -2192,7 +2275,8 @@ much more than that used during respiration.
     exp: `Explanation: Like plants, animals too have two types of reproduction: 1. Sexual reproduction 2. Asexual reproduction The type of reproduction, wherein only one parent participates is called asexual reproduction. Budding and binary fission are methods of reproduction. Hydra reproduces through budding, and amoeba reproduces through binary fission. The transformation of the larva into adult through drastic changes is called metamorphosis.`
 },
 {
-    question: `84. Consider the following statements regarding cloning: \n 1. It is the process of artificially developing a tissue or any other living part of an animal. \n 2. A sheep, Dolly was the first successfully cloned animal.  \n 3. Dolly was a clone of the Finn Dorset Sheep. \n Which of the statements given above is/are correct?`,
+    question: `
+84. Consider the following statements regarding cloning: \n 1. It is the process of artificially developing a tissue or any other living part of an animal. \n 2. A sheep, Dolly was the first successfully cloned animal.  \n 3. Dolly was a clone of the Finn Dorset Sheep. \n Which of the statements given above is/are correct?`,
     options: [
 
         'A. 1 only',
@@ -2204,7 +2288,8 @@ much more than that used during respiration.
     exp: `Explanation: Cloning is the production of an exact copy of a cell, any other living part, or a complete organism.Cloning of an animal was successfully performed for the first time by Ian Wilmut and his colleagues at the Roslin Institute in Edinburgh, Scotland. During the process of cloning Dolly, a cell was collected from the mammary gland of a female Finn Dorset sheep. Simultaneously, an egg was obtained from a Scottish blackface ewe. The nucleus was removed from the egg. Then, the nucleus of the mammary gland cell from the Finn Dorset sheep was inserted into the egg of the Scottish blackface ewe whose nucleus had been removed. The egg thus produced was implanted into the Scottish blackface ewe. Development of this egg followed normally and finally Dolly was born.`
 },
 {
-    question: `85. Consider the following statements regarding cell:  \n 1. It is the smallest living part of any living organism. \n 2. The first cell was discovered by Antonie van Leeuwenhoek. \n 3. The smallest cell is bacteria and the largest is ostrich egg. \n Which of the statements given above is/are correct?`,
+    question: `
+85. Consider the following statements regarding cell:  \n 1. It is the smallest living part of any living organism. \n 2. The first cell was discovered by Antonie van Leeuwenhoek. \n 3. The smallest cell is bacteria and the largest is ostrich egg. \n Which of the statements given above is/are correct?`,
     options: [
 
         'A. 1 and 2 only',
@@ -2216,7 +2301,8 @@ much more than that used during respiration.
     exp: `Explanation: The smallest living part of any organism is called cell. Hence, it is the structural unit of all organisms. Many cells together form the tissue, and tissue forms organs. The cells of cork were the first to be discovered in the year 1665; by Robert Hooke. Antonie van Leeuwenhoek was the first to discover bacteria. The smallest cell is the bacterial cell, and the largest is an ostrich egg; hence, statement 3 is also incorrect.`
 },
 {
-    question: `86. Consider the following statements: \n 1. Amoeba \n 2. Paramecium  \n 3. Hen's egg \n 4. White blood cells (WBCs) \n Which of the above are examples of unicellular bodies?`,
+    question: `
+86. Consider the following statements: \n 1. Amoeba \n 2. Paramecium  \n 3. Hen's egg \n 4. White blood cells (WBCs) \n Which of the above are examples of unicellular bodies?`,
     options: [
 
         'A. 1 and 2 only',
@@ -2228,7 +2314,8 @@ much more than that used during respiration.
     exp: `Explanation: An organism comprising of one cell is called unicellular. Amoeba, paramecium, hen’s egg and White Blood Cells are all examples of unicellular organisms.Organisms made up of more than one cell are called multicellular. In unicellular organisms, the single cell itself performs all the activities that multicellular organisms do, like respiration, growth, excretion, reproduction, etc; which are performed by groups of tissues in multicellular organisms.`
 },
 {
-    question: `87. The basic components of cell are cell membrane, cytoplasm and nucleus. Consider the following statements regarding these components of the cell: \n 1. Plasma membrane separates one cell from another and from the surrounding medium. \n 2. Cytoplasm is the jelly like substance found between the cell membrane and the nucleus. \n 3. Chromosomes are present in the nucleus. \n Which of the statements given above is/are correct?`,
+    question: `
+87. The basic components of cell are cell membrane, cytoplasm and nucleus. Consider the following statements regarding these components of the cell: \n 1. Plasma membrane separates one cell from another and from the surrounding medium. \n 2. Cytoplasm is the jelly like substance found between the cell membrane and the nucleus. \n 3. Chromosomes are present in the nucleus. \n Which of the statements given above is/are correct?`,
     options: [
 
         'A. 1 and 2 only',
@@ -2240,7 +2327,8 @@ much more than that used during respiration.
     exp: `Explanation: Various components of the cell have a boundary, which is known as plasma membrane or cell membrane. This membrane separates one cell from another and also from the surrounding medium. It is porous and allows various substances t enter the cell. This membrane [provides structure to the plant and animal cells. Cytoplasm is a jelly like substance, which is found between the cell membrane and nucleus. The other components of the cell (mitochondria, golgi complex, ribosomes, etc) are found in the cytoplasm itself.,  Nuclei are circular in shape and present in the central region of the cytoplasm. The nuclear membrane separates the nucleus from the cytoplasm. This nuclear membrane is also porous ad regulates the incoming and outgoing of materials between the cytoplasm and the nucleus. This nuclear membrane is absent in the bacterial cells. Nucleolus and chromosomes are present within the nucleus. Chromosomes are present within the nucleus. Chromosomes carry genes and can be seen only when the cell divides. These help in inheritance or transfer of characters from the parents to the offsprings.`
 },
 {
-    question: `88. Consider the following statements regarding prokaryotic cells. \n 1. Nuclear membrane is absent in prokaryotic cells. \n 2. Virus and blue green algae are examples of the same. \n Which of the above given statement/ statements is/are correct?`,
+    question: `
+88. Consider the following statements regarding prokaryotic cells. \n 1. Nuclear membrane is absent in prokaryotic cells. \n 2. Virus and blue green algae are examples of the same. \n Which of the above given statement/ statements is/are correct?`,
     options: [
 
         'A. Only 1',
@@ -2252,7 +2340,8 @@ much more than that used during respiration.
     exp: `Explanation: The cells which do not have a well organised nucleus, are called prokaryotic cells. In contrast, cells with a well organised nucleus are called eukaryotic cells. Organisms with prokaryotic cells are called prokaryotes. Bacteria and blue green algae are the examples of the same. Virus are neither prokaryotic, nor eukaryotic. Organisms with eukaryotic cells are called eukaryotes. Onion and human cells are examples of the same.`
 },
 {
-    question: `89. Plant and animal cells are different from one another. Consider the following statements regarding these differences: \n 1. Animal cells, in contrast to the plant cells, have an additional boundary of cell wall. \n 2. Plastids are found only in plant cells. \n 3. There are many small vacuoles in animal cells, whereas plant cells have one, central vacuole. \n Which of the statements given above is/are correct?`,
+    question: `
+89. Plant and animal cells are different from one another. Consider the following statements regarding these differences: \n 1. Animal cells, in contrast to the plant cells, have an additional boundary of cell wall. \n 2. Plastids are found only in plant cells. \n 3. There are many small vacuoles in animal cells, whereas plant cells have one, central vacuole. \n Which of the statements given above is/are correct?`,
     options: [
 
         'A. 1 only',
@@ -2264,7 +2353,8 @@ much more than that used during respiration.
     exp: `Explanation: Animal cells are devoid of cell wall. Cell wall is present in plant cells, apart from the cell membrane. It provides rigidity and shape to the plant cell. Bacterial cells also possess cell wall. Plastids are found only in plant cells. These are mostly variously coloured. Some of these have chlorophyll, which is a green pigment. Green plastids are called chloroplast, which provide green colour to the leaves. Animal cells have many small vacuoles and plant cells have one big, central vacuole. Hence, statement 3 is correct.`
 },
 {
-    question: `900. Which of the following cells act as messengers?`,
+    question: `
+900. Which of the following cells act as messengers?`,
     options: [
 
         'A. Spherical RBCs',
@@ -2276,7 +2366,8 @@ much more than that used during respiration.
     exp: `Explanation: There are many types of cells in the human body, which differ in shape and labour. The function of receiving messages and transmitting is performed by nerve cells. These cells are long and branched. Similarly, blood cells are circular and muscle cells are spindle shaped. In case of plant cells, amoeba is a cell which has an irregular shape. The irregular shape of amoeba results in the formation of pseudopodia, which provides it motion and helps in capturing food.`
 },
 {
-    question: `91 United Nations celebrate world water day on?`,
+    question: `
+91 United Nations celebrate world water day on?`,
     options: [
         'A. March 22',
         'B. April 22',
@@ -2290,7 +2381,8 @@ Explanation:  22nd March is celebrated as the World Water Day; to attract the
 `
 },
 {
-    question: `92 Consider the following —
+    question: `
+92 Consider the following —
 1. Evaporation
 2. Transpiration
 3. Condensation
@@ -2309,7 +2401,8 @@ Explanation:  The process of transformation of water vapour into its liquid f
 `
 },
 {
-    question: `93 Consider the following statements regarding water cycle:
+    question: `
+93 Consider the following statements regarding water cycle:
 1. Water enters the air through evaporation and condensation.
 2. Transpiration plays an important role in bringing the water back to
 the earth’s surface.
@@ -2329,7 +2422,8 @@ Which of the statements given above is/are correct?
 `
 },
 {
-    question: `94 Which of the following are not the liquid forms of water?
+    question: `
+94 Which of the following are not the liquid forms of water?
 A. Snow
 B. Lake water
 C. River water
@@ -2348,7 +2442,8 @@ Choose the correct options :
     exp: `Answer: A`
 },
 {
-    question: `95 The number of g-molecule of oxygen in 6.02 x 1024CO molecules is`,
+    question: `
+95 The number of g-molecule of oxygen in 6.02 x 1024CO molecules is`,
     options: [
         'A. 1 gram of molecule',
         'B. 0.5 gram of molecule',
@@ -2364,7 +2459,8 @@ Since Oxygen is diatomic,
 10 g-atom = 12x10g-molecule of Oxygen = 5 gram-molecule of O2 = 5 grams of O2 molecule.`
 },
 {
-    question: `96 Seas and oceans are full of water on earth. However, a
+    question: `
+96 Seas and oceans are full of water on earth. However, a
 very small percentage of water present on earth is available for
 us. This percentage is roughly:`,
     options: ['A. 0.006%.',
@@ -2379,7 +2475,8 @@ Explanation: About 72 percent of the Earth's surface is watercovered, and the oc
 `
 },
 {
-    question: `97 Every Drop Counts” is a slogan related to`,
+    question: `
+97 Every Drop Counts” is a slogan related to`,
     options: ['A. counting of drops of any liquid.',
         'B. counting of water drops.',
         'C. importance of water.',
@@ -2390,7 +2487,8 @@ Explanation: About 72 percent of the Earth's surface is watercovered, and the oc
     exp: `Answer: C`
 },
 {
-    question: `98 Which of the following things should be present in drinking water?`,
+    question: `
+98 Which of the following things should be present in drinking water?`,
     options: ['A. Suspended impurities',
         'B. Dissolved gases like O2&CO2',
         'C. Germs and bacteria',
@@ -2401,7 +2499,8 @@ Explanation: About 72 percent of the Earth's surface is watercovered, and the oc
     exp: `Answer: B`
 },
 {
-    question: `99 Which of the following is a traditional method of collecting water?`,
+    question: `
+99 Which of the following is a traditional method of collecting water?`,
     options: [
         'A. Bawari',
         'B. well',
@@ -2415,7 +2514,8 @@ Explantion: Bawri is a traditional method. it is a step-well in which rainwater 
 `
 },
 {
-    question: `100 The process of recharging ground water using rain water is called`,
+    question: `
+100 The process of recharging ground water using rain water is called`,
     options: [
         'A. drip irrigation',
         'B. water harvesting',
@@ -2430,7 +2530,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
 },
 
 {
-    question: `101. Which of the following statements is not correct about deforestation?`,
+    question: `
+101. Which of the following statements is not correct about deforestation?`,
     options: [
         'A. Deforestation increases the temperature on the earth.',
         'B. Ground water level gets lowered.',
@@ -2441,7 +2542,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Deforestation means that less carbon dioxide will be taken up by the plants, resulting in increase in its amount in the atmosphere. This will lead to global warming as carbon dioxide traps the heat rays reflected by the earth.Deforestation also lowers the ground water level. The major reason behind the changes of soil properties is deforestation. This causes soil erosion. Soil erosion lowers the content of humus in soil and soil fertility also declines. Soil erosion also causes desertification.Deforestation adversely affects the water holding capacity of the soil. The movement of water from the soil surface into the ground (infiltration rate) is reduced. This is responsible for floods.`
 },
 {
-    question: `102. Consider the following statements: \n 1. The plants and animals found in a particular area are termed flora and fauna of that area. \n 2. Endemic species are those species of plants and animals which are found exclusively in a particular area. \n Which of the statements given above is/are correct?`,
+    question: `
+102. Consider the following statements: \n 1. The plants and animals found in a particular area are termed flora and fauna of that area. \n 2. Endemic species are those species of plants and animals which are found exclusively in a particular area. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 only',
         'B. 2 only',
@@ -2452,7 +2554,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: The plants and animals found in a particular area are termed as flora and fauna of that area. Endemic species are those species of plants and animals which are found exclusively in a particular area. They are not naturally found anywhere else.`
 },
 {
-    question: `103. To protect the flora, fauna and their habitat; certain protected areas have been marked. Which of the following protected areas is/are correctly matched? \n 1. Sanctuaries: Places where killing (poaching) or capturing of animals is strictly prohibited. \n National Parks: Protected areas for the wildlife, where they can live freely and utilise the natural resources. \n 2. Biosphere Reserves: The biosphere reserves help to maintain the variety of plants, animals and microorganisms along with the culture generally found in an area. \n Which of the statements given above is/are correct?`,
+    question: `
+103. To protect the flora, fauna and their habitat; certain protected areas have been marked. Which of the following protected areas is/are correctly matched? \n 1. Sanctuaries: Places where killing (poaching) or capturing of animals is strictly prohibited. \n National Parks: Protected areas for the wildlife, where they can live freely and utilise the natural resources. \n 2. Biosphere Reserves: The biosphere reserves help to maintain the variety of plants, animals and microorganisms along with the culture generally found in an area. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 and 2 only',
         'B. 2 only',
@@ -2463,7 +2566,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Of the various places meant for the protection of the flora and fauna, sanctuaries, national parks and biosphere reserves are the primary. Wildlife sanctuaries provide protection and suitable living conditions to wild animals. Sanctuaries are places where killing (poaching) or capturing of animals is strictly prohibited. Hence, the wildlife and their habitat are protected from any form of interference. The local population and certain human interference is allowed, which makes it different from biosphere reserves. National Parks are protected spaces for the wildlife, where any form of human interference is prohibited. Hence, the wildlife can freely live here and utilise the natural resources. The biosphere reserves help to maintain the variety of plants, animals and microorganisms along with the culture generally found in an area. A biosphere reserve is so large that it can have several protected areas within it. These protected areas are constructed to protect the biodiversity of a specific area. A biosphere reserve also protects the culture of a given area. To protect our flora and fauna and their habitats, protected areas called sanctuaries, national parks and biosphere reserves have been earmarked. Plantation, cultivation, grazing, felling trees, hunting. Biodiversity refers to the various types of species plants, animals and microbes present in a particular area. Bharatpur Sanctuary, Kaziranga National Park, Bhadra Wildlife Sanctuary, Great Nicobar Biosphere Reserve are some of the examples of protected areas.`
 },
 {
-    question: `104. Consider the following statements about Pachmarhi Biosphere Reserve: \n 1. The Pachmarhi Biosphere Reserve consists of one national park named Pench and two wildlife sanctuaries called Bori and Pachmarhi. \n 2. Bison, Indian giant squirrel and Flying squirrel are the Endemic Fauna of Pachmarhi Biosphere reserve. \n 3. Rock shelters are also found inside the Satpura National Park. These are the prehistoric evidences of human life in these jungles. They give us an idea of the life of the primitive people. Rock paintings are found in these shelters. \n Which of the statements given above is/are correct?`,
+    question: `
+104. Consider the following statements about Pachmarhi Biosphere Reserve: \n 1. The Pachmarhi Biosphere Reserve consists of one national park named Pench and two wildlife sanctuaries called Bori and Pachmarhi. \n 2. Bison, Indian giant squirrel and Flying squirrel are the Endemic Fauna of Pachmarhi Biosphere reserve. \n 3. Rock shelters are also found inside the Satpura National Park. These are the prehistoric evidences of human life in these jungles. They give us an idea of the life of the primitive people. Rock paintings are found in these shelters. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 and 2 only',
         'B. 2 and 3 only',
@@ -2474,7 +2578,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Statement 1 is not correct because the Pachmarhi Biosphere Reserve consists of one national park named Satpura and two wildlife sanctuaries named Bori and Pachmarhi. Satpura National Park is India’s first Reserve forest. The best form of teak is found in this region. Bison, Indian giant squirrel and Flying squirrel are the Endemic Fauna of Pachmarhi Biosphere reserve; and Sal and wild mango are the Endemic Flora. Sal, teak, mango, jamun, silver ferns, arjun, etc are the flora and chinkara, blue-bull, barking deer, cheetah, leopard, wild dog, wolf, etc. are examples of the fauna of the Pachmarhi Biosphere Reserve. Rock shelters are also found inside the Satpura National Park. Rock paintings are found in these shelters.`
 },
 {
-    question: `105. Which of the following statements is/are correct regarding the Red Data Book? \n 1. It is a book which records all the Endemic Species of a region. \n 2. It is a book where the records of Biosphere Reserves are maintained. \n 3. It is a book which maintains the records of all the endangered species. \n Select the correct option from the codes given below:`,
+    question: `
+105. Which of the following statements is/are correct regarding the Red Data Book? \n 1. It is a book which records all the Endemic Species of a region. \n 2. It is a book where the records of Biosphere Reserves are maintained. \n 3. It is a book which maintains the records of all the endangered species. \n Select the correct option from the codes given below:`,
     options: [
         'A. Only 1 and 2',
         'B. Only 1 and 3',
@@ -2485,7 +2590,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Red Data book is a book which maintains a record of all the endangered species. There are separate Red Data Books for plants, animals and other organisms.The endangered species are protected in Wildlife sanctuaries. Large and small, all types of animals are protected in these sanctuaries, because their contribution to the ecosystem cannot be ignored. Small organisms face the danger of extinction much more than larger animals.`
 },
 {
-    question: `106. Which of the following is/are part of the ecosystem?`,
+    question: `
+106. Which of the following is/are part of the ecosystem?`,
     options: [
         'A. All trees and plants',
         'B. All organisms and microorganisms',
@@ -2496,7 +2602,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: For any given area, all the plants, trees, organisms, microorganisms, non living things, like water, soil, river, delta, sunlight, etc together comprise of the ecosystem.`
 },
 {
-    question: `107. Which of the following statement is related to the Ex situ conservation? `,
+    question: `
+107. Which of the following statement is related to the Ex situ conservation? `,
     options: [
         'A. Established protected area network, with appropriate management practices, corridors to link fragments restore degraded habitats within and outside. ',
         'B. Established botanical and zoological gardens conservation stands, bank of germ plasma pollen, seed, seedlings, tissue culture, gene and DNA etc. ',
@@ -2507,7 +2614,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Ex-situ conservation involves maintenance and breeding of endangered plants and animals under partially or wholly controlled conditions in specific areas including zoo, gardens, nurseries, etc. That is, the conservation of selected plants and animals in selected areas outside their natural habitat is known as ex-situ conservation. The stresses on living organisms due to competition for food, water, space etc. can be avoided by ex-situ conservation there by providing conditions necessary for a secure life and breeding. For ex-situ conservations the species to be conserved should be identified followed by adoption of different ex-situ methods such as, longterm captive breeding and propagation for the species which have lost their habitats permanently, short-term propagation and release of the animals in their natural habitat, animal translocation and reintroduction and advanced technology in the service of endangered species. The different advantages of ex-situ conservation are, 1. It gives longer life time and breeding activity to animals 2. Genetic techniques can be utilized in the process 3. Captivity breed species can again be reintroduced in the wild The ex-situ conservation strategies include botanical gardens, zoological gardens, conservation stands and gene, pollen, seed, seedling, tissue culture and DNA banks. Seed gene banks make the easiest way to store germplasm of wild and cultivated plants at low temperature. While in field gene banks, preservation of genetic resources is being done under normal growing conditions.`
 },
 {
-    question: `108. On which date International Day for Biodiversity is observed?`,
+    question: `
+108. On which date International Day for Biodiversity is observed?`,
     options: [
         'A. May, 15',
         'B. May, 20',
@@ -2518,7 +2626,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: The United Nations has proclaimed May 22 The International Day for Biological Diversity (IDB) to increase understanding and awareness of biodiversity issues. When first created by the Second Committee of the UN General Assembly in late 1993, 29 December (the date of entry into force of the Convention of Biological Diversity), was designated The International Day for Biological Diversity. In December 2000, the UN General Assembly adopted 22 May as IDB, to commemorate the adoption of the text of the Convention on 22 May 1992 by the Nairobi Final Act of the Conference for the Adoption of the Agreed Text of the Convention on Biological Diversity. This was partly done because it was difficult for many countries to plan and carry out suitable celebrations for the date of 29 December, given the number of holidays that coincide around that time of year.`
 },
 {
-    question: `109. Find out the correct definition of 'Biodiversity'.`,
+    question: `
+109. Find out the correct definition of 'Biodiversity'.`,
     options: [
         'A. The variety of plant and animal life in the world or in a particular habitat, a high level of which is usually considered to be important and desirable.',
         'B. It encompasses the interaction of all living species. Climate, weather, and natural resources that affect human survival and economic activity.',
@@ -2529,7 +2638,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: The term biodiversity (from “biological diversity”) refers to the variety of life on Earth at all its levels, from genes to ecosystems, and can encompass the evolutionary, ecological, and cultural processes that sustain life. Biodiversity is important to most aspects of our lives. We value biodiversity for many reasons, some utilitarian, some intrinsic. This means we value biodiversity both for what it provides to humans, and for the value it has in its own right. Utilitarian values include the many basic needs humans obtain from biodiversity such as food, fuel, shelter, and medicine. Further, ecosystems provide crucial services such as pollination, seed dispersal, climate regulation, water purification, nutrient cycling, and control of agricultural pests. Biodiversity also holds value for potential benefits not yet recognized, such as new medicines and other possible unknown services. Biodiversity has cultural value to humans as well, for spiritual or religious reasons for instance. The intrinsic value of biodiversity refers to its inherent worth, which is independent of its value to anyone or anything else. This is more of a philosophical concept, which can be thought of as the inalienable right to exist. Finally, the value of biodiversity can also be understood through the lens of the relationships we form and strive for with each other and the rest of nature. We may value biodiversity because of how it shapes who we are, our relationships to each other, and social norms. These relational values are part of peoples’ individual or collective sense of wellbeing, responsibility for, and connection with the environment. The different values placed on biodiversity are important because they can influence the conservation decisions people make every day.`
 },
 {
-    question: `110. What does the term 'MIKE' stands for?`,
+    question: `
+110. What does the term 'MIKE' stands for?`,
     options: [
         'A. Monitoring of Illegal Killing of Elephants',
         'B. Monitoring of Illegal Killing in Europe',
@@ -2541,7 +2651,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
 },
 
 {
-    question: `111. In India, crops are classified into two groups, on the basis of the season they grow-Rabi crops and Kharif crops. In the context of these crops, consider the following statements: \n 1. Kharif crops are sown in summer. \n 2. Rabi crops are grown in winter. \n Which of the statements given above is/are correct?`,
+    question: `
+111. In India, crops are classified into two groups, on the basis of the season they grow-Rabi crops and Kharif crops. In the context of these crops, consider the following statements: \n 1. Kharif crops are sown in summer. \n 2. Rabi crops are grown in winter. \n Which of the statements given above is/are correct?`,
     options: ['A. 1 only',
         'B. 2 only',
         'C. Both 1 and 2',
@@ -2552,7 +2663,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: kharif crops are sown during the monsoon (June to September), and not in summer. Rice, corn, soybean, groundnut, cotton, etc. are Kharif crops. Rabi crops are grown in winter. Wheat, chickpea, pea, mustard, flax are examples of Rabi crops.Apart from this, several pulses and vegetables are grown in the summer season, in many places.`
 },
 {
-    question: `112. With regard to organic manure, consider the following statements: \n 1. It enhances the water holding capacity of the soil. \n 2. It makes the soil loose and porous. \n 3. It enhances the number of friendly microbes. \n Which of the statements given above is/are correct?`,
+    question: `
+112. With regard to organic manure, consider the following statements: \n 1. It enhances the water holding capacity of the soil. \n 2. It makes the soil loose and porous. \n 3. It enhances the number of friendly microbes. \n Which of the statements given above is/are correct?`,
     options: ['A. 1 only',
         'B. 1 and 2 only',
         'C. 2 and 3 only',
@@ -2563,7 +2675,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Organic manure is better than chemical fertilizers. While organic manure enhances the water holding capacity of the soil, makes the soil porous and loose, and increases the number of friendly microbes; prolonged use of chemical fertilizers decline the soil fertility and also cause water pollution. Chemicals are used as pesticides and weedicides as well. 2, 4 D is an example of weedicide. The chemicals present in these increase the chemical content of the soil.`
 },
 {
-    question: `113. Cod liver oil contains high amount of vitamin D. From which of the following animals, is cod liver oil obtained?`,
+    question: `
+113. Cod liver oil contains high amount of vitamin D. From which of the following animals, is cod liver oil obtained?`,
     options: ['A. Frog',
         'B. Fish',
         'C. Snake',
@@ -2574,7 +2687,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Cod liver oil is obtained from fishes. It is abundant in vitamin A and D. It is also rich in other nutrients.`
 },
 {
-    question: `114. Which one of the following is a preservative used in preservation of fruits as jams and jellies?`,
+    question: `
+114. Which one of the following is a preservative used in preservation of fruits as jams and jellies?`,
     options: ['A. Mustard oil',
         'B. Vinegar',
         'C. Sugar',
@@ -2585,7 +2699,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: SUGAR and Citric Acid (Lemon Juice) are the main preservativesThe product is preserved by lowering the water activity by cooking the fruit (evaporating water) in a very high sugar concentration. Acid helps by lowering the pHAfter the jam is ready it is hot-filled to a clean jar, which is sterilized by the heat from the jam. The inversion of the jars helps by sterilizing the lid. Vinegar contains acetic acid, it is perfectly suited to preserve foods. It works because most of microorganisms responsible to destroying food cannot live in an acetic acid environment. Preservation is probably the most common reason vinegar is used in food preparation. The use of mustard oil or vinegar prevents the spoilage of fruits and vegetable because food-spoiling bacteria cannot live in such an environment. They are used as preservative for preserving fruits such as raw mango,amla and lemon in the form of their pickles.`
 },
 {
-    question: `115. Beans and peas are preferably grown in nitrogen deficient soil because: \n 1. They absorb most of the nitrogen from the soil. \n 2. They are leguminous plants. \n 3. They have rhizobium in root nodules which can fix atmospheric nitrogen. \n 4. They are green plants.`,
+    question: `
+115. Beans and peas are preferably grown in nitrogen deficient soil because: \n 1. They absorb most of the nitrogen from the soil. \n 2. They are leguminous plants. \n 3. They have rhizobium in root nodules which can fix atmospheric nitrogen. \n 4. They are green plants.`,
     options: ['A. 1 and 2',
         'B. 2 and 3',
         'C. 3 and 4',
@@ -2596,7 +2711,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Bean and Peas are leguminous plants. They fix nitrogen in the soil with the help of Rhizobium bacteria present in the root nodules of the plants.Thus, they fix nitrogen and replenish the deficiency of nitrogen in the soil. Therefore, farmers prefer to grow bean and peas in nitrogen deficient soil.`
 },
 {
-    question: `116. Which one of the following crops does not require nitrogenous fertiliser?`,
+    question: `
+116. Which one of the following crops does not require nitrogenous fertiliser?`,
     options: ['A. Wheat',
         'B. Millet',
         'C. Beans',
@@ -2607,7 +2723,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Beans is legume crop.A legume crop does not require nitrogenous fertilizers because its roots have root nodules that have nitrogenous bacteria called Rhizobium. This bacteria fixes atmospheric nitrogen and the plants converts nitrogen into various nitrogenous compounds.`
 },
 {
-    question: `117. Which one of the following pairs is incorrect?`,
+    question: `
+117. Which one of the following pairs is incorrect?`,
     options: ['A. Rust of wheat - fungi',
         'B. Citrus canker - bacteria',
         'C. Yellow vein mosaic - Virus',
@@ -2618,7 +2735,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: ``
 },
 {
-    question: `118. The process of loosening and turning the soil is called:`,
+    question: `
+118. The process of loosening and turning the soil is called:`,
     options: ['A. Ploughing',
         'B. Levelling',
         'C. Manuring',
@@ -2629,7 +2747,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: The processing of loosening and turning the soil is called 'tilling' or 'ploughing' of the soil. It the the most important task in the field of agriculture. It is very important to loosen the soil because it allows the roots of the plants to penetrate deep into the soil. This provides roots the space to expand under the surface of the earth. The loosened soil helps in the growth of earthworms and microbes which add humus to the soil and increase the fertility. Loosening and turning the soil brings the nutrients to the top so that the plants can use them.`
 },
 {
-    question: `119. Which one among the following is a useful microorganism? \n 1. Salmonella typhi \n 2. Rhizobium \n 3. Lactobacillus \n 4. Rhinovirus`,
+    question: `
+119. Which one among the following is a useful microorganism? \n 1. Salmonella typhi \n 2. Rhizobium \n 3. Lactobacillus \n 4. Rhinovirus`,
     options: ['A. 1 and 2',
         'B. 2 and 3',
         'C. 3 and 4',
@@ -2640,7 +2759,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Rhizobium are a group of Gram-negative soil bacteria \n that are well known for their symbiotic relationship with various \n leguminous (soybeans, alfalfa etc). Rhizobia are diazotrophic \n bacteria that fix nitrogen after becoming established inside the \n root nodules of legumes (Fabaceae). To express genes for nitrogen \n fixation, rhizobia require a plant host; they cannot independently fix \n nitrogen. In general, they are gram negative, motile, non-sporulating \n rods. \n Lactobacillus is a type of bacteria. There are lots of different \n species of lactobacillus bacteria. These are "friendly" bacteria that \n normally live in our digestive, urinary, and genital systems without \n causing disease. Lactobacillus is also in some fermented foods like \n yogurt and in dietary supplements.Lactobacillus is most commonly \n taken by mouth to treat and prevent diarrhea, including infectious \n diarrhea and diarrhea linked with using antibiotics. Some people also \n take lactobacillus by mouth for general digestion problems, irritable \n bowel syndrome (IBS), colic in babies, inflammatory bowel \n disease (IBD), inflammation of the colon, stomach pain, constipation, \n and many other conditions but there is no good scientific evidence to \n support many of these uses.`
 },
 {
-    question: `120. Which leaves are used to protect stored grains from insects and microorganisms?`,
+    question: `
+120. Which leaves are used to protect stored grains from insects and microorganisms?`,
     options: ['A. Mango leaves',
         'B. Peepal leaves',
         'C. Banana leaves',
@@ -2651,7 +2771,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Neem tree is native of India. Its leaves contain chemicals such as Nimbin which have antifungal, antibacterial property. Hence, dried neem leaves are used for storing food grains at home. Neem leaves kept in stored grain, protect from pests and microorganisms.`
 },
 {
-    question: `121. The term Municipal Solid Waste (MSW) is generally used to describe:`,
+    question: `
+121. The term Municipal Solid Waste (MSW) is generally used to describe:`,
     options: [
         'A. Wastes from industrial processes, construction and demolition debris.',
         'B. Wastes from Private homes, commercial establishments and institutions.',
@@ -2662,7 +2783,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: B Municipal Solid Waste, also called garbage or trash, is nonhazardous disposable materials generated by households, institutions, industries, agriculture, and sewage. It is made up of waste, organics, and recyclable materials, with the municipality overseeing its disposal. Typically, municipal solid waste is collected, sperate and sent to either a landfill or municipal recycling center for processing. Municipal solid waste may contain a variety of pathogens, a source of which is often disposable diapers—it has been found that as many as 10% of the fecally soiled disposable diapers entering landfills contain enteroviruses. Another primary source of pathogens is sewage biosolids, where codisposal is practiced. Pathogens may also be present in domestic pet waste (e.g., cat litter) and food wastes. Municipal solid wastes from households have been found to average 7.7 × 108 coliforms and 4.7 × 108 fecal coliforms per gram. Salmonella have also been detected in domestic solid waste. In unlined landfills, such pathogens may be present in the leachate beneath landfills. Municipal solid waste represents a major crisis for rural communities because of the lack of awareness of the effects of people dumping their waste in the water canals causing water pollution as well as visual pollution. Others might burn the MSW in the streets causing air pollution as well as visual pollution. The municipal solid waste consists of organic waste, waste paper, plastic waste, tin cans, aluminum cans, textile, glass, etc. as discussed in Chapter 5. It is always recommended to establish a transfer station in rural communities because of low quantity. The transfer station consists of a conveyer belt for sorting, a hydraulic press for compacting paper, tin cans, textile, etc., and a ball mill to crush glass waste. It is always recommended to establish centralized recycling facilities among a number of rural communities.`
 },
 {
-    question: `122. What is true about Aerobic bacteria?`,
+    question: `
+122. What is true about Aerobic bacteria?`,
     options: [
         'A. Flourish in the presence of free oxygen',
         'B. Consume organic matter as their food',
@@ -2673,7 +2795,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: D An aerobic organism or aerobe is an organism that can survive and grow in an oxygenated environment. In contrast, an anaerobic organism (anaerobe) is any organism that does not require oxygen for growth. Some anaerobes react negatively or even die if oxygen is present.`
 },
 {
-    question: `123. Which of the following can be found as pollutants in the drinking water in some parts of India? \n 1. Arsenic \n 2. Sorbitol \n 3. Fluoride \n 4. Formaldehyde \n 5. Uranium \n Select the correct answer using the codes given below.`,
+    question: `
+123. Which of the following can be found as pollutants in the drinking water in some parts of India? \n 1. Arsenic \n 2. Sorbitol \n 3. Fluoride \n 4. Formaldehyde \n 5. Uranium \n Select the correct answer using the codes given below.`,
     options: [
         'A. 1 and 3 only',
         'B. 2, 4 and 5 only',
@@ -2684,7 +2807,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: C  The easiest option is 3) Fluoride. So, (b) can be eliminated.  The next easiest option is Arsenic (Heavy metal). Damn!  Nest easiest option is Uranium. Many columns are written on uranium mining and its ill-effects. So, (a) also can be elevated. (a) and (b) eliminated. (c) and (d) remains.  The knowledge of either “Sorbitol” or “Formaldehyde” will tell us the answer.  Formaldehyde is more known than sorbitol. Googling didn’t give me any authentic source that called formaldehyde a water pollutant. It is used as a preservative to preserve human organs. It finds some application in textile, resigns and wood industry.  Sorbitol (glucitol) is a sugar alcohol with a sweet taste which the human body metabolises slowly.`
 },
 {
-    question: `124. With reference to sources of water pollution, which of the following is/are true? \n 1. Natural sources \n 2. Domestic sources \n 3. Agricultural sources \n 4. Industrial sources \n Select the correct answer from the following codes`,
+    question: `
+124. With reference to sources of water pollution, which of the following is/are true? \n 1. Natural sources \n 2. Domestic sources \n 3. Agricultural sources \n 4. Industrial sources \n Select the correct answer from the following codes`,
     options: [
         'A. Only 4',
         'B. Only 2, 3 and 4',
@@ -2695,7 +2819,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: D Water pollution is caused by a variety of human activities such as industrial, agricultural and domestic and also by natural sources. Natural sources of pollution of water are soil erosion, leaching of minerals from rocks and decaying of organic matter.`
 },
 {
-    question: `125. Which of the following pairs are correctly matched? Pollutant Disease \n 1. Arsenic Skin Cancer \n 2. Lead Itai - Itai \n 3. Cadmium displexia \n Select the correct answer from the following codes`,
+    question: `
+125. Which of the following pairs are correctly matched? Pollutant Disease \n 1. Arsenic Skin Cancer \n 2. Lead Itai - Itai \n 3. Cadmium displexia \n Select the correct answer from the following codes`,
     options: [
         'a. Only 1',
         'b. Only 1 and 2',
@@ -2706,7 +2831,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: D Pollution of water bodies by mercury causes Minamata`
 },
 {
-    question: `126. With reference to Eutrophication, Which of the following is/are true? \n 1. It is phenomenon of nutrient enrichment of a water body \n 2. It depletes the water of dissolved oxygen (DO). \n 3. Human activities are mainly responsible for the eutrophication \n Select the correct answer from the following codes`,
+    question: `
+126. With reference to Eutrophication, Which of the following is/are true? \n 1. It is phenomenon of nutrient enrichment of a water body \n 2. It depletes the water of dissolved oxygen (DO). \n 3. Human activities are mainly responsible for the eutrophication \n Select the correct answer from the following codes`,
     options: [
         'a. Only 1',
         'b. Only 1 and 2',
@@ -2717,7 +2843,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: D Discharge of domestic waste, agricultural surface runoff, land drainage and industrial effluents in a water body leads to rapid nutrients enrichment in a water body. The excessive nutrient enrichment in a water body encourages the growth of algae, water hyacinth, Phytoplankton and other aquatic plants. The biological demand for oxygen (BOD) increases with the increase in aquatic organisms.`
 },
 {
-    question: `127. What minerals are found in the run-off from agricultural land and treated and untreated sewage effluents, which are highly responsible for eutrophication of water bodies?`,
+    question: `
+127. What minerals are found in the run-off from agricultural land and treated and untreated sewage effluents, which are highly responsible for eutrophication of water bodies?`,
     options: [
         'A. Phosphorous and carbon',
         'B. Nitrogen and phosphorus',
@@ -2728,7 +2855,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: B Eutrophication occurs when fresh water is artificially supplemented with nutrients, which causes an abnormal plant growth. The output of waste into the water bodies from industries, agriculture, and urban communities generally exceeds the biological capacities of aquatic systems. Runoff of chemical fertilizers from fields is a major cause. When organic matter exceeds the capacity of those microorganisms in water that break it down and recycle it, it encourages rapid growth, or blooms of algae. When they die, remains of the dead algae add further to the organic wastes already in water; eventually, water becomes deficient in oxygen.`
 },
 {
-    question: `128. The GAP (Ganga Action Plan) - a project to clean up the polluted waters of the Ganga - plans to intercept and divert municipal sewage falling into the river from 25 large urban conglomerates in thee states.`,
+    question: `
+128. The GAP (Ganga Action Plan) - a project to clean up the polluted waters of the Ganga - plans to intercept and divert municipal sewage falling into the river from 25 large urban conglomerates in thee states.`,
     options: [
         'A. UP, Haryana and Punjab',
         'B. UP, Bihar and West Bengal',
@@ -2739,7 +2867,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: B Realizing the magnitude of the problem with regard to the pollution of the river Ganga, Government of India launched the Ganga Action Plan in 1985 to clean this holy river. This was the first time that the problem of water pollution was being tackled at a national level with interest being shown by all. It effectively functions in three states - Uttar Pradesh, Bengal, and Bihar - the three states through which it flows. Though there has been some change in the water quality of the river since this programme began, the improvement is very marginal and is far below the expected rate. Work on this project is still underway and it is yet to be seen whether they will be able to achieve their target.`
 },
 {
-    question: `129. Wetlands are very rich and diverse ecosystems. Of the wetlands of international importance in the world, a large number are subject to moderate or high threat. Which convention signed in Iran protects this specific ecosystem (wetlands) on a global basis?`,
+    question: `
+129. Wetlands are very rich and diverse ecosystems. Of the wetlands of international importance in the world, a large number are subject to moderate or high threat. Which convention signed in Iran protects this specific ecosystem (wetlands) on a global basis?`,
     options: [
         'A. The Vienna Convention',
         'B. The Ramsar Convention',
@@ -2750,7 +2879,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: B Wetlands are areas lying along the banks of rivers and lakes, and coastal regions. They are life-supporting systems providing fish, forest products, water, flood control, erosion buffering, a plant gene pool, wildlife, recreation, and tourism areas. Though they are endowed with a rich biodiversity yet of late, they are being greatly exploited. A number of factors have been responsible for the depletion of wetland areas mainly the mangrove forests, along the coasts of India. Intensive aquacultural development, deforestation, pollution from tankers, domestic waste, agricultural run off, and industrial effluents are some of the factors. In 1981, Chilika Lake, India's largest brackish water lagoon, was the first site to be designated a Ramsar Wetland of International Importance.`
 },
 {
-    question: `130. In a survey recently conducted by the CGWA (Central Ground Water Authority) and CPCB (Central Pollution Control Board), the groundwater samples in one-fourth of the neighborhood tested in New Delhi were unfit for drinking. They contained high levels of two minerals that are not eliminated by ordinary water filters and are extremely harmful at high concentrations.`,
+    question: `
+130. In a survey recently conducted by the CGWA (Central Ground Water Authority) and CPCB (Central Pollution Control Board), the groundwater samples in one-fourth of the neighborhood tested in New Delhi were unfit for drinking. They contained high levels of two minerals that are not eliminated by ordinary water filters and are extremely harmful at high concentrations.`,
     options: [
         'A. Mercury and zinc',
         'B. Fluoride and arsenic',
@@ -2761,7 +2891,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     exp: `Explanation: Answer: A Answer: A`
 },
 {
-    question: `131 Which sector is the single-largest consumer of fresh water in India?`,
+    question: `
+131 Which sector is the single-largest consumer of fresh water in India?`,
     options: ['A. Industry',
         'B. Power',
         'C. Domestic',
@@ -2778,7 +2909,8 @@ Explanation: Watering harvesting means capturing rain water, where it falls and 
     decrease the wastage of water in this sector. One of the methods
     that is becoming popular is that of drip irrigation.`
 }, {
-    question: `132 In the context of plane mirror, consider the following assertions —
+    question: `
+132 In the context of plane mirror, consider the following assertions —
 1. An image formed by a plane mirror is erect and of the same size as the object.
 2. In the image formed by a plane mirror, the ‘right’ appears ‘left’ and the ‘left’ appears ‘right’.
 Which of the above assertions is/are correct?
@@ -2813,7 +2945,8 @@ appear in the plane mirror that you have raised your right hand.
 `
 },
 {
-    question: `133 In the context of the different uses of the concave mirror,
+    question: `
+133 In the context of the different uses of the concave mirror,
 consider the following assertions —
 1. It is used by doctors to examine eyes, ears, nose and throat.
 2. It is used as side mirrors in automobiles.
@@ -2840,7 +2973,8 @@ the drivers to see the traffic behind them.
 `
 },
 {
-    question: `134 In the context of lenses, consider the following assertions —
+    question: `
+134 In the context of lenses, consider the following assertions —
 1. The image formed by a convex lens is real, inverted and large in
 size than the object.
 2. The image formed by a concave lens is always virtual, erect, and
@@ -2860,7 +2994,8 @@ Explanation: The convex lens forms a erect and magnified image.A convex lens con
 `
 },
 {
-    question: `135 Consider the following: \n 1. Refraction \n 2. Reflection \n 3. Diffraction \n Which of the above is/are necessary for an image formation in a mirror?
+    question: `
+135 Consider the following: \n 1. Refraction \n 2. Reflection \n 3. Diffraction \n Which of the above is/are necessary for an image formation in a mirror?
 `,
     options: [
         'A. 1 and 2 only',
@@ -2875,7 +3010,8 @@ Explanation: When a ray of light approaches a smooth polished surface and the li
 `
 },
 {
-    question: `136 Humans can see objects when`,
+    question: `
+136 Humans can see objects when`,
     options: [
         'A. Light falls on the object',
         'B. Light falls on the human’s eyes',
@@ -2890,7 +3026,8 @@ object, and is then reflected to the eyes.
 `
 },
 {
-    question: `137 What happens when light energy bends as it passes from one type of substance to another type?`,
+    question: `
+137 What happens when light energy bends as it passes from one type of substance to another type?`,
     options: [
         'A. Reflection',
         'B. Absorption',
@@ -2918,7 +3055,8 @@ refraction.
 `
 },
 {
-    question: `138 What might explain why light travels in a straight line?`,
+    question: `
+138 What might explain why light travels in a straight line?`,
     options: [
         'A. Light waves travel in a straight line because sound waves travel in a straight line.',
         'B. If there is nothing to interfere with light waves, they will travel in a straight line.',
@@ -2943,7 +3081,8 @@ straight through).
 `
 },
 {
-    question: `139 What is the power of concave lens?`,
+    question: `
+139 What is the power of concave lens?`,
     options: [
         'A. Positive',
         'B. Negative',
@@ -2975,7 +3114,8 @@ is the focal length of the lens.
 `
 },
 {
-    question: `140 What type of a mirror is used in anti-shop-lifting-devices?`,
+    question: `
+140 What type of a mirror is used in anti-shop-lifting-devices?`,
     options: [
         'A. Concave mirror',
         'B. Convex mirror',
@@ -2987,7 +3127,8 @@ is the focal length of the lens.
     exp: `Answer: B`
 },
 {
-    question: `141 Due to which phenomena the stick if immersed in water appears to be bent?`,
+    question: `
+141 Due to which phenomena the stick if immersed in water appears to be bent?`,
     options: [
         'A. Reflection',
         'B. Dispersion',
@@ -2999,7 +3140,8 @@ is the focal length of the lens.
 },
 
 {
-    question: `142. Sex hormones are secreted by endocrine glands. Consider the following statements regarding the same. \n 1. Estrogen and testosterone are sex hormones. These are responsible for the secondary sexual characters in the human body.  \n 2. Estrogen is the male hormone, while testosterone is the female hormone.  \n 3. The secretion of these hormones is regulated by a separate hormone, secreted by the pituitary. Which of the above given statement/statements is/are correct?`,
+    question: `
+142. Sex hormones are secreted by endocrine glands. Consider the following statements regarding the same. \n 1. Estrogen and testosterone are sex hormones. These are responsible for the secondary sexual characters in the human body.  \n 2. Estrogen is the male hormone, while testosterone is the female hormone.  \n 3. The secretion of these hormones is regulated by a separate hormone, secreted by the pituitary. Which of the above given statement/statements is/are correct?`,
     options: [
         'A. Only 1',
         'B. Only 2',
@@ -3010,7 +3152,8 @@ is the focal length of the lens.
     exp: `Explanation: Endocrine glands release hormones directly into the bloodstream, and hence are also called ductless glands. Sex hormones are also secreted through endocrine/ductless glands. Estrogen and testosterone are sex hormones which are responsible for secondary sexual characters. Estrogen is the female hormone and testosterone is the male hormone, secreted by ovary in females and testes in males respectively. This sex hormone is responsible for the development of facial hair, enlargement of voice box (larynx, Adam’s apple) etc in males. Due to an enlarged voice box, boys have a deeper voice and girls have a high pitched voice. Secondary sexual characters like development of breasts and mammary glands in females is caused by estrogen. The secretion of these sex hormones is regulated by a separate hormone, secreted by the pituitary. It regulates the maturation of egg/ovum in the ovary and sperms in the testes.`
 },
 {
-    question: `143. Match the items given in column 1 with the items of column 2, and use the key given below.  \n Column 1 Column 2  \n A. Thyroid Growth hormone  \n B. Pancreas Thyroxine  \n C. Adrenal Insulin  \n D. Pituitary Adrenalin  \n A B C D`,
+    question: `
+143. Match the items given in column 1 with the items of column 2, and use the key given below.  \n Column 1 Column 2  \n A. Thyroid Growth hormone  \n B. Pancreas Thyroxine  \n C. Adrenal Insulin  \n D. Pituitary Adrenalin  \n A B C D`,
     options: [
         'A. 1 2 3 4',
         'B. 2 1 3 4',
@@ -3021,7 +3164,8 @@ is the focal length of the lens.
     exp: `Explanation: Thyroxine, insulin and adrenaline are secreted by thyroid, pancreas and adrenal gland respectively. Pituitary gland secretes the growth hormone and stimulates the other endocrine glands- testes, ovary, thyroid and adrenal to secrete other hormones.`
 },
 {
-    question: `144. Consider the following statements in context to the human body.  \n 1. Milk is a complete meal in itself.  \n 2. Iron rich meal helps in the production of blood.  \n 3. Fat is essential for the growth of body and also for protein energy.  \n Which of the above given statement/statements is/are correct`,
+    question: `
+144. Consider the following statements in context to the human body.  \n 1. Milk is a complete meal in itself.  \n 2. Iron rich meal helps in the production of blood.  \n 3. Fat is essential for the growth of body and also for protein energy.  \n Which of the above given statement/statements is/are correct`,
     options: [
         'A. Only 1',
         'B. Only 1 and 2',
@@ -3032,7 +3176,8 @@ is the focal length of the lens.
     exp: `Explanation: A balanced diet means, a diet with protein, carbohydrates, fats, vitamin and minerals in appropriate amount. Indian diet comprising of rotis, rice, pulses and vegetables is a balanced diet; milk, in itself is a complete meal. Iron rich food, like leafy vegetables, jaggery, meat, tangerine, amla, etc are helpful in the production of blood. Fats and carbs are essential for energy and protein, for the growth of the body. Milk, meat, nuts and pulses are sources of protein.`
 },
 {
-    question: `145. Of the forces given below, which is the example of a noncontact force?  \n 1. Friction force  \n 2. Magnetic force  \n 3. Electrostatic force  \n 4. Gravitational force  \n 5. Muscular force`,
+    question: `
+145. Of the forces given below, which is the example of a noncontact force?  \n 1. Friction force  \n 2. Magnetic force  \n 3. Electrostatic force  \n 4. Gravitational force  \n 5. Muscular force`,
     options: [
         'A. Only 1 and 4',
         'B. Only 2, 3 and 4',
@@ -3043,7 +3188,8 @@ is the focal length of the lens.
     exp: `Explanation: Magnetic force, electrostatic force and gravitational force are examples of non-contact forces. This force can act on objects, despite of not being in contact with the same. Friction and muscular forces are examples of contact forces. These forces need to be in contact with the objects to act on them.`
 },
 {
-    question: `146. Consider the following statements about gravitational force.  \n 1. Gravitation is a property of only the earth.  \n 2. All the objects of the universe apply gravitational force on each other.  \n 3. Gravitational force is responsible for water in rivers to flow downstream.  \n Which of the above given statement/statements is/are correct?`,
+    question: `
+146. Consider the following statements about gravitational force.  \n 1. Gravitation is a property of only the earth.  \n 2. All the objects of the universe apply gravitational force on each other.  \n 3. Gravitational force is responsible for water in rivers to flow downstream.  \n Which of the above given statement/statements is/are correct?`,
     options: [
         'A. Only 1',
         'B. Only 1 and 3',
@@ -3054,7 +3200,8 @@ is the focal length of the lens.
     exp: `Explanation: Gravitation is not the property of only Earth. In reality, all the objects of the universe, apply force on each other, regardless of their size. Gravitational force is responsible for the water in rivers to flow downstream.`
 },
 {
-    question: `147. Consider the following statements  \n 1. Wind moves from low pressure areas to high pressure areas.  \n 2. Due to gravity the air at the surface is denser and hence has higher pressure.  \n Select the correct answer from the following codes`,
+    question: `
+147. Consider the following statements  \n 1. Wind moves from low pressure areas to high pressure areas.  \n 2. Due to gravity the air at the surface is denser and hence has higher pressure.  \n Select the correct answer from the following codes`,
     options: [
         'A. Only 1',
         'B. Only 2',
@@ -3065,7 +3212,8 @@ is the focal length of the lens.
     exp: `Explanation: Due to gravity the air at the surface is denser and hence has higher pressure. The pressure decreases with height. Wind always moves from high pressure areas to low pressure areas.`
 },
 {
-    question: `148. Which of the following is measured in Pa (Pascal)?`,
+    question: `
+148. Which of the following is measured in Pa (Pascal)?`,
     options: [
         'A. Thrust',
         'B. Pressure',
@@ -3076,7 +3224,8 @@ is the focal length of the lens.
     exp: `Explanation: The amount of force exerted (thrust) on a surface per unit area is defined as ‘Pressure’. It can also be defined as the ratio of the force to the area (over which the force is acting). Example: It is easier to hammer a sharp pin than to hammer a blunt pin. This is because the area at the end of the sharp pin is smaller than the area at the end of a blunt pin. This leads to an increase in pressure leading to hammer the sharp pin easily. \n Types of Pressure:  \n 1. Atmospheric Pressure  \n 2. Absolute Pressure  \n 3. Differential Pressure  \n 4. Gauge Pressure`
 },
 {
-    question: `149. The number of chromosomes are present in human cell.`,
+    question: `
+149. The number of chromosomes are present in human cell.`,
     options: [
         'A. 22 pairs',
         'B. 23 pairs',
@@ -3087,7 +3236,8 @@ is the focal length of the lens.
     exp: `Explanation: Chromosomes are thread-like structures located inside the nucleus of animal and plant cells. Each chromosome is made of protein and a single molecule of deoxyribonucleic acid (DNA). Passed from parents to offspring, DNA contains the specific instructions that make each type of living creature unique. The term chromosome comes from the Greek words for color (chroma) and body (soma). Scientists gave this name to chromosomes because they are cell structures, or bodies, that are strongly stained by some colorful dyes used in research. Humans have 23 pairs of chromosomes, for a total of 46 chromosomes. In fact, each species of plants and animals has a set number of chromosomes. A fruit fly, for example, has four pairs of chromosomes, while a rice plant has 12 and a dog, 39.`
 },
 {
-    question: `150. Puberty age in males is`,
+    question: `
+150. Puberty age in males is`,
     options: [
         'A. 10-12',
         'B. 12-16',
@@ -3098,7 +3248,8 @@ is the focal length of the lens.
     exp: `Explanation: Puberty is the period during which growing boys or girls undergo the process of sexual maturation. Puberty involves a series of physical stages or steps that lead to the achievement of fertility and the development of the so-called secondary sex characteristics, the physical features associated with adult males and females (such as the growth of pubic hair). While puberty involves a series of biological or physical transformations, the process can also have an effect on the psychosocial and emotional development of the adolescent. Puberty usually occurs in girls between the ages of 10 and 14, while in boys it generally occurs later, between the ages of 12 and 16. In some African-American girls, puberty begins earlier, at about age 9, meaning that puberty occurs from ages 9 to 14.`
 },
 {
-    question: `151. Force is defined as`,
+    question: `
+151. Force is defined as`,
     options: [
         'A. A push or pull',
         'B. Mass per unit volume',
@@ -3110,7 +3261,8 @@ is the focal length of the lens.
 },
 
 {
-    question: `152. Consider the following statements about friction. \n 1. Heat is generated due to friction. \n 2. Kabaddi players rub dust on their hands, so that friction is increased when they try to grab their opponents. \n 3. Friction applied by fluids is called drag. \n 4. Sliding friction is less than static friction. \n Which of the statements given above is/are correct?`,
+    question: `
+152. Consider the following statements about friction. \n 1. Heat is generated due to friction. \n 2. Kabaddi players rub dust on their hands, so that friction is increased when they try to grab their opponents. \n 3. Friction applied by fluids is called drag. \n 4. Sliding friction is less than static friction. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1, 2 and 3 only',
         'B. 1 and 4 only',
@@ -3121,7 +3273,8 @@ is the focal length of the lens.
     exp: `Explanation:  Interlocking between two surfaces in contact is the reason behind friction.  In the absence of friction, we will be unable to hold a pen or pencil. It is due to friction that a matchstick catches fire on rubbing. Friction causes heat.  Kabaddi players rub sand/dust on their hands, which increases friction.,   Substances which decreases friction are called lubricants.  Water and other fluids also apply friction on the objects that move across them. Friction applied by fluids is called ‘drag’.  When an object slides over a surface, it applies sliding friction on it. Sliding friction is less than static friction.`
 },
 {
-    question: `153. Consider the following statements with respect to sound: \n 1. It can travel through solids, liquids, gases and vacuum. \n 2. The intensity of sound is measured in decibels (dB). \n 3. For the human ear, the range of audible frequencies is roughly from 20 Hz to 20,000 Hz. \n Which of the statements given above is/are correct?`,
+    question: `
+153. Consider the following statements with respect to sound: \n 1. It can travel through solids, liquids, gases and vacuum. \n 2. The intensity of sound is measured in decibels (dB). \n 3. For the human ear, the range of audible frequencies is roughly from 20 Hz to 20,000 Hz. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 only',
         'B. 2 and 3 only',
@@ -3132,7 +3285,8 @@ is the focal length of the lens.
     exp: `Explanation: sound cannot travel in vacuum.The intensity of sound is measured in decibels (dB).The number of oscillations per second is called the frequency of oscillation. Frequency is expressed in Hertz. Its symbol is Hz. A frequency of 1 Hz is one oscillation per second. Sounds of frequencies less than about 20 vibrations per second (20 Hz) cannot be detected by the human ear. On the higher side, sounds of frequencies higher than about 20,000 vibrations per second (20 kHz) are also not audible to the human ear. Thus, for human ear, the range of audible frequencies is roughly from 20 to 20,000 Hz.Some animals can hear sounds of frequencies higher than 20,000 Hz. Dogs have this ability. The police use high frequency whistles which dogs can hear but humans cannot. The ultrasound equipment, familiar to us for investigating and tracking many medical problems, works at frequencies higher than 20,000 Hz.`
 },
 {
-    question: `154. Consider the following statements regarding pitch of sound. \n 1. It depends on the frequency of sound. \n 2. Birds produce high pitched sound; while the roar of a lion is a low pitched sound. \n 3. Generally, females have a higher pitched voice than males. \n Which of the statements given above is/are correct?`,
+    question: `
+154. Consider the following statements regarding pitch of sound. \n 1. It depends on the frequency of sound. \n 2. Birds produce high pitched sound; while the roar of a lion is a low pitched sound. \n 3. Generally, females have a higher pitched voice than males. \n Which of the statements given above is/are correct?`,
     options: [
         'A. 1 only',
         'B. 2 only',
@@ -3143,7 +3297,8 @@ is the focal length of the lens.
     exp: `Explanation: The intensity of sound depends on the amplitude, and the pitch depends on the frequency. A higher amplitude produces a loud sound, while a smaller amplitude produces a soft sound. Similarly, a higher frequency produces a high pitched sound, and a low frequency produces a low pitched sound.Birds produce high pitched sound; while the roar of a lion is a low pitched sound. This is despite of the fact that the sound of a lion is louder while the sound produced by a bird is softer. Similarly, in instruments, A Dhol produces a sound with low frequency, while a whistle produces a sound with high frequency.`
 },
 {
-    question: `155. \n Assertion A: Utensils used to store food have a layer of tin electroplated over iron. \n Reasoning R: Tin is less reactive than iron. \n Choose the correct answer from the options given below:`,
+    question: `
+155. \n Assertion A: Utensils used to store food have a layer of tin electroplated over iron. \n Reasoning R: Tin is less reactive than iron. \n Choose the correct answer from the options given below:`,
     options: [
         'A. Both A and R are correct and R is the correct explanation for A.',
         'B. Both A and R are correct but R is not the correct explanation of A.',
@@ -3154,7 +3309,8 @@ is the focal length of the lens.
     exp: `Explanation: Tin utensils used to store food are made by electroplating a layer of tin over iron, because tin is less reactive than iron. Electroplating is the process of applying a layer of a metal over another by the means of electricity.`
 },
 {
-    question: `156. Assertion A: Iron used to strengthen the bridges and automated vehicles, has a tendency to be easily corroded and rusting. \n Reasoning R: To prevent the corrosion and rusting, a layer of zinc is electroplated on iron. \n Select the correct answer from the options given below:`,
+    question: `
+156. Assertion A: Iron used to strengthen the bridges and automated vehicles, has a tendency to be easily corroded and rusting. \n Reasoning R: To prevent the corrosion and rusting, a layer of zinc is electroplated on iron. \n Select the correct answer from the options given below:`,
     options: [
         'A. Both A and R are correct and R is the correct explanation for A.',
         'B. Both A and R are correct but R is not the correct explanation of A.',
@@ -3165,7 +3321,8 @@ is the focal length of the lens.
     exp: `Explanation: Iron is used to strengthen the bridges and automated vehicles. But, iron has a tendency of corrosion and rusting. Therefore, a layer of zinc is electroplated on the iron. Hence, R is not the explanation for of A; rather A is the explanation for R. The process of electroplating is used in a variety of everyday products.,  For example, some parts of car, taps in bathroom, gas burner, rim of the wheel have a layer of chromium on them. This gives them a shiny appearance and prevents corrosion.`
 },
 {
-    question: `157. Which of the following is/are correct definition of types of friction? \n 1. Dry friction resists relative lateral motion of two solid surfaces in contact. \n 2. Fluid friction describes the friction between layers of a viscous fluid that are moving relative to each other. \n 3. Lubricated friction is a case of fluid friction where a lubricant fluid separates two solid surfaces. \n Which is/are correct statement (s)?`,
+    question: `
+157. Which of the following is/are correct definition of types of friction? \n 1. Dry friction resists relative lateral motion of two solid surfaces in contact. \n 2. Fluid friction describes the friction between layers of a viscous fluid that are moving relative to each other. \n 3. Lubricated friction is a case of fluid friction where a lubricant fluid separates two solid surfaces. \n Which is/are correct statement (s)?`,
     options: [
         'A. Only 1',
         'B. Only 2',
@@ -3176,7 +3333,8 @@ is the focal length of the lens.
     exp: `Explanation: Friction is defined as the force that opposes the motion of a solid object over another. There are mainly four types of friction: static friction, sliding friction, rolling friction, and fluid,  friction. Friction and normal force are directly proportional to the contacting surfaces and it doesn’t depend on the hardness of the contacting surface. With the increase in relative speeds, the sliding friction reduces whereas fluid friction increases with the increase in the relative speed, also fluid friction is dependent on the viscosity of the fluid. Types of Friction Following are the friction types which depend on the types of motion: \n 1. Static Friction \n 2. Sliding Friction \n 3. Rolling Friction \n 4. Fluid Friction 1. Static friction is defined as: the frictional force that acts between the surfaces when they are at rest with respect to each other. The magnitude of the static force is equal in the opposite direction when a small amount of force is applied. When the force increases, at some point maximum static friction is reached. 2. Sliding friction is defined as: the resistance that is created between any two objects when they are sliding against each other. 3. Rolling friction is defined as: the force which resists the motion of a ball or wheel and is the weakest types of friction.,  4. Fluid friction is defined as: the friction that exsits between the layers of the fluid when they are moving relative to each other.`
 },
 {
-    question: `158. Which of the following is/ are not applications of Ultrasonic Waves? \n 1. For measuring the depth of Sea. \n 2. In sterilizing of a liquid. \n 3. In Ultrasonography \n 4. In sterilizing a needle.`,
+    question: `
+158. Which of the following is/ are not applications of Ultrasonic Waves? \n 1. For measuring the depth of Sea. \n 2. In sterilizing of a liquid. \n 3. In Ultrasonography \n 4. In sterilizing a needle.`,
     options: [
         'A. Both 1 and 2',
         'B. Only 4',
@@ -3187,7 +3345,8 @@ is the focal length of the lens.
     exp: `Explanation: Applications of Ultrasonic Waves are: sending signals, for measuring the depth of sea, for cleaning cloths, aeroplanes, machinery parts of clocks, for removing lamp-shoot from the chimney of factories, in sterilizing of liquid and in Ultrasonography., `
 },
 {
-    question: `159. What will be the effect of temperature on speed of sound?`,
+    question: `
+159. What will be the effect of temperature on speed of sound?`,
     options: [
         'A. The speed of sound decreases with the increases of temperature of the medium.',
         'B. The speed of sound decreases with the decrease of temperature of the medium.',
@@ -3198,7 +3357,8 @@ is the focal length of the lens.
     exp: `Explanation: The speed of sound increases with the increase of`
 },
 {
-    question: `160. A positive charge is moving towards a person. The direction of magnetic field lines will be in`,
+    question: `
+160. A positive charge is moving towards a person. The direction of magnetic field lines will be in`,
     options: [
         'A. Clockwise direction',
         'B. Anticlockwise direction',
@@ -3209,7 +3369,8 @@ is the focal length of the lens.
     exp: `Right Hand Thumb Rule. Thumb shows moving direction, finger encircles gives direction of magnetic field`
 },
 {
-    question: `161. What is the unit of loudness?`,
+    question: `
+161. What is the unit of loudness?`,
     options: [
         'A. Bel',
         'B. Phon',
@@ -3220,7 +3381,8 @@ is the focal length of the lens.
     exp: `Explanation: The sensation of a sound perceived in a ear is measured by another term called loudness which depends on intensity of sound and sensitiveness of the ear. Unit of loudness is bel. A practical unit of loudness is decibel (dB) which is 1/10th of bel. Another unit of loudness is phon.`
 },
 {
-        question: `162. Regarding a 'Human Stomach', consider the following statements: \n 1. Human stomach produces sulphuric acid that helps in the digestion of food without harming the stomach. \n 2. During indigestion, the stomach produces too much acid and this causes pain and irritation. Which of the statements given above is/are correct? `,
+        question: `
+162. Regarding a 'Human Stomach', consider the following statements: \n 1. Human stomach produces sulphuric acid that helps in the digestion of food without harming the stomach. \n 2. During indigestion, the stomach produces too much acid and this causes pain and irritation. Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3231,7 +3393,8 @@ is the focal length of the lens.
         exp: `Explanation: Our stomach produces hydrochloric acid. It helps in digestion of food without harming the stomach. During indigestion, the stomach produces too much acid and this causes pain and irritation. To get rid of this pain, people use bases called antacids. These antacids neutralise the excess acid. Magnesium hydroxide (Milk of magnesia), a mild base, is often used for this purpose. `
     },
     {
-        question: `163. Consider the following statements: \n 1. The human body works within the pH range of 7.0 to 7.8. \n 2. When pH of rain water is less than 5.6, it is called acid rain. \n 3. Tooth decay starts when the pH value of the mouth increases. \n Which of the statements given above is/are correct? `,
+        question: `
+163. Consider the following statements: \n 1. The human body works within the pH range of 7.0 to 7.8. \n 2. When pH of rain water is less than 5.6, it is called acid rain. \n 3. Tooth decay starts when the pH value of the mouth increases. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 and 3 only ',
@@ -3245,7 +3408,8 @@ is the focal length of the lens.
 
 
     {
-        question: `164. Match List-I with List-II and using the code given below, select the correct answer \n List-I (matter) List-II (pH value)  \n A. Human blood 1). 5.5 to 7.5  \n B. Milk 2). 7.3 to 7.5  \n C. Human saliva 3). 6.4  \n D. Humarine 4). 6.5 to 7.5`,
+        question: `
+164. Match List-I with List-II and using the code given below, select the correct answer \n List-I (matter) List-II (pH value)  \n A. Human blood 1). 5.5 to 7.5  \n B. Milk 2). 7.3 to 7.5  \n C. Human saliva 3). 6.4  \n D. Humarine 4). 6.5 to 7.5`,
         options: [
             'A. A-2 B-3 C-1 D-4 ',
             'B. A-2 B-3 C-4 D-1 ',
@@ -3259,7 +3423,8 @@ is the focal length of the lens.
 
 
     {
-        question: `165. Match List-I with List-II and using the code given below, select the correct answer:  \n List I (Natural source) List II (Acid)  \n A. Bee sting    1). Tartaric acid  \n B. Tamarind     2). Methanoic acid  \n C. Tomato       3). Acetic acid  \n D. Vinegar      4). Oxalic acid `,
+        question: `
+165. Match List-I with List-II and using the code given below, select the correct answer:  \n List I (Natural source) List II (Acid)  \n A. Bee sting    1). Tartaric acid  \n B. Tamarind     2). Methanoic acid  \n C. Tomato       3). Acetic acid  \n D. Vinegar      4). Oxalic acid `,
         options: [
             'A. A-2 B-1 C-4 D-3 ',
             'B. A-2 B-4 C-1 D-3 ',
@@ -3273,7 +3438,8 @@ is the focal length of the lens.
 
 
     {
-        question: `166. Which of the following is used in soda-acid fire extinguisher? `,
+        question: `
+166. Which of the following is used in soda-acid fire extinguisher? `,
         options: [
             'A. Washing soda ',
             'B. Bleaching powder ',
@@ -3287,7 +3453,8 @@ is the focal length of the lens.
 
 
     {
-        question: `167. Consider the following pairs: \n Match-I (Homogeneous mixture) Match-II (Alloy)  \n 1. Mercury and any other metal Amalgam  \n 2. Copper and Zinc Brass  \n 3. Copper and Tin Bronze  \n 4. Lead and Tin Solder `,
+        question: `
+167. Consider the following pairs: \n Match-I (Homogeneous mixture) Match-II (Alloy)  \n 1. Mercury and any other metal Amalgam  \n 2. Copper and Zinc Brass  \n 3. Copper and Tin Bronze  \n 4. Lead and Tin Solder `,
         options: [
             'A. 1 and 4 only ',
             'B. 1 and 2 only ',
@@ -3300,7 +3467,8 @@ is the focal length of the lens.
 
 
     {
-        question: `168. With reference to Non-metals, consider the following statements:  \n 1. Unlike metals, they are neither malleable nor ductile.  \n 2. They are bad conductors of heat and electricity, except for graphite, which conducts electricity.  \n 3. They react with hydrogen of dilute acids to form hydrides.  \n Which of the statements given above is/are correct? `,
+        question: `
+168. With reference to Non-metals, consider the following statements:  \n 1. Unlike metals, they are neither malleable nor ductile.  \n 2. They are bad conductors of heat and electricity, except for graphite, which conducts electricity.  \n 3. They react with hydrogen of dilute acids to form hydrides.  \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 only ',
@@ -3313,7 +3481,8 @@ is the focal length of the lens.
 
 
     {
-        question: `169. Regarding the physical properties of metals, consider the following pairs: \n 1. Malleability: metals can be beaten into thin sheets. \n 2. Ductility: the ability of metals to be drawn into thin wires. \n 3. Sonorous: metals that produce a sound on striking a hard surface. Which of the pairs given above is/are correctly matched? `,
+        question: `
+169. Regarding the physical properties of metals, consider the following pairs: \n 1. Malleability: metals can be beaten into thin sheets. \n 2. Ductility: the ability of metals to be drawn into thin wires. \n 3. Sonorous: metals that produce a sound on striking a hard surface. Which of the pairs given above is/are correctly matched? `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only ',
@@ -3326,7 +3495,8 @@ is the focal length of the lens.
 
 
     {
-        question: `170. Regarding the non-metals, consider the following statements:  \n 1. Diamond is the hardest natural substance.  \n 2. Graphite is the poor conductor of electricity. \n Which of the statements given above is/are correct? `,
+        question: `
+170. Regarding the non-metals, consider the following statements:  \n 1. Diamond is the hardest natural substance.  \n 2. Graphite is the poor conductor of electricity. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3339,7 +3509,8 @@ is the focal length of the lens.
 
 
     {
-        question: `171. Regarding the anodising, which of the following statements is correct? `,
+        question: `
+171. Regarding the anodising, which of the following statements is correct? `,
         options: [
             'A. It is a process of forming a oxide layer on the non-metals. ',
             'B. It is a process of removing the rust layer of metals. ',
@@ -3354,7 +3525,8 @@ is the focal length of the lens.
 
 
     {
-        question: `172. Regarding the covalent bonds, which of the following statements is/are incorrect? \n 1. Bonds which are formed by the sharing of an electron pair between two atoms are known as Covalent Bonds. \n 2. Covalently bonded molecules are seen to have weak bonds within the molecule, but intermolecular forces are large. \n 3. Covalent compounds are poor conductors of electricity. Select the correct answer using the code given below: `,
+        question: `
+172. Regarding the covalent bonds, which of the following statements is/are incorrect? \n 1. Bonds which are formed by the sharing of an electron pair between two atoms are known as Covalent Bonds. \n 2. Covalently bonded molecules are seen to have weak bonds within the molecule, but intermolecular forces are large. \n 3. Covalent compounds are poor conductors of electricity. Select the correct answer using the code given below: `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 only ',
@@ -3367,7 +3539,8 @@ is the focal length of the lens.
 
 
     {
-        question: `173. Which of the following structures are allotropes of carbon? \n 1. Diamond \n 2. Graphite \n 3. Fullerene Select the correct answer using the code given below: `,
+        question: `
+173. Which of the following structures are allotropes of carbon? \n 1. Diamond \n 2. Graphite \n 3. Fullerene Select the correct answer using the code given below: `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 and 3 only ',
@@ -3379,7 +3552,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `174. Regarding ethanol, which of the following statements is incorrect? `,
+        question: `
+174. Regarding ethanol, which of the following statements is incorrect? `,
         options: [
             'A. It is used in making tincture iodine and cough syrups. ',
             'B. It tends to positively affect the central nervous system and makes it even stronger. ',
@@ -3391,7 +3565,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `175. With reference to alcohol, consider the following statements: \n 1. Sugarcane juice can be used to prepare molasses which is fermented to give alcohol (ethanol). \n 2. Alcohol can be used as an additive in petrol since it is a cleaner fuel. \n Which of the statements given above is/are correct? `,
+        question: `
+175. With reference to alcohol, consider the following statements: \n 1. Sugarcane juice can be used to prepare molasses which is fermented to give alcohol (ethanol). \n 2. Alcohol can be used as an additive in petrol since it is a cleaner fuel. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3403,7 +3578,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `176. Which of the following elements are responsible for the hardness of water? `,
+        question: `
+176. Which of the following elements are responsible for the hardness of water? `,
         options: [
             'A. Hydrogen and Oxygen ',
             'B. Calcium and Magnesium ',
@@ -3415,7 +3591,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `177. Match List-I with List-II and select the correct answer: \n List-I (Scientist) List-II (Work/theory)  \n A. Johann Wolfgang Döbereiner 1. Law of Octaves  \n B. John Newlands 2. Coinehe term ‘Triads’  \n C. Dmitri Ivanovich Mendeléev 3. Modern Periodic Table  \n D. Henry Moseley 4. Early development of the periodic table of elements`,
+        question: `
+177. Match List-I with List-II and select the correct answer: \n List-I (Scientist) List-II (Work/theory)  \n A. Johann Wolfgang Döbereiner 1. Law of Octaves  \n B. John Newlands 2. Coinehe term ‘Triads’  \n C. Dmitri Ivanovich Mendeléev 3. Modern Periodic Table  \n D. Henry Moseley 4. Early development of the periodic table of elements`,
         options: [
             'A. A-4 B-1 C-3 D-2 ',
             'B. A-2 B-1 C-4 D-3 ',
@@ -3427,7 +3604,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `178. With reference to Mendeléev’s Periodic Table, consider the following statements: \n 1. Mendeléev arranged the elements in the order of their increasing atomic masses. \n 2. Mendeléev left some gaps in Periodic Table \n Which of the statements given above is/are correct? `,
+        question: `
+178. With reference to Mendeléev’s Periodic Table, consider the following statements: \n 1. Mendeléev arranged the elements in the order of their increasing atomic masses. \n 2. Mendeléev left some gaps in Periodic Table \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3439,7 +3617,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `179. Regarding the limitations of Mendeléev’s classification, consider the following statements: \n 1. The Position of Hydrogen was ambiguous. \n 2. Isotopes of all elements posed a challenge to Mendeleev’s Periodic Law. \n 3. The atomic masses do not increase in a regular manner in going from one element to the next.\n  Which of the statements given above is/are correct? `,
+        question: `
+179. Regarding the limitations of Mendeléev’s classification, consider the following statements: \n 1. The Position of Hydrogen was ambiguous. \n 2. Isotopes of all elements posed a challenge to Mendeleev’s Periodic Law. \n 3. The atomic masses do not increase in a regular manner in going from one element to the next.\n  Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 only ',
@@ -3451,7 +3630,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `180. Regarding the modern periodic table, consider the following statements: \n 1. Properties of elements are a periodic function of their atomic number. \n 2. There are 7 groups and 18 periods. \n Which of the statements given above is/are correct? `,
+        question: `
+180. Regarding the modern periodic table, consider the following statements: \n 1. Properties of elements are a periodic function of their atomic number. \n 2. There are 7 groups and 18 periods. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3463,7 +3643,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `181. Regarding the modern periodic table, which of the following statements is incorrect? `,
+        question: `
+181. Regarding the modern periodic table, which of the following statements is incorrect? `,
         options: [
             'A. The elements present in any one group have the same number of valence electrons. ',
             'B. Each valence shell indicates that the outer shell is filled with electrons. ',
@@ -3475,7 +3656,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `182. Match List-I with List-II and select the correct answer: \n List-I (Plant hormones) LIST-II (Effects) \n A. Auxin 1. Promote cell division \n B. Gibberellins 2. Inhibits growth \n C. Cytokinins 3. It helps the cells to grow longer \n D. Abscisic acid 4. Help in the growth of the stem `,
+        question: `
+182. Match List-I with List-II and select the correct answer: \n List-I (Plant hormones) LIST-II (Effects) \n A. Auxin 1. Promote cell division \n B. Gibberellins 2. Inhibits growth \n C. Cytokinins 3. It helps the cells to grow longer \n D. Abscisic acid 4. Help in the growth of the stem `,
         options: [
             'A. 1 2 3 4 ',
             'B. 3 4 1 2 ',
@@ -3487,7 +3669,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `183. Consider the following hormones: \n 1. Adrenaline \n 2. Testosterone \n 3. Estrogen \n Which of the above hormones, prepare the human body for fighting or running instantaneously? `,
+        question: `
+183. Consider the following hormones: \n 1. Adrenaline \n 2. Testosterone \n 3. Estrogen \n Which of the above hormones, prepare the human body for fighting or running instantaneously? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3499,7 +3682,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `184. Consider the following pairs: \n 1. Thyroid Gland: Thyroxine hormone \n 2. Pituitary Gland: Growth hormone \n 3. Pancreas: Insulin \n Which of the pairs given above is/are correctly matched? `,
+        question: `
+184. Consider the following pairs: \n 1. Thyroid Gland: Thyroxine hormone \n 2. Pituitary Gland: Growth hormone \n 3. Pancreas: Insulin \n Which of the pairs given above is/are correctly matched? `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 only ',
@@ -3511,7 +3695,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `185. Consider the following statements: \n 1. Voluntary actions are controlled by Hindbrain. \n 2. Hearing, Smell is controlled by Fore-Brain. \n Which of the above statements given above is/are Correct? `,
+        question: `
+185. Consider the following statements: \n 1. Voluntary actions are controlled by Hindbrain. \n 2. Hearing, Smell is controlled by Fore-Brain. \n Which of the above statements given above is/are Correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3523,7 +3708,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `186. Consider the following pairs: \n 1. Benzoic acid formed in our muscles during a physical activity leads to cramps. \n 2. The rate of breathing in aquatic organisms is much faster than that in terrestrial organisms. \n Which of the statements given above is/are correct? `,
+        question: `
+186. Consider the following pairs: \n 1. Benzoic acid formed in our muscles during a physical activity leads to cramps. \n 2. The rate of breathing in aquatic organisms is much faster than that in terrestrial organisms. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3535,7 +3721,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `187. Consider the following statements: \n 1. Plants store carbohydrates in the form of glycogen. \n 2. Human beings store carbohydrates in the form of starch. \n Which of the statements given above is/are incorrect? `,
+        question: `
+187. Consider the following statements: \n 1. Plants store carbohydrates in the form of glycogen. \n 2. Human beings store carbohydrates in the form of starch. \n Which of the statements given above is/are incorrect? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3547,7 +3734,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `188. Consider the following events about Photosynthesis: \n 1. Absorption of light energy by chlorophyll. \n 2. Reduction of carbon dioxide to carbohydrates. \n Which of the statements given above is/are correct? `,
+        question: `
+188. Consider the following events about Photosynthesis: \n 1. Absorption of light energy by chlorophyll. \n 2. Reduction of carbon dioxide to carbohydrates. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3559,7 +3747,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `189. Consider the following statements about Digestion: \n 1. The secretion is done by the small intestine. \n 2. Hydrochloric acid inhibits the functioning of Pepsin. \n 3. The Mucus protects the inner lining of the stomach from the action of the acid. \n Select the correct answer using the code given below: `,
+        question: `
+189. Consider the following statements about Digestion: \n 1. The secretion is done by the small intestine. \n 2. Hydrochloric acid inhibits the functioning of Pepsin. \n 3. The Mucus protects the inner lining of the stomach from the action of the acid. \n Select the correct answer using the code given below: `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only ',
@@ -3571,7 +3760,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `190. With reference to the respiration in human beings, consider the following statements: \n 1. Cartilage blocks the air passage. \n 2. Haemoglobin has a very high affinity for oxygen. \n 3. Fine hairs in the nostril traps harmful microbes in respiration. \n Which of the statements given above is/are correct? `,
+        question: `
+190. With reference to the respiration in human beings, consider the following statements: \n 1. Cartilage blocks the air passage. \n 2. Haemoglobin has a very high affinity for oxygen. \n 3. Fine hairs in the nostril traps harmful microbes in respiration. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 only ',
@@ -3583,7 +3773,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `191. Regarding blood pressure, consider the following statements: \n 1. The Blood pressure is higher in Veins than in Arteries. \n 2. The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg. \n 3. Blood pressure is measured with an instrument called sphygmomanometer. \n Which of the statements given above is/are correct? `,
+        question: `
+191. Regarding blood pressure, consider the following statements: \n 1. The Blood pressure is higher in Veins than in Arteries. \n 2. The normal systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg. \n 3. Blood pressure is measured with an instrument called sphygmomanometer. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 and 3 only ',
@@ -3595,7 +3786,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `192. Regarding 'reproduction', consider the following statements: \n 1. The basic event in reproduction is the creation of a DNA copy. \n 2. Two copies of DNA in a reproducing cell are completely identical to each other. \n 3. Reproduction is linked to the stability of population of species. \n Which of the statements given above is/are correct? `,
+        question: `
+192. Regarding 'reproduction', consider the following statements: \n 1. The basic event in reproduction is the creation of a DNA copy. \n 2. Two copies of DNA in a reproducing cell are completely identical to each other. \n 3. Reproduction is linked to the stability of population of species. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 1 and 3 only ',
@@ -3607,7 +3799,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `193. With reference to the male and female gametes, consider the following statements: \n 1. A female gamete is smaller than a male gamete and likely to be motile. \n 2. Male gametes are large and contains the food-stores. \n Which of the statements given above is/are correct? `,
+        question: `
+193. With reference to the male and female gametes, consider the following statements: \n 1. A female gamete is smaller than a male gamete and likely to be motile. \n 2. Male gametes are large and contains the food-stores. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3619,7 +3812,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `194. With reference to the reproductive parts of flower, consider the following statements: \n 1. Stamen produces pollen grains. \n 2. The Swollen part of Carpel is known as ovary \n 3. Cross Pollination involves transfer of pollen grains to the same flower \n Which of the statements given above is/are correct? `,
+        question: `
+194. With reference to the reproductive parts of flower, consider the following statements: \n 1. Stamen produces pollen grains. \n 2. The Swollen part of Carpel is known as ovary \n 3. Cross Pollination involves transfer of pollen grains to the same flower \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only ',
@@ -3631,7 +3825,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `195. Regarding the male reproductive system, consider the following statements: \n1. Sperm formation requires a higher temperature than the normal body temperature. \n2. Testosterone triggers Changes at Puberty. \n Which of the statements given above is/are correct? `,
+        question: `
+195. Regarding the male reproductive system, consider the following statements: \n1. Sperm formation requires a higher temperature than the normal body temperature. \n2. Testosterone triggers Changes at Puberty. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3643,7 +3838,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `196. Regarding the female reproductive system, consider the following statements: \n1. Fertilization takes place in the female's Uterus. \n2. The embryo gets nutrition from the mother’s blood with the help of a special tissue called placenta. \n Which of the statements given above is/are incorrect? `,
+        question: `
+196. Regarding the female reproductive system, consider the following statements: \n1. Fertilization takes place in the female's Uterus. \n2. The embryo gets nutrition from the mother’s blood with the help of a special tissue called placenta. \n Which of the statements given above is/are incorrect? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3655,7 +3851,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `197. Consider the following: \n 1. Menstruation takes place when egg is not fertilized. \n 2. HIV gets transmit by eating with an infected person. \n Which of the statements given above is/are incorrect? `,
+        question: `
+197. Consider the following: \n 1. Menstruation takes place when egg is not fertilized. \n 2. HIV gets transmit by eating with an infected person. \n Which of the statements given above is/are incorrect? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3667,7 +3864,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `198. Consider the following statements: \n 1. The number of successful variations in second generation is maximised by sexual reproduction than by asexual mode of reproduction. \n 2. Dominant and Recessive traits get expressed in sexual reproduction. \n Which of the statements given above is/are correct? `,
+        question: `
+198. Consider the following statements: \n 1. The number of successful variations in second generation is maximised by sexual reproduction than by asexual mode of reproduction. \n 2. Dominant and Recessive traits get expressed in sexual reproduction. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3679,7 +3877,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `199. Regarding sex determination, consider the following statements: \n 1. Sex is the determined by temperature in some species. \n 2. Sex is not genetically determined in snails. \n 3. The sex of human children is determined by which chromosome they inherit from their father. Which of the statements given above is/are correct? `,
+        question: `
+199. Regarding sex determination, consider the following statements: \n 1. Sex is the determined by temperature in some species. \n 2. Sex is not genetically determined in snails. \n 3. The sex of human children is determined by which chromosome they inherit from their father. Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 2 only ',
@@ -3691,7 +3890,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `200. Which of the following places, witnesses the emergence of a modern human species? `,
+        question: `
+200. Which of the following places, witnesses the emergence of a modern human species? `,
         options: [
             'A. Europe ',
             'B. Africa ',
@@ -3703,7 +3903,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `201. Speciation is a process that leads to: `,
+        question: `
+201. Speciation is a process that leads to: `,
         options: [
             'A. formation of new species from older ones ',
             'B. formation of clones ',
@@ -3716,7 +3917,8 @@ is the focal length of the lens.
 
 
     {
-        question: `202. With reference to the fossils, consider the following statements: \n 1. Preserved traces of living organisms, in form of their impressions on mud are called fossils. \n 2. Fossil dating is done by detecting the ratios of different isotopes of the same element in the fossil material. \n Which of the statements given above is/are correct? `,
+        question: `
+202. With reference to the fossils, consider the following statements: \n 1. Preserved traces of living organisms, in form of their impressions on mud are called fossils. \n 2. Fossil dating is done by detecting the ratios of different isotopes of the same element in the fossil material. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3729,7 +3931,8 @@ is the focal length of the lens.
 
 
     {
-        question: `203. If an opaque object on the path of light becomes very small, light has a tendency to bend around it and not walk in a straight line. Which of the following effects given below, defines the statement? `,
+        question: `
+203. If an opaque object on the path of light becomes very small, light has a tendency to bend around it and not walk in a straight line. Which of the following effects given below, defines the statement? `,
         options: [
             'A. Diffraction of light ',
             'B. Refraction of light ',
@@ -3742,7 +3945,8 @@ is the focal length of the lens.
 
 
     {
-        question: `204. Regarding the properties of the image formed by a plane mirror, consider the following statements: \n 1. Virtual and Erect images are formed by Plane Mirror. \n 2. The size of the image is smaller to that of the object. \n Which of the statements given above is/are correct? `,
+        question: `
+204. Regarding the properties of the image formed by a plane mirror, consider the following statements: \n 1. Virtual and Erect images are formed by Plane Mirror. \n 2. The size of the image is smaller to that of the object. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3755,7 +3959,8 @@ is the focal length of the lens.
 
 
     {
-        question: `205. Regarding the lens, consider the following statements: \n 1. A transparent material bound by two surfaces, of which one or both surfaces are spherical, forms a lens. \n 2. A lens, either a convex lens or a concave lens, has two spherical surfaces. \n Which of the statements given above is/are correct? `,
+        question: `
+205. Regarding the lens, consider the following statements: \n 1. A transparent material bound by two surfaces, of which one or both surfaces are spherical, forms a lens. \n 2. A lens, either a convex lens or a concave lens, has two spherical surfaces. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3768,7 +3973,8 @@ is the focal length of the lens.
 
 
     {
-        question: `206. Which of the following use concave mirror? \n 1. Torches \n 2. Vehicles headlights \n 3. Dentists to see larger images of the patient's teeth. \n 4. Shaving mirror \n Select the correct answer using the code given below: `,
+        question: `
+206. Which of the following use concave mirror? \n 1. Torches \n 2. Vehicles headlights \n 3. Dentists to see larger images of the patient's teeth. \n 4. Shaving mirror \n Select the correct answer using the code given below: `,
         options: [
             'A. 1 and 2 only ',
             'B. 2, 3 and 4 only ',
@@ -3781,7 +3987,8 @@ is the focal length of the lens.
 
 
     {
-        question: `207. Light travels the fastest in which of the following mediums? `,
+        question: `
+207. Light travels the fastest in which of the following mediums? `,
         options: [
             'A. In air ',
             'B. In vacuum ',
@@ -3793,7 +4000,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `208. Regarding the human eye, consider the following statements: \n 1. Light enters the eye through the cornea. \n 2. The pupil controls the amount of light entering the eye. \n 3. An inverted real image of the object is formed on the retina.\n  Which of the statements given above is/are correct? `,
+        question: `
+208. Regarding the human eye, consider the following statements: \n 1. Light enters the eye through the cornea. \n 2. The pupil controls the amount of light entering the eye. \n 3. An inverted real image of the object is formed on the retina.\n  Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only ',
@@ -3806,7 +4014,8 @@ is the focal length of the lens.
 
 
     {
-        question: `209. Regarding the myopia, consider the following statements: \n 1. In a myopic eye, the image of a distant object gets formed behind the retina. \n 2. Myopia is caused by shortening of eyeball. \n Which of the statements given above is/are correct? `,
+        question: `
+209. Regarding the myopia, consider the following statements: \n 1. In a myopic eye, the image of a distant object gets formed behind the retina. \n 2. Myopia is caused by shortening of eyeball. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -3820,7 +4029,8 @@ is the focal length of the lens.
 
 
     {
-        question: `210. Regarding the hypermetropia, consider the following statements: \n 1. A person with hypermetropia can see distant objects clearly. \n 2. Image is formed behind the retina. \n 3. Convex lens is used to correct this defect. \n Which of the statements given above is/are correct? `,
+        question: `
+210. Regarding the hypermetropia, consider the following statements: \n 1. A person with hypermetropia can see distant objects clearly. \n 2. Image is formed behind the retina. \n 3. Convex lens is used to correct this defect. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only',
             'B. 2 and 3 only',
@@ -3833,7 +4043,8 @@ is the focal length of the lens.
 
 
     {
-        question: `211. Which of the following parts of eyes is transplanted during eye donation? `,
+        question: `
+211. Which of the following parts of eyes is transplanted during eye donation? `,
         options: [
             'A. Retina ',
             'B. Ciliary muscles ',
@@ -3848,7 +4059,8 @@ is the focal length of the lens.
 
 
     {
-        question: `212. Which of the following is the correct cause of the twinkling of stars? `,
+        question: `
+212. Which of the following is the correct cause of the twinkling of stars? `,
         options: [
             'A. Scattering of light ',
             'B. Refraction of light ',
@@ -3862,7 +4074,8 @@ is the focal length of the lens.
 
 
     {
-        question: `213. Which of the following phenomena are caused by the scattering of light?  \n 1. The colour of clear sky is blue.  \n 2. Twinkling of the stars.  \n 3. The colour of the Sun at Sunrise and Sunset is red. `,
+        question: `
+213. Which of the following phenomena are caused by the scattering of light?  \n 1. The colour of clear sky is blue.  \n 2. Twinkling of the stars.  \n 3. The colour of the Sun at Sunrise and Sunset is red. `,
         options: [
             'A. 1 and 2 only ',
             'B. 1, 2 and 3 ',
@@ -3875,7 +4088,8 @@ is the focal length of the lens.
 
 
     {
-        question: `214. Consider the following pairs: \n 1. SI unit of electric charge - Ampere (A) \n 2. SI unit of electric current - Coulomb (C) \n 3. Instrument for measuring electric current in a circuit - Ammeter \n Which of the pairs given above is/are correctly matched? `,
+        question: `
+214. Consider the following pairs: \n 1. SI unit of electric charge - Ampere (A) \n 2. SI unit of electric current - Coulomb (C) \n 3. Instrument for measuring electric current in a circuit - Ammeter \n Which of the pairs given above is/are correctly matched? `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only ',
@@ -3888,7 +4102,8 @@ is the focal length of the lens.
 
 
     {
-        question: `215. Which of the following laws states that- the electric current flowing through a metallic wire is directly proportional to the  potential difference V, across its ends, provided its temperature remains the same? `,
+        question: `
+215. Which of the following laws states that- the electric current flowing through a metallic wire is directly proportional to the  potential difference V, across its ends, provided its temperature remains the same? `,
         options: [
             `A. Faraday's law `,
             `B. Charles’s law `,
@@ -3902,7 +4117,8 @@ is the focal length of the lens.
 
 
     {
-        question: `216. Resistance of a conductor depends upon which of the following factors: \n 1. On its length \n 2. On its area of cross-section \n 3. On the nature of its material \n Which of the statements given above is/are correct? `,
+        question: `
+216. Resistance of a conductor depends upon which of the following factors: \n 1. On its length \n 2. On its area of cross-section \n 3. On the nature of its material \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only  ',
             'B. 1 and 3 only ',
@@ -3916,7 +4132,8 @@ is the focal length of the lens.
 
 
     {
-        question: `217. Which of the following inorganic gases are filled in bulbs? \n 1. Nitrogen \n 2. Helium \n 3. Argon \n 4. Hydrogen `,
+        question: `
+217. Which of the following inorganic gases are filled in bulbs? \n 1. Nitrogen \n 2. Helium \n 3. Argon \n 4. Hydrogen `,
         options: [
             'A. 1 and 3 only ',
             'B. 1 and 4 only ',
@@ -3928,7 +4145,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `218. Which one of the following describes the direction of an electric current? `,
+        question: `
+218. Which one of the following describes the direction of an electric current? `,
         options: [
             'A. Opposite to the direction of flow of electrons. ',
             'B. In the direction of flow of electrons. ',
@@ -3940,7 +4158,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `219. Which of the following scientists had first observed the magnetic effect of electric current?  `,
+        question: `
+219. Which of the following scientists had first observed the magnetic effect of electric current?  `,
         options: [
             'A. Henry ',
             'B. Oersted ',
@@ -3952,7 +4171,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `220. If the current through the wire increases, the magnitude of the magnetic field produced at a given point: `,
+        question: `
+220. If the current through the wire increases, the magnitude of the magnetic field produced at a given point: `,
         options: [
             'A. Increases ',
             'B. Decreases ',
@@ -3964,7 +4184,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `221. Consider the following statements: \n 1. The Direct Current does not change its direction with time \n 2. A current, which changes direction after equal intervals of time, is called an alternating current. \n 3. Alternating current is used in transmissions over long distances. \n Which of the statements given above is/are correct? `,
+        question: `
+221. Consider the following statements: \n 1. The Direct Current does not change its direction with time \n 2. A current, which changes direction after equal intervals of time, is called an alternating current. \n 3. Alternating current is used in transmissions over long distances. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 1 and 2 only ',
@@ -3976,7 +4197,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `222. Which of the following statements is the phenomenon of electromagnetic induction? `,
+        question: `
+222. Which of the following statements is the phenomenon of electromagnetic induction? `,
         options: [
             'A. The process of charging a body ',
             'B. The process of generating magnetic field due to a current passing through a coil ',
@@ -3989,7 +4211,8 @@ is the focal length of the lens.
 
 
     {
-        question: `223. Which of the following organs in the human body produce the magnetic field? \n 1. Brain \n 2. Kidney \n 3. Heart \n 4. Liver `,
+        question: `
+223. Which of the following organs in the human body produce the magnetic field? \n 1. Brain \n 2. Kidney \n 3. Heart \n 4. Liver `,
         options: [
             'A. 1 and 2 only ',
             'B. 2, 3 and 4 only ',
@@ -4002,7 +4225,8 @@ is the focal length of the lens.
 
 
     {
-        question: `224. Different sources are used in India to meet the energy requirement. Depending on the consumption of energy from different sources, select the correct answer from the code given below in descending order: `,
+        question: `
+224. Different sources are used in India to meet the energy requirement. Depending on the consumption of energy from different sources, select the correct answer from the code given below in descending order: `,
         options: [
             'A. Coal > Water > Petroleum and Natural Gas > Nuclear energy ',
             'B. Coal > Petroleum and Natural Gas > Water > Nuclear energy ',
@@ -4015,7 +4239,8 @@ is the focal length of the lens.
 
 
     {
-        question: `225. Consider the following statements: \n 1. Hydro power plants convert the potential energy of falling water into electricity. \n 2. Construction of big dams generates greenhouse gas. \n Which of the statements given above is/are correct? `,
+        question: `
+225. Consider the following statements: \n 1. Hydro power plants convert the potential energy of falling water into electricity. \n 2. Construction of big dams generates greenhouse gas. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only  ',
@@ -4028,7 +4253,8 @@ is the focal length of the lens.
 
 
     {
-        question: `226. Consider the following statements: \n 1. The fuels which are produced by plants and animals are called biomass. \n 2. The main Constituent of Biogas is Methane. \n Which of the statements given above is/are correct? `,
+        question: `
+226. Consider the following statements: \n 1. The fuels which are produced by plants and animals are called biomass. \n 2. The main Constituent of Biogas is Methane. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only  ',
             'B. 2 only ',
@@ -4042,7 +4268,8 @@ is the focal length of the lens.
 
 
     {
-        question: `227. The slurry left behind in biogas plant, contains which of the following elements? `,
+        question: `
+227. The slurry left behind in biogas plant, contains which of the following elements? `,
         options: [
             'A. Potash and phosphorus ',
             'B. Nitrogen and phosphorus ',
@@ -4055,7 +4282,8 @@ is the focal length of the lens.
 
 
     {
-        question: `228. Which of the following countries is called the country of 'winds'? `,
+        question: `
+228. Which of the following countries is called the country of 'winds'? `,
         options: [
             'A. Norway ',
             'B. Canada ',
@@ -4068,7 +4296,8 @@ is the focal length of the lens.
 
 
     {
-        question: `229. Which of the following elements is/are used in making solar cells?  \n 1. Silicon  \n 2. Astatine   \n 3. Sirium  \n 4. Vanadium `,
+        question: `
+229. Which of the following elements is/are used in making solar cells?  \n 1. Silicon  \n 2. Astatine   \n 3. Sirium  \n 4. Vanadium `,
         options: [
             'A. 1 only ',
             'B. 3 and 4 only ',
@@ -4081,7 +4310,8 @@ is the focal length of the lens.
 
 
     {
-        question: `230. Sea energy can be converted into electricity in oceanthermal-energy-conversion plants when `,
+        question: `
+230. Sea energy can be converted into electricity in oceanthermal-energy-conversion plants when `,
         options: [
             'A. The temperature difference between the water at the surface and water at depths up to 2 km is 293 K (20°C) or more. ',
             'B. There are narrow valleys on the coast where the dams can be built. ',
@@ -4094,7 +4324,8 @@ is the focal length of the lens.
 
 
     {
-        question: `231. Consider the following statements: \n 1. In the nuclear fission, the nucleus of a heavy atom can be split apart into lighter nuclei. \n 2. In a nuclear reactor designed for electric power generation, nuclear ‘fuel’ releases energy at a controlled rate. \n Which of the statements given above is/are correct? `,
+        question: `
+231. Consider the following statements: \n 1. In the nuclear fission, the nucleus of a heavy atom can be split apart into lighter nuclei. \n 2. In a nuclear reactor designed for electric power generation, nuclear ‘fuel’ releases energy at a controlled rate. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -4107,7 +4338,8 @@ is the focal length of the lens.
 
 
     {
-        question: `232. Match List-I with List-II and select the correct answer using the code given below: \n List-I (Nuclear power reactors) List-II (States)  \n A. Kalpakkam    1. Uttar Pradesh  \n B. Narora       2. Gujarat  \n C. Kakrapar     3. Tamil Nadu  \n D. Tarapur      4. Maharashtra `,
+        question: `
+232. Match List-I with List-II and select the correct answer using the code given below: \n List-I (Nuclear power reactors) List-II (States)  \n A. Kalpakkam    1. Uttar Pradesh  \n B. Narora       2. Gujarat  \n C. Kakrapar     3. Tamil Nadu  \n D. Tarapur      4. Maharashtra `,
         options: [
             'A. A-3 B-1 C-2 D-4 ',
             'B. A-3 B-1 C-4 D-2 ',
@@ -4120,7 +4352,8 @@ is the focal length of the lens.
 
 
     {
-        question: `233. With reference to nuclear fusion, consider the following statements: \n 1. During the nuclear fusion reaction two lighter nuclei are joined to make a heavier nucleus. \n 2. Nuclear fusion reaction takes place in Sun and Star. It takes considerable energy to force the nuclei to fuse. \n Which of the statements given above is/are correct? `,
+        question: `
+233. With reference to nuclear fusion, consider the following statements: \n 1. During the nuclear fusion reaction two lighter nuclei are joined to make a heavier nucleus. \n 2. Nuclear fusion reaction takes place in Sun and Star. It takes considerable energy to force the nuclei to fuse. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 1 and 2 only ',
@@ -4134,7 +4367,8 @@ is the focal length of the lens.
 
 
     {
-        question: `234. Which of the following statements best describes the term ecosystem? `,
+        question: `
+234. Which of the following statements best describes the term ecosystem? `,
         options: [
             'A. A community of people interacting with each other (organism). ',
             'B. The part of the Earth that is inhabited by living organisms. ',
@@ -4148,7 +4382,8 @@ is the focal length of the lens.
 
 
     {
-        question: `235. Which of the following ecosystems is/are examples of natural ecosystem? \n 1. Ponds \n 2. Lakes \n 3. Crop-fields \n 4. Gardens Select the correct answer using the code given below:  `,
+        question: `
+235. Which of the following ecosystems is/are examples of natural ecosystem? \n 1. Ponds \n 2. Lakes \n 3. Crop-fields \n 4. Gardens Select the correct answer using the code given below:  `,
         options: [
             'A. 1, 2 and 4 only ',
             'B. 2, 3 and 4 only ',
@@ -4162,7 +4397,8 @@ is the focal length of the lens.
 
 
     {
-        question: `236. Regarding the producers, consider the following statements: \n 1. They make organic compounds from inorganic substances in the presence of sunlight and chlorophyll. \n 2. Fungi are Heterotrophs. \n Which of the statements given below is/are correct? `,
+        question: `
+236. Regarding the producers, consider the following statements: \n 1. They make organic compounds from inorganic substances in the presence of sunlight and chlorophyll. \n 2. Fungi are Heterotrophs. \n Which of the statements given below is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -4176,7 +4412,8 @@ is the focal length of the lens.
 
 
     {
-        question: `237. Regarding the categories of consumers in ecosystem, which of the following types of organisms are called decomposers? \n 1. Virus \n 2. Bacteria \n 3. Fungus `,
+        question: `
+237. Regarding the categories of consumers in ecosystem, which of the following types of organisms are called decomposers? \n 1. Virus \n 2. Bacteria \n 3. Fungus `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only ',
@@ -4190,7 +4427,8 @@ is the focal length of the lens.
 
 
     {
-        question: `238. Regarding a food chain in an ecosystem, consider the following statements: \n 1. Food chain involves flow of energy from one component of the system to another. \n 2. The Food chain demonstrates the numbers of every organism that are eaten by others in line. \n Which of the statements given above is/are correct? `,
+        question: `
+238. Regarding a food chain in an ecosystem, consider the following statements: \n 1. Food chain involves flow of energy from one component of the system to another. \n 2. The Food chain demonstrates the numbers of every organism that are eaten by others in line. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only  ',
@@ -4204,7 +4442,8 @@ is the focal length of the lens.
 
 
     {
-        question: `239. Consider the following statements: \n 1. Producers convert solar energy into chemical energy. \n 2. The flow of energy is unidirectional in food chain. \n 3. The green plants in a terrestrial ecosystem capture about 100% of the energy of sunlight that falls on their leaves and convert it into food energy. \n Which of the statements given below is/are correct? `,
+        question: `
+239. Consider the following statements: \n 1. Producers convert solar energy into chemical energy. \n 2. The flow of energy is unidirectional in food chain. \n 3. The green plants in a terrestrial ecosystem capture about 100% of the energy of sunlight that falls on their leaves and convert it into food energy. \n Which of the statements given below is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only  ',
@@ -4218,7 +4457,8 @@ is the focal length of the lens.
 
 
     {
-        question: `240. What is the average value for the amount of organic matter that is present at each step and reaches the next level of consumers? `,
+        question: `
+240. What is the average value for the amount of organic matter that is present at each step and reaches the next level of consumers? `,
         options: [
             'A. 10% ',
             'B. 20% ',
@@ -4232,7 +4472,8 @@ is the focal length of the lens.
 
 
     {
-        question: `241. Which of the following statements defines Biological Magnification? `,
+        question: `
+241. Which of the following statements defines Biological Magnification? `,
         options: [
             'A. Attack of an exotic species of plants in any ecosystem. ',
             'B. The energy flow from one level to another level in the food chain. ',
@@ -4246,7 +4487,8 @@ is the focal length of the lens.
 
 
     {
-        question: `242. Regarding the ozone layer, consider the following statements: \n 1. Ozone (O3) is a molecule formed by three atoms of oxygen. \n 2. Ozone shields the surface of the earth from ultraviolet radiation from the Sun. \n 3. Human synthesized chemicals such as chlorofluorocarbons (CFCs) have started declining the amount of ozone. Which of the statements given above is/are correct? `,
+        question: `
+242. Regarding the ozone layer, consider the following statements: \n 1. Ozone (O3) is a molecule formed by three atoms of oxygen. \n 2. Ozone shields the surface of the earth from ultraviolet radiation from the Sun. \n 3. Human synthesized chemicals such as chlorofluorocarbons (CFCs) have started declining the amount of ozone. Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 and 3 only ',
@@ -4259,7 +4501,8 @@ is the focal length of the lens.
 
 
     {
-        question: `243. Hydrogen bomb is based on which of the following reactions? `,
+        question: `
+243. Hydrogen bomb is based on which of the following reactions? `,
         options: [
             'A. Controlled fusion reaction ',
             'B. Thermonuclear fusion reaction ',
@@ -4272,7 +4515,8 @@ is the focal length of the lens.
 
 
     {
-        question: `244. The Ganga Action Plan was first introduced in which of the following years? `,
+        question: `
+244. The Ganga Action Plan was first introduced in which of the following years? `,
         options: [
             'A. 1982 ',
             'B. 1985 ',
@@ -4285,7 +4529,8 @@ is the focal length of the lens.
 
 
     {
-        question: `245. Amrita Devi Bishnoi National Award is given in which of the following fields? `,
+        question: `
+245. Amrita Devi Bishnoi National Award is given in which of the following fields? `,
         options: [
             'A. In the field of wildlife conservation ',
             'B. In the soil conservation ',
@@ -4298,7 +4543,8 @@ is the focal length of the lens.
 
 
     {
-        question: `246. Consider the following statements: \n 1. The Chipko movement is associated with forest conservation. \n 2. The Chipko movement, got originated from Himachal Pradesh. \n 3. The Chipko movement began during the early 1970s. Which of the statements given above is/are correct? `,
+        question: `
+246. Consider the following statements: \n 1. The Chipko movement is associated with forest conservation. \n 2. The Chipko movement, got originated from Himachal Pradesh. \n 3. The Chipko movement began during the early 1970s. Which of the statements given above is/are correct? `,
         options: [
             'A. 1 and 2 only ',
             'B. 1 and 3 only ',
@@ -4311,7 +4557,8 @@ is the focal length of the lens.
 
 
     {
-        question: `247. Match List-I with List-II: \n List-I (Methodology of Water Harvesting) List-II (Related State)  \n A. Pynes 1. Tamil Nadu  \n B. Kulhs 2. Bihar  \n C. Khadins 3. Himachal Pradesh  \n D. Eris 4. Rajasthan `,
+        question: `
+247. Match List-I with List-II: \n List-I (Methodology of Water Harvesting) List-II (Related State)  \n A. Pynes 1. Tamil Nadu  \n B. Kulhs 2. Bihar  \n C. Khadins 3. Himachal Pradesh  \n D. Eris 4. Rajasthan `,
         options: [
             'A. A-2 B-3 C-4 D-1 ',
             'B. A-2 B-3 C-1 D-4 ',
@@ -4324,7 +4571,8 @@ is the focal length of the lens.
 
 
     {
-        question: `248. Consider the following statements: \n 1. Coal and Petroleum have been derived from inorganic sources. \n 2. Carbon monoxide is the byproduct of limited supply of oxygen during combustion. \n Which of the statements given above is/are correct? `,
+        question: `
+248. Consider the following statements: \n 1. Coal and Petroleum have been derived from inorganic sources. \n 2. Carbon monoxide is the byproduct of limited supply of oxygen during combustion. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -4337,7 +4585,8 @@ is the focal length of the lens.
 
 
     {
-        question: `249. Which of the following does not lead to the depletion of groundwater? `,
+        question: `
+249. Which of the following does not lead to the depletion of groundwater? `,
         options: [
             'A. Establishing thermal power plants ',
             'B. Cultivation of high yielding varieties of crops ',
@@ -4349,7 +4598,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `250. Among the following choose the correct option which includes acts related to the three R's strategy which can bseful for conserving our natural resources? `,
+        question: `
+250. Among the following choose the correct option which includes acts related to the three R's strategy which can bseful for conserving our natural resources? `,
         options: [
             'A. Recycle, regenerate, reuse ',
             'B. Reduce, regenerate, reuse ',
@@ -4361,7 +4611,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `251. In our country, there are attempts to increase the height of several existing dams like Tehri and Almati dam across the Narmada. \n Choose the correct statements among the following that are a consequence of raising the height of dams \n 1. Terrestrial flora and fauna of the area is destroyed completely \n 2. Dislocation of people and domestic animals living in the area \n 3. Valuable agricultural land may be permanently lost \n 4. It will generate permanent employment for people Choose the correct option from the following:`,
+        question: `
+251. In our country, there are attempts to increase the height of several existing dams like Tehri and Almati dam across the Narmada. \n Choose the correct statements among the following that are a consequence of raising the height of dams \n 1. Terrestrial flora and fauna of the area is destroyed completely \n 2. Dislocation of people and domestic animals living in the area \n 3. Valuable agricultural land may be permanently lost \n 4. It will generate permanent employment for people Choose the correct option from the following:`,
         options: [
             'A. 1 and 2 ',
             'B. 1, 2 and 3 ',
@@ -4374,7 +4625,8 @@ is the focal length of the lens.
 
 
     {
-        question: `252. Given below are a few statements related to biodiversity. Pick those that correctly describe the concept of biodiversity  \n 1. Biodiversity refers to the different species of flora and fauna present in an area  \n 2. Biodiversity refers to only the flora of a given area  \n 3. Biodiversity is greater in a forest  \n 4. Biodiversity refers to the total number of individuals of a particular species living in an area  \n Choose the correct option from the following: `,
+        question: `
+252. Given below are a few statements related to biodiversity. Pick those that correctly describe the concept of biodiversity  \n 1. Biodiversity refers to the different species of flora and fauna present in an area  \n 2. Biodiversity refers to only the flora of a given area  \n 3. Biodiversity is greater in a forest  \n 4. Biodiversity refers to the total number of individuals of a particular species living in an area  \n Choose the correct option from the following: `,
         options: [
             'A. 1 and 2 ',
             'B. 2 and 4 ',
@@ -4388,7 +4640,8 @@ is the focal length of the lens.
 
 
     {
-        question: `253. Which among the statements given below is incorrect? `,
+        question: `
+253. Which among the statements given below is incorrect? `,
         options: [
             'A. Sustainable development does not take into consideration the viewpoints of all stakeholders ',
             'B. Sustainable development is a long planned and persistent development ',
@@ -4402,7 +4655,8 @@ is the focal length of the lens.
 
 
     {
-        question: `254. Consider the following: \n 1. Cotton \n 2. PET \n 3. Plastic \n Which of the above is/are example(s) of natural polymers?`,
+        question: `
+254. Consider the following: \n 1. Cotton \n 2. PET \n 3. Plastic \n Which of the above is/are example(s) of natural polymers?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4413,7 +4667,8 @@ is the focal length of the lens.
         exp: `Explanation: A polymer is made up of may small units. A polymer can be either natural or synthetic. Cotton is a natural polymer, called cellulose. Cellulose comprises of many molecules of glucose monomers. Wool, silk and leather are also examples of natural polymers. Synthetic fibres are obtained from the chemical reaction of petrochemicals. Polyethylene Terephthalate is a synthetic polymer, a common example of polyester. It is used to make bottles, utensils, film, wires, and other essential products. Like synthetic fibres, plastic is also a polymer. Polythene (poly + ethene) is an example of plastic. Plastic takes many years to decompose, hence it is not environment friendly.`
     },
     {
-        question: `255. Match the items of column 1 with column 2 and select the correct answer using the code given below. \n Column 1 Column 2 \n A. Rayon 1. It is made from coal, water and air. \n B. Nylon 2. It is called synthetic silk. \n C. Terylene 3. It is a polyester. \n D. Acrylic 4. It is used to make wool, sweater and shawls.`,
+        question: `
+255. Match the items of column 1 with column 2 and select the correct answer using the code given below. \n Column 1 Column 2 \n A. Rayon 1. It is made from coal, water and air. \n B. Nylon 2. It is called synthetic silk. \n C. Terylene 3. It is a polyester. \n D. Acrylic 4. It is used to make wool, sweater and shawls.`,
         options: [
             'A. 2 1 3 4',
             'B. 1 2 4 3',
@@ -4424,7 +4679,8 @@ is the focal length of the lens.
         exp: `Explanation: Rayon, nylon, terylene and acrylic are all examples of synthetic fibres. Rayon is also called synthetic silk. It is made by the synthetic treatment of wood cellulose. It is cheaper than silk. Nylon is synthesised from coal, air and water. It is the first fully synthetic fibre. Nylon wire are more durable than steel wire. Terylene is a popular polyester. Fabric made from this fibre does not get wrinkled easily. Acrylic is used to make wool, sweater, shawl and blankets. Objects made of acrylic are cheaper and their maintenance is easier.`
     },
     {
-        question: `256. Uniforms of firemen have a coating to make them flame resistant. Which of the following is used to make that coat?`,
+        question: `
+256. Uniforms of firemen have a coating to make them flame resistant. Which of the following is used to make that coat?`,
         options: [
             'A. Melamine',
             'B. Bekalite',
@@ -4435,7 +4691,8 @@ is the focal length of the lens.
         exp: `Explanation: Uniforms of firemen have a coating of melamine plastic to make them flame resistant. Melamine is fire-resistant and is more heat resistant as compared to other plastics. Bakelite is a bad conductor of heat and electricity. It is used to make switches, handles of utensils, etc. Polyester is a polymer made up of (poly + ester) monomers. Ester is the chemical responsible for the sweet smell of fruits. Teflon is a special plastic, which does not allow oil or water to stick on it. It is used to make the non-sticky layer on the utensils used to cook food.`
     },
     {
-        question: `257. Which of the following metals remains in liquid state at room temperature?`,
+        question: `
+257. Which of the following metals remains in liquid state at room temperature?`,
         options: [
             'A. Sodium',
             'B. Mercury',
@@ -4446,7 +4703,8 @@ is the focal length of the lens.
         exp: `Explanation: Mercury is the metal that exists as liquid in room temperature. It is an anomalous metal. Sodium and Potassium metals are soft and can be cut with a knife.`
     },
     {
-        question: `258. If copper utensils are exposed to moist air for a long time, they develop a green layer over them. Which of the following is that green substance?`,
+        question: `
+258. If copper utensils are exposed to moist air for a long time, they develop a green layer over them. Which of the following is that green substance?`,
         options: [
             'A. Copper Hydroxide',
             'B. Copper Carbonate',
@@ -4457,7 +4715,8 @@ is the focal length of the lens.
         exp: `Explanation: When copper utensils are exposed to moist air for a long time, they develop a green layer over them. This green substance is a mixture of Copper Hydroxide [Cu(OH)2] and Copper Carbonate [CuCO3].`
     },
     {
-        question: `259. Which of the following is a highly reactive metal which catches fire when exposed to air?`,
+        question: `
+259. Which of the following is a highly reactive metal which catches fire when exposed to air?`,
         options: [
             'A. Phosphorus',
             'B. Sodium',
@@ -4468,7 +4727,8 @@ is the focal length of the lens.
         exp: `Explanation: Phosphorus, Iodine and Bromine are all non-metals. They do not generally react with water, but are highly reactive in air. Of the three, phosphorus is the most reactive non-metal. It catches fire on being exposed to air. To prevent the contact of phosphorus with atmospheric oxygen, it is stored in water.Bromine is the only non- metal which exists as a liquid in room temperature. Sodium is a metal which is highly reactive in nature. It reacts rapidly with air and water. A lot of energy is generated in these reactions. Therefore, it is stored in kerosene oil.`
     },
     {
-        question: `260. Name the synthetic polymer that resembles like natural rubber?`,
+        question: `
+260. Name the synthetic polymer that resembles like natural rubber?`,
         options: [
             'A. Polypropene',
             'B. Neoprene',
@@ -4479,7 +4739,8 @@ is the focal length of the lens.
         exp: `Explanation: Neoprene (CR), also called polychloroprene or chloroprene rubber, synthetic rubber produced by the polymerization (or linking together of single molecules into giant, multiple-unit molecules) of chloroprene. A good general-purpose rubber, neoprene is valued for its high tensile strength, resilience, oil and flame resistance, and resistance to degradation by oxygen and ozone; however, its high cost limits its use to special-properties applications. This polymer tends to crystallize and harden slowly at temperatures below about 10 °C (50 °F). It also crystallizes on stretching, so cured components are strong even without the addition of fillers such as carbon black. Because the double bond between the carbon atoms is shielded by the pendant atoms and CH2 groups, the molecular interlinking necessary for vulcanizing the polymer to a cured rubber is usually effected through the chlorine atom. The presence of chlorine in the molecular structure causes this elastomer to resist swelling by hydrocarbon oils, to have greater resistance to oxidation and ozone attack, and to possess a measure of flame resistance. Principal applications are in products such as wire and cable insulation, hoses, belts, springs, flexible mounts, gaskets, and adhesives, where resistance to oil, heat, flame, and abrasion are required.`
     },
     {
-        question: `261. Name the polymer that can have strong intermolecular forces?`,
+        question: `
+261. Name the polymer that can have strong intermolecular forces?`,
         options: [
             'A. Polyester',
             'B. Teflon',
@@ -4490,7 +4751,8 @@ is the focal length of the lens.
         exp: `Explanation: Polyester is a generalised term for any fabric or textile, which is made using polyester yarns or fibres. It is a shortened name for a synthetic, man-made polymer, which, as a specific material, is most commonly referred to as a type called polyethylene terephthalate (PET). It is made by mixing ethylene glycol and terephthalic acid. That all sounds extremely scientific, but basically, polyester is a kind of plastic. What are some characteristics of polyester fabric?  Polyester is very durable and is resistant to many chemicals  This is a popular fabric in the fashion industry, as it is resistant to shrining and stretching. It is also resistant to wrinkling and abrasions  The fibres used to create Polyester are very strong yet lightweight  The fibres are easily dyed  It retains its shape very well  Polyester fabric is easy to look after and it can be washed and dried at home  It is a quick drying fabric, so a popular choice for outdoors clothing`
     },
     {
-        question: `262. Aluminium is used for making cooking utensils. Which of the following properties of aluminium are responsible for the same? \n 1. Good thermal conductivity \n 2. Good electrical conductivity \n 3. Ductility \n 4. High melting point`,
+        question: `
+262. Aluminium is used for making cooking utensils. Which of the following properties of aluminium are responsible for the same? \n 1. Good thermal conductivity \n 2. Good electrical conductivity \n 3. Ductility \n 4. High melting point`,
         options: [
             'A. 1 and 2',
             'B. 1 and 3',
@@ -4501,7 +4763,8 @@ is the focal length of the lens.
         exp: `Explanation: Some of the most common properties of Aluminium are good thermal conductivity, malleability, light weight and high melting point which make it useful for making cooking utensils.`
     },
     {
-        question: `263. Which of the following represent the correct order of decreasing reactivity?`,
+        question: `
+263. Which of the following represent the correct order of decreasing reactivity?`,
         options: [
             'A. Mg > Al > Zn > Fe',
             'B. Mg > Zn > Al > Fe',
@@ -4513,7 +4776,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `264. Consider the following statements in the context of microorganisms and diseases caused by them: \n 1. Chicken pox and Hepatitis A are caused by virus. \n 2. Typhoid and Measles are caused by bacteria. \n 3. Diarrhoea and Malaria are caused by protozoa. \n Which of the statements given above is/are correct?`,
+        question: `
+264. Consider the following statements in the context of microorganisms and diseases caused by them: \n 1. Chicken pox and Hepatitis A are caused by virus. \n 2. Typhoid and Measles are caused by bacteria. \n 3. Diarrhoea and Malaria are caused by protozoa. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4524,7 +4788,8 @@ is the focal length of the lens.
         exp: `Explanation: Measles is not caused by bacteria, but virus. Common \n cold, influenza and most coughs are caused by viruses. In animals, \n foot and mouth disease of cattle is also caused by virus. \n Some microorganisms, disease caused by them and the mode of \n transmission: \n Disease Causative microorganism Mode of transmission \n Measles Virus Air \n Chickenpox Virus Air/Direct \n Polio Virus Air/Water \n Hepatitis A Virus Water \n Tuberculosis Bacteria Air \n Cholera Bacteria Water/Food \n Typhoid Bacteria Water \n Malaria Protozoa Mosquito \n Diarrhoea Protozoa Water`
     },
     {
-        question: `265. Consider the following: \n 1. Algae: Spirogyra \n 2. Protozoa: Chlamydomonas \n 3. Fungi: Rhizopus (bread mould) \n Which of the pairs given above is/are correctly matched?`,
+        question: `
+265. Consider the following: \n 1. Algae: Spirogyra \n 2. Protozoa: Chlamydomonas \n 3. Fungi: Rhizopus (bread mould) \n Which of the pairs given above is/are correctly matched?`,
         options: [
             'A. 1 only',
             'B. 1 and 3 only',
@@ -4535,7 +4800,8 @@ is the focal length of the lens.
         exp: `Explanation:  Of the given microorganisms, Spirogyra and Chlamydomonas are  examples of algae. Common examples of protozoa are amoeba and  paramecium. Rhizopus (bread mould), Penicillium and Aspergillus are  examples of fungi.  Microorganisms can be unicellular, like bacteria; some are  multicellular, like algae and fungi. Some microorganisms are  dependent on other microorganisms (parasitic), while some are not  (free living). Microorganisms like amoeba live alone (solitary) while  fungi lives in groups (colonial).`
     },
     {
-        question: `266. Which of the following microorganisms is required to turn milk into curd?`,
+        question: `
+266. Which of the following microorganisms is required to turn milk into curd?`,
         options: [
             'A. Bacteria',
             'B. Fungi',
@@ -4546,7 +4812,8 @@ is the focal length of the lens.
         exp: `Explanation: Bacteria is required to turn milk into curd. Many microorganisms are found in curd, of which, a microorganism called Lactobacillus plays primary role. It multiplies in milk and converts it into curd.,  Microorganisms are helpful in the production of many food Items like cheese, bread etc.`
     },
     {
-        question: `267. Which of the following is produced by yeast through respiration, when it is mixed with food items?`,
+        question: `
+267. Which of the following is produced by yeast through respiration, when it is mixed with food items?`,
         options: [
             'A. Oxygen',
             'B. Carbon dioxide',
@@ -4557,7 +4824,8 @@ is the focal length of the lens.
         exp: `Explanation: Once mixed with food items, yeast multiplies quickly to give out carbon dioxide through respiration. Carbon dioxide bubbles enhance the volume of the food item. Yeast is used in the baking industry, to make bread, pastry, cake, etc.`
     },
     {
-        question: `268. Match the items in Column 1 with those in Column 2, and choose the correct option. \n Column 1 Column 2 \n Fermentation Robert Koch \n Penicillin Edward Jenner \n Vaccine for measles Louis Pasteur,  \n Bacillus anthracis Alexander Fleming`,
+        question: `
+268. Match the items in Column 1 with those in Column 2, and choose the correct option. \n Column 1 Column 2 \n Fermentation Robert Koch \n Penicillin Edward Jenner \n Vaccine for measles Louis Pasteur,  \n Bacillus anthracis Alexander Fleming`,
         options: [
             'A. 3 4 2 1',
             'B. 3 4 1 2',
@@ -4568,7 +4836,8 @@ is the focal length of the lens.
         exp: `Explanation: The process of conversion of sugar into alcohol is called fermentation. Louis Pasteur discovered fermentation in 1857. Penicillin was discovered by Alexander Fleming in the year 1929. It is an antibiotic which destroys the disease causing organisms. Streptomycin, terramycin and erythromycin are some of the commonly used antibiotics; which are produced from fungi and bacteria. Vaccine for measles was invented by Edward Jenner in 1798. If dead or inactive microorganisms are injected into the body, then the cells of the body release antibodies according to the microorganisms. This concept is the basis for the production of vaccines.,  Robert Koch discovered Bacillus anthracis in the year 1876, which is the causative organism of anthrax. Anthrax is a dangerous disease affecting humans and animals.`
     },
     {
-        question: `269. Consider the following pairs: \n Disease Disease Carrier \n 1. Cholera Housefly \n 2. Malaria Female Aedes mosquito \n 3. Dengue Female Anopheles \n Which of the pairs given above is/are correctly matched?`,
+        question: `
+269. Consider the following pairs: \n Disease Disease Carrier \n 1. Cholera Housefly \n 2. Malaria Female Aedes mosquito \n 3. Dengue Female Anopheles \n Which of the pairs given above is/are correctly matched?`,
         options: [
             'A. 1 only',
             'B. 1 and 3 only',
@@ -4579,7 +4848,8 @@ is the focal length of the lens.
         exp: `Explanation: Housefly acts as the carrier of cholera. Female Anopheles mosquito is an example of carrier of the malaria parasite (Plasmodium).,  Female Aedes mosquito is a carrier of the dengue virus.`
     },
     {
-        question: `270. Consider the following pairs: Plant disease Causative microorganism \n 1. Lemon canker Bacteria \n 2. Rust of wheat Fungi \n 3. Yellowing of ladyfinger Virus \n Which of the pairs given above is/are correctly matched?`,
+        question: `
+270. Consider the following pairs: Plant disease Causative microorganism \n 1. Lemon canker Bacteria \n 2. Rust of wheat Fungi \n 3. Yellowing of ladyfinger Virus \n Which of the pairs given above is/are correctly matched?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4590,7 +4860,8 @@ is the focal length of the lens.
         exp: `Explanation: Plant disease Causative organism Mode of transmission Lemon canker Bacteria Air Rust of wheat Fungi Air and seeds,  Yellowing of ladyfinger Virus Insects`
     },
     {
-        question: `271. Consider the following statements regarding food preservatives. \n 1. Sodium Benzoate and Sodium Metabisulfite are common food preservatives. \n 2. Salt, sugar, edible oil and vinegar are used as food preservatives. \n Which of the statements given above is/are correct?`,
+        question: `
+271. Consider the following statements regarding food preservatives. \n 1. Sodium Benzoate and Sodium Metabisulfite are common food preservatives. \n 2. Salt, sugar, edible oil and vinegar are used as food preservatives. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4601,7 +4872,8 @@ is the focal length of the lens.
         exp: `Explanation: Microorganisms contaminate food items. Preservatives are used to prevents the contamination of food items. Sodium Benzoate and Sodium Metabisulfite are common food preservatives. These chemicals are used for the manufacture of jams and squash. Salt, sugar, edible oil and vinegar are used to inhibit the multiplication of microorganisms in food items. For example, salt, edible oil and vinegar are used to prevent the contamination of,  pickles; and sugar is used to prevent the contamination of jams and squash.`
     },
     {
-        question: `272. Consider the following statements regarding pasteurised milk. \n 1. Pasteurised milk can be consumed without boiling, because it is free of microorganisms. \n 2. In order to pasteurise the milk, it is first heated to a temperature of 70 degree celsius, for 15-20 minutes; and then cooled rapidly; and packaged. \n Which of the statements given above is/are correct?`,
+        question: `
+272. Consider the following statements regarding pasteurised milk. \n 1. Pasteurised milk can be consumed without boiling, because it is free of microorganisms. \n 2. In order to pasteurise the milk, it is first heated to a temperature of 70 degree celsius, for 15-20 minutes; and then cooled rapidly; and packaged. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4612,7 +4884,8 @@ is the focal length of the lens.
         exp: `Explanation: Pasteurised milk can be consumed without boiling, because it is free from microorganisms. To pasteurise the milk, it is heated up to 70 degree celsius for 15- 20 seconds and then cooled rapidly; and then stored or packaged. This decreases the multiplication of microorganisms. Thus, Louis Pasteur invented this method; hence it is named after him., `
     },
     {
-        question: `273. Which of the following statements is not correct, in regard to nitrogen cycle?`,
+        question: `
+273. Which of the following statements is not correct, in regard to nitrogen cycle?`,
         options: [
             'A. Bacteria and blue green algae present in the soil, fix atmospheric nitrogen and convert it to nitrogen compounds, to be used by the plants.',
             'B. Animals feeding on plants get proteins synthesised by them and other nitrogen compounds.',
@@ -4624,7 +4897,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `274. Which of the following statements is not correct?`,
+        question: `
+274. Which of the following statements is not correct?`,
         options: [
             'A. Like charges attract each other.',
             'B. Electric charge obtained by rubbing materials against each other is static.',
@@ -4635,7 +4909,8 @@ is the focal length of the lens.
         exp: `Explanation: Like charges repel each other, while unlike charges attract each other.Charge is generated by rubbing objects against each other. It is a convention to call the charge acquired by a glass rod when it is rubbed with silk as positive. The other kind of charge is called negative.When charge moves, electricity is generated.The process of sending the extra charge from a charged object is called earthing.`
     },
     {
-        question: `275. Consider the following statements regarding lightning: \n 1. Positive charge accumulated near the surface of the earth and the negative charge accumulated at the lower surface of the clouds combine to generate light and sound of lightning. \n 2. The process of generation of lightning is called electric discharge. This can occur between two or more clouds; or between the clouds and earth. \n 3. To protect the buildings from lightning, an object called lightning conductor is used. \n Which of the statements given above is/are correct?`,
+        question: `
+275. Consider the following statements regarding lightning: \n 1. Positive charge accumulated near the surface of the earth and the negative charge accumulated at the lower surface of the clouds combine to generate light and sound of lightning. \n 2. The process of generation of lightning is called electric discharge. This can occur between two or more clouds; or between the clouds and earth. \n 3. To protect the buildings from lightning, an object called lightning conductor is used. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 and 2 only',
             'B. 2 and 3 only',
@@ -4646,7 +4921,8 @@ is the focal length of the lens.
         exp: `Explanation: During the development of a thunderstorm, the air currents move upward while the water droplets move downward. These vigorous movements cause separation of charges. By a process, the positive charges collect near the upper edges of the clouds and the negative charges accumulate near the lower edges. There is accumulation of positive charges near the ground also. When the magnitude of the accumulated charges becomes very large, the air which is normally a poor conductor of electricity, is no longer able to resist their flow. Negative and positive charges meet, producing streaks of bright light and sound. We see streaks as lightning . The process of generation of lightning is called electric discharge. This can occur between two or more clouds; or between the clouds and earth. Lightning Conductor is a device used to protect buildings from the effect of lightning. A metallic rod, taller than the building, is installed in the walls of the building during its construction. One end of the rod is kept out in the air and the other is buried deep in the ground. The rod provides easy route for the transfer of electric charge to the ground.`
     },
     {
-        question: `276. The earth is divided into many layers. Which of the following layers is responsible for tremors?`,
+        question: `
+276. The earth is divided into many layers. Which of the following layers is responsible for tremors?`,
         options: [
             'A. Crust',
             'B. Mantle',
@@ -4657,7 +4933,8 @@ is the focal length of the lens.
         exp: `Explanation: Faults in the outermost layer of earth cause tremors. This layer is called ‘crust’. The outermost layer of the earth is not in one piece. It is fragmented. Each fragment is called a plate. These plates are in continual motion. When they brush past one another, or one plate goes under another due to collision, they cause disturbance in the earth’s crust. It is this disturbance that shows up as an earthquake on the surface of the earth.,  The tremors produce waves on the surface of the earth. These are called seismic waves. The waves are recorded by an instrument called the seismograph.`
     },
     {
-        question: `277. Consider the following statements about earthquakes: \n 1. Earthquakes are caused by the movement of plates, the boundaries of the plates are the weak zones where earthquakes are more likely to occur. The weak zones are also known as seismic or fault zones. \n 2. In India, the areas most threatened are Kashmir, Western and Central Himalayas, the whole of North-East, Rann of Kutch, Rajasthan and the Indo - Gangetic Plain. Some areas of South India also fall in the danger zone. \n Which of the statements given above is/are correct?`,
+        question: `
+277. Consider the following statements about earthquakes: \n 1. Earthquakes are caused by the movement of plates, the boundaries of the plates are the weak zones where earthquakes are more likely to occur. The weak zones are also known as seismic or fault zones. \n 2. In India, the areas most threatened are Kashmir, Western and Central Himalayas, the whole of North-East, Rann of Kutch, Rajasthan and the Indo - Gangetic Plain. Some areas of South India also fall in the danger zone. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4668,7 +4945,8 @@ is the focal length of the lens.
         exp: `Explanation: Earthquakes arise due to the movement of plates. The boundaries of the plates are the weak zones where earthquakes are more likely to occur. The weak zones are also known as seismic or fault zones.In India, the areas most threatened are Kashmir, Western and Central Himalayas, the whole of North-East, Rann of Kutch, Rajasthan and the Indo - Gangetic Plain. Some areas of South India also fall in the danger zone.`
     },
     {
-        question: `278. Consider the following statements regarding the measurement of the magnitude of earthquake. \n 1. The power of an earthquake is expressed in terms of a magnitude on a scale called Richter scale. \n 2. Richter scale is a linear scale. \n 3. An increase of 2 in magnitude means 1000 times more destructive energy. \n Which of the statements given above is/are correct?`,
+        question: `
+278. Consider the following statements regarding the measurement of the magnitude of earthquake. \n 1. The power of an earthquake is expressed in terms of a magnitude on a scale called Richter scale. \n 2. Richter scale is a linear scale. \n 3. An increase of 2 in magnitude means 1000 times more destructive energy. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 1 and 3 only',
@@ -4679,7 +4957,8 @@ is the focal length of the lens.
         exp: `Explanation: The power of an earthquake is expressed in terms of a magnitude on a scale called Richter scale. Richter scale is not linear. It is logarithmic. As it is logarithmic, each measurement from 1 to 10, marked on the Richter scale denotes a ten times amplitude and 32 times the energy on the seismograph. In fact, an increase of 2 in magnitude means 1000 times more destructive energy.`
     },
     {
-        question: `279. Consider the following statements: \n 1. Emission of light by objects. \n 2. Reflection of light by objects. \n 3. Dispersion of light. \n Which of the above is/are related to the phenomenon of seeing objects?`,
+        question: `
+279. Consider the following statements: \n 1. Emission of light by objects. \n 2. Reflection of light by objects. \n 3. Dispersion of light. \n Which of the above is/are related to the phenomenon of seeing objects?`,
         options: [
             'A. 1 and 2 only',
             'B. 2 only',
@@ -4690,7 +4969,8 @@ is the focal length of the lens.
         exp: `Explanation: To be able to see an object, it is necessary for light from the object to reach the eyes. This light can reach the eyes through emission or reflection.Objects which emit light of their own are called luminous objects, while objects which do not emit light are called non luminous.The phenomenon of splitting of white light into,  its constituent colours is called dispersion. Rainbow is a natural phenomenon caused by dispersion of light. Dispersion is not responsible for the sight of objects.`
     },
     {
-        question: `280. Which of the following parts of the eye is responsible for its characteristic color?`,
+        question: `
+280. Which of the following parts of the eye is responsible for its characteristic color?`,
         options: [
             'A. Lens',
             'B. Cornea',
@@ -4701,7 +4981,8 @@ is the focal length of the lens.
         exp: `Explanation: Iris is the part of the eye which is responsible for its characteristic colour. The eye has a roughly spherical shape. Outer coat of the eye is white. It is tough so that it can protect the interior of the eye from accidents. Its transparent front part is called cornea. Behind the cornea, we find a dark muscular structure called iris. In the iris, there is a small opening called the pupil. The size of the pupil is controlled by the iris. Behind the pupil of the eye is a lens which is thicker in the centre, called the convex lens. The lens focuses light on the back of the eye, on a layer called retina.`
     },
     {
-        question: `281. Consider the following statements about retina: \n 1. Retina contains several nerve cells.,  \n 2. The blind spot is present at the junction of the optic nerve and the retina. \n 3. The impression of an image does not vanish immediately from the retina. \n Which of the statements given above is/are correct?`,
+        question: `
+281. Consider the following statements about retina: \n 1. Retina contains several nerve cells.,  \n 2. The blind spot is present at the junction of the optic nerve and the retina. \n 3. The impression of an image does not vanish immediately from the retina. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4712,7 +4993,8 @@ is the focal length of the lens.
         exp: `Explanation: Retina contains several nerve cells. Sensations felt by the nerve cells are then transmitted to the brain through the optic nerve. There are two kinds of cells (i) cones, which are sensitive to bright light and (ii) rods, which are sensitive to dim light.At the junction of the optic nerve and the retina, there are no sensory cells, so no vision is possible at that spot. This is called the blind spot. The impression of an image does not vanish immediately from the retina. It persists there for about 1/16th of a second. So, if still images of a moving object are flashed on the eye at a rate faster than 16 per second, then the eye perceives this object as moving., `
     },
     {
-        question: `282. Which of the following is the Braille system associated with?`,
+        question: `
+282. Which of the following is the Braille system associated with?`,
         options: [
             'A. Laws of reflection of light',
             'B. People with near and far sightedness',
@@ -4723,7 +5005,8 @@ is the focal length of the lens.
         exp: `Explanation: The most popular reading and writing system for visually challenged persons is known as Braille. Louis Braille, himself a visually challenged person, developed a system for visually challenged persons and published it in 1821. Braille system has 63 dot patterns or characters.`
     },
     {
-        question: `283. Animals have eyes shaped in different ways, and have various specialities. Consider the following statements regarding these specialities: \n 1. Eyes of a crab are quite small but they enable the crab to look all around him. \n 2. Butterfly has large eyes that seem to be made up of thousands of little eyes. \n 3. The Owl has a large cornea and a large pupil to allow more light in its eye. \n Which of the statements given above is/are correct?`,
+        question: `
+283. Animals have eyes shaped in different ways, and have various specialities. Consider the following statements regarding these specialities: \n 1. Eyes of a crab are quite small but they enable the crab to look all around him. \n 2. Butterfly has large eyes that seem to be made up of thousands of little eyes. \n 3. The Owl has a large cornea and a large pupil to allow more light in its eye. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 and 2 only',
             'B. 2 and 3 only',
@@ -4735,7 +5018,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `284. The amount of heat required to change one form of matters to other without changing the temperature is called:`,
+        question: `
+284. The amount of heat required to change one form of matters to other without changing the temperature is called:`,
         options: [
             'A. Latent heat',
             'B. Fusion',
@@ -4746,7 +5030,8 @@ is the focal length of the lens.
         exp: `Explanation: Latent heat, energy absorbed or released by a substance during a change in its physical state (phase) that occurs without changing its temperature. The latent heat associated with melting a solid or freezing a liquid is called the heat of fusion; that associated with vaporizing a liquid or a solid or condensing a vapour is called the heat of vaporization. The latent heat is normally expressed as the amount of heat (in units of joules or calories) per mole or unit mass of the substance undergoing a change of state. Latent heat arises from the work required to overcome the forces that hold together atoms or molecules in a material. The regular structure of a crystalline solid is maintained by forces of attraction among its individual atoms, which oscillate slightly about their average positions in the crystal lattice. As the temperature increases, these motions become increasingly violent until, at the melting point, the attractive forces are no longer sufficient to maintain the stability of the crystal lattice. However, additional heat (the latent heat of fusion) must be added (at constant, temperature) in order to accomplish the transition to the even more-disordered liquid state, in which the individual particles are no longer held in fixed lattice positions but are free to move about through the liquid. A liquid differs from a gas in that the forces of attraction between the particles are still sufficient to maintain a long-range order that endows the liquid with a degree of cohesion. As the temperature further increases, a second transition point (the boiling point) is reached where the long-range order becomes unstable relative to the largely independent motions of the particles in the much larger volume occupied by a vapour or gas. Once again, additional heat (the latent heat of vaporization) must be added to break the long-range order of the liquid and accomplish the transition to the largely disordered gaseous state.`
     },
     {
-        question: `285. The force of attraction between the molecules of water is called:`,
+        question: `
+285. The force of attraction between the molecules of water is called:`,
         options: [
             'A. Adhesion',
             'B. Cohesion',
@@ -4757,7 +5042,8 @@ is the focal length of the lens.
         exp: `Explanation: Cohesion is the mutual attraction and sticking property of molecules. It is an intrinsic property in certain substances that is, commonly caused by the structure and shape of its molecules, resulting in electrical attraction. Cohesion paves the way for surface tension, establishing a solid-like condition where, in low density or light, materials can be set. Cohesion is also known as cohesive force or cohesive attraction. Cohesion promotes attraction between dissimilar molecules. This concept has many applications, the most common being its role in promoting coating strength. The strength in coatings refers to its cohesion measure to a substrate or surface. Without good cohesion, the coating is useless. As long as coatings remain sticking to the surface, the material is protected against: 1. Chemicals 2. Weather and environment 3. Impact 4. Stress and scratches`
     },
     {
-        question: `286. At what temperature water has highest density?`,
+        question: `
+286. At what temperature water has highest density?`,
         options: [
             'A. 0∘C',
             'B. 4∘C',
@@ -4768,7 +5054,8 @@ is the focal length of the lens.
         exp: `Explanation: When cooled from room temperature liquid water becomes increasingly dense, as with other substances, but at approximately 4 °C (39 °F), pure water reaches its maximum density. As it is cooled further, it expands to become less dense.`
     },
     {
-        question: `287. Which one of the following solid is compressible?`,
+        question: `
+287. Which one of the following solid is compressible?`,
         options: [
             'A. Wood',
             'B. Stone',
@@ -4779,7 +5066,8 @@ is the focal length of the lens.
         exp: `Explanation: A substance in solid state has high intermolecular forces and hence has the least intermolecular spaces. So if compression is done here, then there is little or negligible amount of space for the molecules to come further closer. Hence, they are the least compressible.`
     },
     {
-        question: `288. Brass is a:`,
+        question: `
+288. Brass is a:`,
         options: [
             'A. Compound',
             'B. Element',
@@ -4790,7 +5078,8 @@ is the focal length of the lens.
         exp: `Explanation: Brass is an alloy made primarily of copper and zinc. The proportions of the copper and zinc are varied to yield many different kinds of brass. Basic modern brass is 67% copper and 33% zinc. However, the amount of copper may range from 55% to 95% by weight, with the amount of zinc varying from 5% to 40%.2 Lead is commonly added to brass at a concentration of around 2%. The lead addition improves the machinability of brass. However, significant lead leaching often occurs, even in brass that contains a relatively low overall concentration of lead. Uses of brass include musical instruments, firearm cartridge casing, radiators, architectural trim, pipes and tubing, screws, and decorative items. Brass Properties: 1. Brass often has a bright gold appearance, however, it can also be reddish-gold or silvery-white. A higher percentage of copper yields a rosy tone, while more zinc makes the alloy appear silver. 2. Brass has higher malleability than either bronze or zinc. 3. Brass has desirable acoustic properties appropriate for use in musical instruments. 4. The metal exhibits low friction.,  5. Brass is a soft metal that may be used in cases when a low chance of sparking is necessary. 6. The alloy has a relatively low melting point. 7. It's a good conductor of heat. 8. Brass resists corrosion, including galvanic corrosion from saltwater. 9. Brass is easy to cast. 10. Brass is not ferromagnetic. Among other things, this makes it easier to separate from other metals for recycling.`
     },
     {
-        question: `289. Thermometer is an instrument that measures`,
+        question: `
+289. Thermometer is an instrument that measures`,
         options: [
             'A. Temperature of substance',
             'B. Heat of substance',
@@ -4801,7 +5090,8 @@ is the focal length of the lens.
         exp: `Explanation: A thermometer is an instrument that measures temperature. It can measure the temperature of a solid such as food, a liquid such as water, or a gas such as air. The three most common units of measurement for temperature are Celsius, Fahrenheit, and kelvin. The Celsius scale is part of the metric system.`
     },
     {
-        question: `290. Barometer measures:`,
+        question: `
+290. Barometer measures:`,
         options: [
             'A. Pressure',
             'B. Atmospheric pressure',
@@ -4812,7 +5102,8 @@ is the focal length of the lens.
         exp: `Explanation: Barometer, device used to measure atmospheric pressure. Because atmospheric pressure changes with distance above or below sea level, a barometer can also be used to measure altitude. There are two main types of barometers: mercury and aneroid. In the mercury barometer, atmospheric pressure balances a column of mercury, the height of which can be precisely measured. To increase their accuracy, mercury barometers are often corrected for ambient temperature and the local value of gravity. Common pressure units include pounds per square inch; dynes per square centimetre; newtons per square metre (the SI unit called the pascal); inches, centimetres, or millimetres of mercury; and millibars (1 millibar equals 1,000 dynes per square centimetre, 100 pascals, or 0.75 millimetre of mercury). A barometer that mechanically records changes in barometric pressure over time is called a barograph. Though mercury,  barographs have been made, aneroid barographs are much more common. The motion of the aneroid capsule is magnified through levers to drive a recording pen. The pen traces a line on a graph that is usually wrapped around a cylinder driven by a clockwork mechanism.`
     },
     {
-        question: `291. People normally put some Naphthalene ball in the box in which they keeps cloths and winter blankets. After some weeks they find that there is no Naphthalene ball left in the box. Why does the Naphthalene ball disappears with time, without leaving any residue?`,
+        question: `
+291. People normally put some Naphthalene ball in the box in which they keeps cloths and winter blankets. After some weeks they find that there is no Naphthalene ball left in the box. Why does the Naphthalene ball disappears with time, without leaving any residue?`,
         options: [
             'A. Condensation',
             'B. Sublimation',
@@ -4823,7 +5114,8 @@ is the focal length of the lens.
         exp: `Explaantion: Sublimation is the transition from the solid phase to the gas phase without passing through an intermediate liquid phase. This endothermic phase transition occurs at temperatures and pressures below the triple point. The term "sublimation" only applies to physical changes of state and not to the transformation of a solid into a gas during a chemical reaction. For example, when candle wax undergoes combustion, the,  paraffin is vaporized and reacts with oxygen to produce carbon dioxide and water. This is not sublimation. The opposite process of sublimation—where a gas undergoes a phase change into solid form—is called deposition or desublimation. Sublimation Examples: 1. Dry ice is solid carbon dioxide. At room temperature and pressure, it sublimates into carbon dioxide vapor. 2. Freezer burn results from the sublimation of ice into water vapor. 3. At the right temperature, the elements iodine and arsenic will sublimate from solid form into gaseous form. 4. Naphthalene, a chemical commonly used in mothballs, readily sublimates at room temperature and pressure. 5. Water ice will sublimate, although more slowly than dry ice. The effect can be seen over snowfields when the sun is out but the temperature is cold.`
     },
     {
-        question: `292. If we burn graphite:`,
+        question: `
+292. If we burn graphite:`,
         options: [
             'A. Residue will be left',
             'B. No residue will be left',
@@ -4834,7 +5126,8 @@ is the focal length of the lens.
         exp: `Explanation: Graphite does not leave any residue when burnt in air because :- Graphite is completely made up of carbon, and when we burn it in ample amount of oxygen it does not leave any residue behind. Graphite is non flammable but can be burnt only in high temperatures. Graphite needs around 400 degrees to get burnt.It reduces when combined with air. it acts as a reducing agent.`
     },
     {
-        question: `293. Nanometer is an:`,
+        question: `
+293. Nanometer is an:`,
         options: [
             'A. Instrument used for measuring micro-distance',
             'B. Instrument used for measuring macro-distance',
@@ -4846,7 +5139,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `294. Consider the following statements regarding the moon. \n 1. The moon completes one rotation on its axis as it completes one revolution around the Earth. \n 2. The day on which the whole disc of the moon is visible is known as the full moon day. The time period between two consecutive full moons is a little less than 29 days. \n 3. Neil Armstrong landed on the moon for the first time followed by Edwin Aldrin. \n Which of the statements given above is/are correct?`,
+        question: `
+294. Consider the following statements regarding the moon. \n 1. The moon completes one rotation on its axis as it completes one revolution around the Earth. \n 2. The day on which the whole disc of the moon is visible is known as the full moon day. The time period between two consecutive full moons is a little less than 29 days. \n 3. Neil Armstrong landed on the moon for the first time followed by Edwin Aldrin. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 1 and 3 only',
@@ -4857,7 +5151,8 @@ is the focal length of the lens.
         exp: `Explanation: The moon completes one rotation on its axis as it completes one revolution around the Earth. the the day of the appearance of the full disc of the moon is called full moon day, but the time period between two consecutive full moons is a little more than 29 days. In many calendars, this is the period of a month. The day on which the whole disc of the moon is visible is known as the full moon day. Thereafter, every night the size of the bright part of the moon appears to become thinner and thinner. On the fifteenth day the moon is not visible. This day is known as the new moon day. The next day, only a small portion of the moon appears in the sky. This is known as the crescent moon. Then again the moon grows larger every day. On the fifteenth day once again we get a full view of the moon. On July 21, 1969 the American astronaut Neil Armstrong landed on the moon for the first time followed by Edwin Aldrin.`
     },
     {
-        question: `295. Consider the following statements regarding the stars. \n 1. The stars rise from the east after sunset, and set in the west just before sunrise. \n 2. The distance between stars is expressed in light years. \n Which of the statements given above is/are correct?`,
+        question: `
+295. Consider the following statements regarding the stars. \n 1. The stars rise from the east after sunset, and set in the west just before sunrise. \n 2. The distance between stars is expressed in light years. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4868,7 +5163,8 @@ is the focal length of the lens.
         exp: `Explanation: stars are present in the sky during the daytime as well, but cannot be seen due to the glare of the sun. Due to the rotation of the earth from east to west, the stars appear to be rising from the east and setting at west. The distance between stars is expressed in light years. Hence, statement 2 is correct. It is the distance travelled by light in one year. The speed of light is about 300,000 km per second. Thus, the distance of the Sun from the Earth may be said to be about 8 light minutes.`
     },
     {
-        question: `296. The stars forming a group that has a recognisable shape is called a constellation. Consider the following statements regarding constellations: \n 1. One of the most famous constellations is Ursa Major, also known as ‘Saptarishi’. \n 2. Orion is also called The Hunter. \n 3. Cassiopeia looks like distorted W or M. \n Which of the statements given above is/are correct?`,
+        question: `
+296. The stars forming a group that has a recognisable shape is called a constellation. Consider the following statements regarding constellations: \n 1. One of the most famous constellations is Ursa Major, also known as ‘Saptarishi’. \n 2. Orion is also called The Hunter. \n 3. Cassiopeia looks like distorted W or M. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4879,7 +5175,8 @@ is the focal length of the lens.
         exp: `Explanation: Constellations were devised by ancient people to be \n able to recognise stars in the sky. The shapes of constellations \n resemble objects familiar to those people.One of the most famous \n constellations is Ursa Major, which is also known as the Big Dipper, \n the Great Bear or the Saptarshi.Orion is one of the most \n magnificent constellations in the sky. It also has seven or eight \n bright stars. Orion is also called the Hunter.Cassiopeia looks like \n distorted W or M.Some constellations like the Saptarishi is not \n visible from some places of the Southern Hemisphere.All the stars \n which make up a constellation are not at the same distance. They are \n just in the same line of sight in the sky.`
     },
     {
-        question: `297. Match the items of column 1 with column 2 and use the code given below to choose the correct \n Planets of the solar system Property \n A. Mercury  1.Planet closest to the sun \n B. Venus    2.Brightest planet of the solar system \n C. Jupiter  3. Largest planet of the solar system \n D. Uranus   4.Most inclination of the orbital plane`,
+        question: `
+297. Match the items of column 1 with column 2 and use the code given below to choose the correct \n Planets of the solar system Property \n A. Mercury  1.Planet closest to the sun \n B. Venus    2.Brightest planet of the solar system \n C. Jupiter  3. Largest planet of the solar system \n D. Uranus   4.Most inclination of the orbital plane`,
         options: [
             'A. 1 2 3 4',
             'B. 4 3 2 1',
@@ -4890,7 +5187,8 @@ is the focal length of the lens.
         exp: `Explanation: The Sun and the celestial bodies which revolve around it form the solar system. It consists of large number of bodies such as planets, comets, asteroids and meteors. The eight planets in their order of distance from the Sun are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. The planet mercury is nearest to the Sun. It is the smallest planet of our solar system. It can be observed just before sunrise or just after sunset, near the horizon. Mercury has no satellite of its own. Venus is earth’s nearest planetary neighbor. It is the brightest planet in the night sky. Sometimes Venus appears in the eastern sky before sunrise. Sometimes, it appears in the western sky just after sunset. Therefore it is often called a morning or an evening star. It has no satellite of its own. Rotation of Venus on its axis is somewhat unusual. It rotates from east to west while the Earth rotates from west to east. Jupiter is the largest planet of the solar system. It is so large that about 1300 earths can be placed inside this giant planet. However, the mass of Jupiter is about 318 times that of our Earth.Uranus also rotates from east to west. Uranus has highly tilted rotation axis. As a result, in its orbital motion it appears to roll on its side.`
     },
     {
-        question: `298. Consider the following pairs: \n 1. Earth: Blue \n 2. Mars: Red \n 3. Saturn: Yellow \n Which of the pairs given above is/are correctly matched with respect to the planets and their colours?`,
+        question: `
+298. Consider the following pairs: \n 1. Earth: Blue \n 2. Mars: Red \n 3. Saturn: Yellow \n Which of the pairs given above is/are correctly matched with respect to the planets and their colours?`,
         options: [
             'A. 1 only',
             'B. 1 and 2 only',
@@ -4901,7 +5199,8 @@ is the focal length of the lens.
         exp: `Explanation: When viewed from the outer space, the light reflected from the water and land on the Earth, makes it appear blue green. Earth has only one satellite, the moon.Mars appears to be red in colour, hence the name, red planet. Mars has two small natural satellites. Saturn appears to be yellowish in color. The rings around saturn makes it the most unique in the solar system. Its density is least amongst all the planets of the solar system, even less than water.`
     },
     {
-        question: `299. Consider the following statements regarding asteroids, comets and meteors. \n 1. Asteroids are present between Mars and Jupiter. \n 2. Comets revolve around the sun in elliptical orbits. \n 3. Meteors are called shooting stars. \n Which of the statements given above is/are correct?`,
+        question: `
+299. Consider the following statements regarding asteroids, comets and meteors. \n 1. Asteroids are present between Mars and Jupiter. \n 2. Comets revolve around the sun in elliptical orbits. \n 3. Meteors are called shooting stars. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 and 2 only',
             'B. 2 and 3 only',
@@ -4912,7 +5211,8 @@ is the focal length of the lens.
         exp: `Explanation: There is a large gap in between the orbits of Mars and Jupiter. This gap is occupied by a large number of small objects that revolve around the Sun. These are called asteroids.Comets revolve around the Sun in highly elliptical orbits. Their period of revolution round the Sun is usually very long. A comet appears generally as a bright head with a long tail. The length of the tail grows in size as it approaches the sun. The tail of a comet is always directed away from the sun. At night, when the sky is clear and the moon is not there, bright streaks of light in the sky can be seen. These are commonly known as shooting stars, although they are not stars. They are called meteors. A meteor is usually a small object that occasionally enters the earth’s atmosphere. At that time, it has a very high speed. The friction due to the atmosphere heats it up. It glows and evaporates quickly. That is why, the bright steak lasts for a very short time.`
     },
     {
-        question: `300. Match the items of column 1 with column 2, using the code given below. \n Column 1 (Chemicals) Column 2 (Effect) \n A. Carbon monoxide              1. Decrease of oxygen carrying capacity of blood \n B. Chloro fluoro carbons        2. Smog \n C. Oxides of nitrogen and fog   3. Acid rain \n D. Sulphuric and nitric acid    4. Depletion of Ozone layer`,
+        question: `
+300. Match the items of column 1 with column 2, using the code given below. \n Column 1 (Chemicals) Column 2 (Effect) \n A. Carbon monoxide              1. Decrease of oxygen carrying capacity of blood \n B. Chloro fluoro carbons        2. Smog \n C. Oxides of nitrogen and fog   3. Acid rain \n D. Sulphuric and nitric acid    4. Depletion of Ozone layer`,
         options: [
             'A. 3 1 4 2',
             'B. 4 3 2 1',
@@ -4923,7 +5223,8 @@ is the focal length of the lens.
         exp: `Explanation: Incomplete combustion of fuels release Carbon Monoxide. It is a poisonous gas, which decreases the oxygen carrying capacity of blood.Chlorofluorocarbons, which are used in refrigerators, air conditioners and aerosol sprays, deplete the ozone layer of the atmosphere. After the montreal protocol, nearly all the countries have started to use less harmful gases in the place of CFCs.Smoke contains oxides of nitrogen which combine with other air pollutants and fog to form smog.Sulphur Dioxide and Nitrogen Dioxide react with the water vapor present in the atmosphere to give sulphuric and nitric acid. This makes the rain acidic and is called acid rain.`
     },
     {
-        question: `301. Consider the following gases: \n 1. Carbon Dioxide \n 2. Nitrous Oxide \n 3. Methane \n 4. Water vapour \n Which of the above is/are greenhouse gas/gases?`,
+        question: `
+301. Consider the following gases: \n 1. Carbon Dioxide \n 2. Nitrous Oxide \n 3. Methane \n 4. Water vapour \n Which of the above is/are greenhouse gas/gases?`,
         options: [
             'A. 1 and 2 only',
             'B. 1, 2 and 3 only',
@@ -4934,7 +5235,8 @@ is the focal length of the lens.
         exp: `Explanation: Carbon dioxide, Nitrous Oxide, Methane and Water vapour, all are greenhouse gases. These gases trap the heat energy and keep the atmosphere warm. This is called the Greenhouse effect. Without them, life would not be possible on the earth, but excessive greenhouse effect has become a problem.`
     },
     {
-        question: `302. Consider the following statements: \n 1. The chemical process of the purification of drinking water is called chlorination. \n 2. To protect the Ganges from pollution, Ganga Action Plan was started in the year 1985. \n Which of the statements given above is/are correct?`,
+        question: `
+302. Consider the following statements: \n 1. The chemical process of the purification of drinking water is called chlorination. \n 2. To protect the Ganges from pollution, Ganga Action Plan was started in the year 1985. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4945,7 +5247,8 @@ is the focal length of the lens.
         exp: `Explanation: The chemical process of the purification of drinking water is called chlorination. Chlorine pellets or bleaching powder is added to the water. Due to increase in pollution levels, life could not survive in many areas of the Ganges. The pollution level is highest in Kanpur of Uttar Pradesh. In 1985, Ganga Action Plan was started to save the river.`
     },
     {
-        question: `303. Consider the following statements regarding water pollution: \n 1. Pesticides and weedicides, used to protect the crop pollute the groundwater. \n 2. Hot water from factories and power plants are also water pollutants. \n Which of the statements given above is/are correct?`,
+        question: `
+303. Consider the following statements regarding water pollution: \n 1. Pesticides and weedicides, used to protect the crop pollute the groundwater. \n 2. Hot water from factories and power plants are also water pollutants. \n Which of the statements given above is/are correct?`,
         options: [
             'A. 1 only',
             'B. 2 only',
@@ -4957,7 +5260,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `304. Which of the following statements is not true about an atom?`,
+        question: `
+304. Which of the following statements is not true about an atom?`,
         options: [
             'A. Atoms are not able to exist independently.',
             'B. Atoms are the basic units from which molecules and ions are formed.',
@@ -4968,7 +5272,8 @@ is the focal length of the lens.
         exp: `Explanation: An atom a fundamental piece of matter. (Matter is anything that can be touched physically.) Everything in the universe (except energy) is made of matter, and, so, everything in the universe is made of atoms. An atom itself is made up of three tiny kinds of particles called subatomic particles: protons, neutrons, and electrons. The protons and the neutrons make up the center of the atom called the nucleus and the electrons fly around above the nucleus in a small cloud. The electrons carry a negative charge and the protons carry a positive charge. In a normal (neutral) atom the number of protons and the number of electrons are equal. Often, but not always, the number of neutrons is the same, too.`
     },
     {
-        question: `305. The molecular formula of potassium nitrate is:`,
+        question: `
+305. The molecular formula of potassium nitrate is:`,
         options: [
             'A. KNO3',
             'B. KNO',
@@ -4979,7 +5284,8 @@ is the focal length of the lens.
         exp: ``
     },
     {
-        question: `306. Molecular mass is defined as the:`,
+        question: `
+306. Molecular mass is defined as the:`,
         options: [
             'A. Mass of one molecule of any substance compared with the mass of one atom of C - 12',
             'B. Mass of one atom compared with the mass of one atom of hydrogen',
@@ -4990,7 +5296,8 @@ is the focal length of the lens.
         exp: `Explanation: Molecular mass is a number equal to the sum of the atomic masses of the atoms in a molecule. The molecular mass gives the mass of a molecule relative to that of the 12C atom, which is taken to have a mass of 12. Molecular mass is a dimensionless quantity, but it is given the unit Dalton or atomic mass unit as a means of indicating the mass is relative to 1/12th the mass of a single atom of carbon-12.`
     },
     {
-        question: `307. Which of the following statements best explains why a closed balloon filled with helium gas rises in air?`,
+        question: `
+307. Which of the following statements best explains why a closed balloon filled with helium gas rises in air?`,
         options: [
             'A. Helium is a mono-atomic gas, whereas nearly all the molecules that make up air, such as nitrogen and oxygen, are diatomic.',
             'B. The average speed of helium atoms is higher than the average speeds of air molecules, and the higher speed of collisions with the balloon walls propels the balloon upward.',
@@ -5001,7 +5308,8 @@ is the focal length of the lens.
         exp: ``
     },
     {
-        question: `308. Which of the following statements is incorrect about the structure of an atom? \n 1. The whole mass of an atom is concentrated in the nucleus \n 2. The atom is an indivisible particle \n 3. The atom as a whole is neutral \n 4. All the atoms are stable in their basic state \n Choose the right option among the following:`,
+        question: `
+308. Which of the following statements is incorrect about the structure of an atom? \n 1. The whole mass of an atom is concentrated in the nucleus \n 2. The atom is an indivisible particle \n 3. The atom as a whole is neutral \n 4. All the atoms are stable in their basic state \n Choose the right option among the following:`,
         options: [
             'A. 1 and 3',
             'B. Only 2',
@@ -5012,7 +5320,8 @@ is the focal length of the lens.
         exp: `Explanation: The atomic structure of an element refers to the constitution of its nucleus and the arrangement of the electrons around it. Primarily, the atomic structure of matter is made up of protons, electrons, and neutrons. The protons and neutrons make up the nucleus of the atom, which is surrounded by the electrons belonging to the atom. The atomic number of an element describes the total number of protons in its nucleus. Neutral atoms have equal numbers of protons and electrons. However, atoms may gain or lose electrons in order to increase their stability, and the resulting charged entity is called an ion. Atoms of different elements have different atomic structures because they contain different numbers of protons and electrons. This is the reason for the unique characteristics of different elements.`
     },
     {
-        question: `309. Which of the following is an incorrect statement in reference with observation in Rutherford's α-particle scattering experiment?`,
+        question: `
+309. Which of the following is an incorrect statement in reference with observation in Rutherford's α-particle scattering experiment?`,
         options: [
             'A. Some of the α-particles rebound after hitting the gold foil',
             'B. Some of the particles deflected from their path',
@@ -5023,7 +5332,8 @@ is the focal length of the lens.
         exp: `Explaantion: Rutherford Atomic Theory: Rutherford, a student of J. J. Thomson modified the atomic structure with the discovery of another subatomic particle called “Nucleus”. His atomic model is based on the Alpha ray scattering experiment. Alpha Ray Scattering Experiment: A. Construction: 1. A very thin gold foil of 1000 atoms thick is taken. 2. Alpha rays (doubly charged Helium He2+) were made to bombard the gold foil. 3. ZnS screen is placed behind the gold foil. B. Observations: 1. Most of the rays just went through the gold foil making scintillations (bright spots) in the ZnS screen. 2. A few rays got reflected after hitting the gold foil. 3. One in 1000 rays got reflected by an angle of 180° (retraced path) after hitting the gold foil. C. Conclusions: 1. Since most rays passed through, Rutherford concluded that most of the space inside the atom is empty. 2. Few rays got reflected because of the repulsion of its positive with some other positive charge inside the atom. 3. 1/1000th of rays got strongly deflected because of a very strong positive charge in the center of the atom he called this strong positive charge as “nucleus”. 4. He said most of the charge and mass of the atom resides in the Nucleus Rutherford’s Structure of Atom: Based on the above observations and conclusions, Rutherford proposed his own atomic structure which is as follows. 1. The nucleus is at the center of an atom, where most of the charge and mass are concentrated. 2. Atomic structure is spherical. 3. Electrons revolve around the nucleus in a circular orbit, similar to the way planets orbit the sun. Limitations of Rutherford Atomic Model: 1. If electrons have to revolve around the nucleus, they will spend energy and that too against the strong force of attraction from the nucleus, a lot of energy will be spent by the electrons and eventually, they will lose all their energy and will fall into the nucleus so the stability of atom is not explained. 2. If electrons continuously revolve around the ‘nucleus, the type of spectrum expected is a continuous spectrum. But in reality, what we see is a line spectrum.`
     },
     {
-        question: `310. Which of the following does not match the characteristics of an Isotope?`,
+        question: `
+310. Which of the following does not match the characteristics of an Isotope?`,
         options: [
             'A. Isotopes of some elements are radioactive',
             'B. Isotopes are the atoms of different elements',
@@ -5034,7 +5344,8 @@ is the focal length of the lens.
         exp: `Explanation: Elements with the same atomic number but a different mass number are defined as “Isotopes”. The number of protons and neutrons combined together is called atomic mass or mass number of an element, whereas the total number of protons gives the atomic number of an element. In a certain element, the number of protons will always remain constant. However, the number of neutrons can change. The number of neutrons varies but the number of protons always remains same in an isotope of a single element. Thus, the definition “Elements with the same atomic number but a different mass number are termed as Isotopes.” For Example: Hydrogen has three most stable isotopic formsprotium, deuterium, as well as tritium. All the three isotopic forms of hydrogen have the same number of protons but vary in the number of neutrons. The number of neutrons in protium is zero, the number of neutrons in deuterium is one and the number of neutrons in tritium is two. Chemical properties: Generally, the chemical properties of isotopes of any element are almost identical. The exception to this case is the isotopes of hydrogen because the numbers of neutrons have a major effect on the size of the nucleus of a hydrogen atom. Physical properties: The physical properties of isotopes in a particular element vary from each other. This is because the physical properties of any isotope depend on the mass. The mass of each isotope of a single element varies from one another. Processes such as fractional distillation and diffusion are used to separate isotopes from one another. We make use of the fact that isotopes have different physical properties. Uses of Isotopes:  Carbon dating makes use of Carbon-14, an isotope of Carbon. This isotope of carbon is present in the atmosphere as radioactive carbon. The amount of carbon-14 obtained in fossils help palaeontologists to calculate the age of the fossils.  Uranium Isotopes are popular for its use in nuclear reactors. U-235 is used as a fuel in nuclear reactors.  Radioactive Isotopes are used for medicinal purposes. They are used for detection of tumours, blood clots, etc. Arsenic-74, An isotope of arsenic, is used for determining the presence of a tumour. Similarly, sodium-24 is used for the detection of blood clots.  Cobalt (cobalt-60) isotope of carbon is applied in cancer treatments.  Iodine (Iodine-131) isotope of carbon helps in the treatment of goitre.`
     },
     {
-        question: `311. What property of an element determines its chemical behaviour?`,
+        question: `
+311. What property of an element determines its chemical behaviour?`,
         options: [
             'A. Size of an element',
             'B. Valency of an element',
@@ -5045,7 +5356,8 @@ is the focal length of the lens.
         exp: `Explanation: The chemical properties of an element are determined by the configuration of its electrons in orbit around its nucleus. The number of electrons in orbit is equal to the number of protons in the nucleus (each proton has an an electrical charge of plus one, while each electron has the same charge only negative one). Since all atoms (of all element are electrically neutral), the number of electrons in orbit around the nucleus equals the number of protons in those nuclei, so the electrical charges balance each other. It is the way that these electrons orbit the nucleus (according to definite laws) that determines each element’s chemical properties. See a Periodic Table of the Elements. The number of protons in the nucleus of an atom is its Atomic Number.`
     },
     {
-        question: `312. Why was the Thomson’s Model of an atom failed? \n 1. It could not explain the screening of negative charges from that of positive \n 2. It did not tell about the presence of electrons \n 3. It did not give an idea about the discrete energy levels \n 4. It explained the atom as a whole to be electrically neutral \n Choose the correct option from the following:`,
+        question: `
+312. Why was the Thomson’s Model of an atom failed? \n 1. It could not explain the screening of negative charges from that of positive \n 2. It did not tell about the presence of electrons \n 3. It did not give an idea about the discrete energy levels \n 4. It explained the atom as a whole to be electrically neutral \n Choose the correct option from the following:`,
         options: [
             'A. Only 3',
             'B. Both 1 & 3',
@@ -5056,7 +5368,8 @@ is the focal length of the lens.
         exp: `Explanation: Thomson atomic model was proposed by William Thomson in the year 1900. This model explained the description of an inner structure of the atom theoretically. It was strongly supported by Sir Joseph Thomson, who had discovered the electron earlier. During cathode ray tube experiment, a negatively charged particle was discovered by J.J. Thomson. This experiment took place in the year 1897. Cathode ray tube is a vacuum tube. The negative particle was called an electron. Thomson assumed that an electron is two thousand times lighter than a proton and believed that an atom is made up of thousands of electrons. In this atomic structure model, he considered atoms surrounded by a cloud having positive as well as negative charges. The demonstration of the ionization of air by X-ray was also done by him together with Rutherford. They were the first to demonstrate it. Thomson’s model of an atom is similar to a plum pudding. Postulates of Thomson’s atomic model: Postulate 1: An atom consists of a positively charged sphere with electrons embedded in it Postulate 2: An atom as a whole is electrically neutral because the negative and positive charges are equal in magnitude Thomson atomic model is compared to watermelon. Where he considered:  Watermelon seeds as negatively charged particles  The red part of the watermelon as positively charged Limitations of Thomson’s atomic model:  It failed to explain the stability of an atom because his model of atom failed to explain how a positive charge holds the negatively charged electrons in an atom. Therefore, This theory also failed to account for the position of the nucleus in an atom  Thomson’s model failed to explain the scattering of alpha particles by thin metal foils  No experimental evidence in its support.`
     },
     {
-        question: `313. Which of the following represents the correct relation between Avogadro's number (No), number of particles (N) and moles (n)?`,
+        question: `
+313. Which of the following represents the correct relation between Avogadro's number (No), number of particles (N) and moles (n)?`,
         options: [
 
             'A. n = N / No',
@@ -5069,7 +5382,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `314. Angiospermae is a division of kingdom Plantae. The main characteristic feature of angiosperms is: `,
+        question: `
+314. Angiospermae is a division of kingdom Plantae. The main characteristic feature of angiosperms is: `,
         options: [
             'A. Seeds are naked in fruits ',
             'B. Seeds are covered with coats and are in fruits ',
@@ -5081,7 +5395,8 @@ is the focal length of the lens.
         exp: `Explanation: Angiosperms are the largest group of plants on Earth. There are approximately 270,000 known species alive today. There's probably one nearby right now. Angiosperms include all plants that have flowers and account for approximately 80% of all known living plants. Example of an angiosperm: Carpel of Broomrape plant Characteristics: Angiosperms are able to grow in a variety of habitats. They can grow as trees, shrubs, bushes, herbs, and small flowering plants. Some of the characteristics of angiosperms include: 1. All angiosperms have flowers at some stage in their life. The flowers serve as the reproductive organs for the plant, providing them a means of exchanging genetic information. 2. Angiosperms have small pollen grains that spread genetic information from flower to flower. These grains are much smaller than the gametophytes, or reproductive cells, used by non-flowering plants. This small size allows the process of fertilization to occur quicker in the flowers of angiosperms and makes them more efficient at reproducing. 3. All angiosperms have stamens. Stamens are the reproductive structures found in flowers that produce the pollen grains that carry the male genetic information. 4. Angiosperms have much smaller female reproductive parts than non-flowering plants, allowing them to produce seeds more quickly. 5. Angiosperms have carpels that enclose developing seeds that may turn into a fruit. 6. A great advantage for angiosperms is the production of endosperm. Endosperm is a material that forms after fertilization and serves as a highly nutritional food source for the developing seed and seedling. `
     },
     {
-        question: `315. Which of the following have an open circulatory system?  \n (i) Arthropoda  \n (ii) Mollusca  \n (iii) Annelida \n (iv) Cnidaria `,
+        question: `
+315. Which of the following have an open circulatory system?  \n (i) Arthropoda  \n (ii) Mollusca  \n (iii) Annelida \n (iv) Cnidaria `,
         options: [
             'A. (i) and (ii) ',
             'B. (i) and (iii) ',
@@ -5093,7 +5408,8 @@ is the focal length of the lens.
         exp: `Explanation: The open circulatory system is common to molluscs and arthropods. Open circulatory systems pump blood into a cavity (hemocoel) with the blood diffusing back to the circulatory system between cells. Blood is pumped by a heart into the body cavities, where blood surrounds the organs. This system lacks a true heart or capillaries. The blood found in these organisms is a mix of blood and an interstitial fluid called as hemolymph. `
     },
     {
-        question: `316. Which adaptation of the frog differentiates it from the fish? `,
+        question: `
+316. Which adaptation of the frog differentiates it from the fish? `,
         options: [
             'A. Ability to live in water also ',
             'B. Lays eggs in water ',
@@ -5105,7 +5421,8 @@ is the focal length of the lens.
         exp: `Explanation: Due to mucous glands, these enable the frog to leave the water and live an amphibious life on both land and in water. Fish do not need mucous glands as they don’t leave the water so don’t need to protect their skin from drying out. A frog cannot live solely in the water, they need to breathe air and would drown if they stayed in the water, fish need to stay in the water to survive.`
     },
     {
-        question: `317. Among the following choose the correct option that best describes the characteristics of spirogyra. `,
+        question: `
+317. Among the following choose the correct option that best describes the characteristics of spirogyra. `,
         options: [
             'A. Multicellular, auto trophic, root like rhizoids. ',
             'B. Cytoplasmic strands, autotrophic, presence of rhizome. ',
@@ -5117,7 +5434,8 @@ is the focal length of the lens.
         exp: `Explanation: The important characteristics of spirogyra are: 1. It is an unbranched, filamentous green algae occurring in the stagnant water so known as pond scum. 2. A mucilaginous covering or sheath is present which makes the surface slimy hence known as pond silk. 3. A double layered cell wall is present in which the outer wall is made of pectin and inner wall of cellulose. 4. A spirally coiled or ribbon shaped chloroplast with number of pyrenoids is present. 5. Reproduction occurs both in vegetative and sexual methods. 6. Vegetative reproduction is by fragmentation. 7. Sexual reproduction takes place by conjugation. 8. Three types of conjugation is found in spirogyra. They are i. scalariformconjugation, ii. Lateral conjugation, iii. Self conjugation. 9. The lifecycle of the spirogyra is haplobiontic.`
     },
     {
-        question: `318. Choose the option that best describes the characteristics of the kingdom to which the mushroom belongs:`,
+        question: `
+318. Choose the option that best describes the characteristics of the kingdom to which the mushroom belongs:`,
         options: [
             '(a) Unicellular prokaryotic organisms',
             '(b) Saprophytic, eukaryotic, multicellular organisms ',
@@ -5129,7 +5447,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer B`
     },
     {
-        question: `319. Which of the following can sometimes be ‘zero’ for a moving body? \n i. Average velocity \n ii. Distance travelle \niii. Average speed \n iv. Displacement `,
+        question: `
+319. Which of the following can sometimes be ‘zero’ for a moving body? \n i. Average velocity \n ii. Distance travelle \niii. Average speed \n iv. Displacement `,
         options: [
             '(a) Only (i) ',
             '(b) (i) and (ii) ',
@@ -5141,7 +5460,8 @@ is the focal length of the lens.
         exp: `Explanation: 1. The average velocity of an object is its total displacement divided by the total time taken. In other words, it is the rate at which an object changes its position from one place to another. Average velocity is a Vector quantity. The SI unit is meters per second. 2. The distance travelled is the path taken by a body to get from an initial point to an end point in a given period of time, at a certain velocity. If the velocity is constant: Distance = time * velocity. 3. The average speed of an object is the total distance traveled by the object divided by the elapsed time to cover that distance. It's a scalar quantity which means it is defined only by magnitude. A related concept, average velocity, is a vector quantity. A vector quantity is defined by magnitude and direction. 4. If an object moves relative to a reference frame—for example, if a professor moves to the right relative to a whiteboard, or a passenger moves toward the rear of an airplane—then the object’s position changes. This change in position is known as displacement. The word displacement implies that an object has moved, or has been displaced. Displacement is defined to be the change in position of an object. `
     },
     {
-        question: `320. Which of the following statement is correct regarding velocity and speed of a moving body? `,
+        question: `
+320. Which of the following statement is correct regarding velocity and speed of a moving body? `,
         options: [
             '(a) Velocity of a moving body is always higher than its speed ',
             '(b) Speed of a moving body is always higher than its velocity ',
@@ -5153,7 +5473,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer D`
     },
     {
-        question: `321. In a free fall the velocity of a stone is increasing equally ion equal intervals of time under the  effect oravitational force of the earth. Then what can you say about the motion of this stone? Whether the stone is having: `,
+        question: `
+321. In a free fall the velocity of a stone is increasing equally ion equal intervals of time under the  effect oravitational force of the earth. Then what can you say about the motion of this stone? Whether the stone is having: `,
         options: [
             '(a) Uniform acceleration ',
             '(b) Non-uniform acceleration ',
@@ -5165,7 +5486,8 @@ is the focal length of the lens.
         exp: `Explanation: Uniform or constant acceleration is a type of motion in which the velocity of an object changes by an equal amount in every equal time period. A frequently cited example of uniform acceleration is that of an object in free fall in a uniform gravitational field. The acceleration of a falling body in the absence of resistances to motion is dependent only on the gravitational field strength g (also called acceleration due to gravity). `
     },
     {
-        question: `322. If the displacement of an object is proportional to square of time, then the object moves with: `,
+        question: `
+322. If the displacement of an object is proportional to square of time, then the object moves with: `,
         options: [
             '(a) Uniform velocity ',
             '(b) Uniform acceleration ',
@@ -5177,7 +5499,8 @@ is the focal length of the lens.
         exp: `Explanation: If the displacement of an object is proportional to the square of the time taken then the body is moving with uniformly accelerated motion as it will follow Newton's second equation of motion for a particular initial velocity, which can be given by,s=ut+\frac { 1 }{ 2 } a{ t }^{ 2 }s=ut+21at2.`
     },
     {
-        question: `323. In which of the following cases of motions, the distance moved and the magnitude of the displacement are equal? \ni. If the car is moving on a straight road \nii. If the car is moving in circular path \niii. The pendulum is moving to and fro iv. The earth is moving around the sun `,
+        question: `
+323. In which of the following cases of motions, the distance moved and the magnitude of the displacement are equal? \ni. If the car is moving on a straight road \nii. If the car is moving in circular path \niii. The pendulum is moving to and fro iv. The earth is moving around the sun `,
         options: [
             '(a) only (ii) ',
             '(b) (i) and (iii) ',
@@ -5190,7 +5513,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `324. Newton’s third law of motion explains the two forces namely ‘action’ and ‘reaction’ coming into action when the two bodies are in contact with each other. These two forces: `,
+        question: `
+324. Newton’s third law of motion explains the two forces namely ‘action’ and ‘reaction’ coming into action when the two bodies are in contact with each other. These two forces: `,
         options: [
             '(a) Always act on the same body ',
             '(b) Always act on the different bodies in opposite directions ',
@@ -5201,7 +5525,8 @@ is the focal length of the lens.
         exp: `Explanation: Newton’s Third Law Of Motion Force is a push or pull acting on an object resulting in its interaction with another object. Force is a result of an interaction. Force can be classified into two categories: contact force such as frictional force and non-contact force such as gravitational force. According to Newton, when two bodies interact, they exerted force on each other and these forces are known as action and reaction pair which is explained in Newton’s third law of motion. Newton’s third law of motion states that: When one body exerts a force on the other body, the first body experiences a force which is equal in magnitude in the opposite direction of the force which is exerted. The above statement means that in every interaction, there is a pair of forces acting on the interacting objects. The magnitude of the forces are equal and the direction of the force on the first object is opposite to the direction of the force on the second object.,  `
     },
     {
-        question: `325. In a rocket, a large volume of gases produced by the combustion of fuel is allowed to escape through its tail nozzle in the downward direction with the tremendous speed and makes the rocket to move upward. Which principle is followed in this take off of the rocket? `,
+        question: `
+325. In a rocket, a large volume of gases produced by the combustion of fuel is allowed to escape through its tail nozzle in the downward direction with the tremendous speed and makes the rocket to move upward. Which principle is followed in this take off of the rocket? `,
         options: [
             '(a) Moment of inertia ',
             '(b) Conservation of momentum ',
@@ -5212,7 +5537,8 @@ is the focal length of the lens.
         exp: `Explanation: Law of conservation of momentum states that For two or more bodies in an isolated system acting upon each other, their total momentum remains constant unless an external force is applied. Therefore, momentum can neither be created nor destroyed. Law of conservation of momentum is an important consequence of Newton’s third law of motion. Following are the examples of law of conversation of momentum: 1. Air filled balloons,  2. System of gun and bullet 3. Motion of rockets `
     },
     {
-        question: `326. The seat belts are provided in the cars so that if the car stops suddenly due to an emergency braking, the persons sitting on the front seats are not thrown forward violently and saved from getting injured. Can you guess the law due to which a person falls in forward direction on the sudden stopping of the car? `,
+        question: `
+326. The seat belts are provided in the cars so that if the car stops suddenly due to an emergency braking, the persons sitting on the front seats are not thrown forward violently and saved from getting injured. Can you guess the law due to which a person falls in forward direction on the sudden stopping of the car? `,
         options: [
             '(a) Newton’s first law of motion ',
             '(b) Newton’s second law of motion ',
@@ -5223,7 +5549,8 @@ is the focal length of the lens.
         exp: `Explanation: Sir Isaac Newton published three laws in the 17th century. In this article, we are going to talk about Newton’s 1st law. This law does an introduction of motion of the object and the force acting on it. In other words, it deals with the motion of an object and its relation to force. Newton’s first law states that: a body remains in the state of rest or uniform motion in a straight line unless and until an external force acts on it.,  Putting Newton’s 1st law of motion in simple words, a body will not start moving until and unless an external force acts on it. Once it is set in motion, it will not stop or change its velocity until and unless some force acts upon it once more. The first law of motion is sometimes also known as the law of inertia. There are two conditions on which the 1st law of motion is dependent: 1. Objects at rest: When an object is at rest velocity (v= 0) and acceleration (a = 0) are zero. Therefore, the object continues to be at rest. 2. Objects in motion: When an object is in motion, velocity is not equal to zero (v ≠ 0) while acceleration (a = 0) is equal to zero. Therefore, the object will continue to be in motion with constant velocity and in the same direction. What is an External Force: An external force is defined as the change in the mechanical energy that is either the kinetic energy or the potential energy in an object. These forces are caused by external agents. Examples of external forces are friction, normal force and air resistance. `
     },
     {
-        question: `327. Which of the following situations involves the Newton’s second law of motion? `,
+        question: `
+327. Which of the following situations involves the Newton’s second law of motion? `,
         options: [
             '(a) A force can stop a lighter vehicle as well as a heavier vehicle which are moving,  ',
             '(b) A force exerted by a lighter vehicle on collision with a heavier vehicle results in both the (vehicles coming to a standstill ',
@@ -5234,7 +5561,8 @@ is the focal length of the lens.
         exp: `Explanation: Newton’s Second Law of Motion Newton’s second law of motion can be formally stated as follows: The acceleration of an object as produced by a net force is directly proportional to the magnitude of the net force, in the same direction as the net force, and inversely proportional to the mass of the object. The second law of motion gives us a method to measure the force acting on an object as a product of the mass of the object and the acceleration of the object which is the change in velocity with respect to time. `
     },
     {
-        question: `328. Newton’s first law of motion says that a moving body should continue to move forever, unless some external forces act on it. But a moving cycle comes to rest after some time if we stop pedaling it. Can you choose the correct reason for the stoppage of cycle? \n i. Air resistance \nii. Gravitational pull of the earth \niii. Friction of the road \niv. Heat of the environment Choose the correct option:`,
+        question: `
+328. Newton’s first law of motion says that a moving body should continue to move forever, unless some external forces act on it. But a moving cycle comes to rest after some time if we stop pedaling it. Can you choose the correct reason for the stoppage of cycle? \n i. Air resistance \nii. Gravitational pull of the earth \niii. Friction of the road \niv. Heat of the environment Choose the correct option:`,
         options: [
             '(a) (iii) and (iv) ',
             '(b) (i) and (iii) ',
@@ -5245,7 +5573,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer: B`
     },
     {
-        question: `329. Two objects of different masses falling freely near the surface of moon would: `,
+        question: `
+329. Two objects of different masses falling freely near the surface of moon would: `,
         options: [
             '(a) Have different acceleration ',
             '(b) Undergo a change in their inertia ',
@@ -5256,7 +5585,8 @@ is the focal length of the lens.
         exp: `Explanation: Objects of different masses falling freely near the surface of the moon would have the same velocities at any instant because they will have same acceleration due to gravity. `
     },
     {
-        question: `330. The school bags are generally provided with the broad strips because: `,
+        question: `
+330. The school bags are generally provided with the broad strips because: `,
         options: [
             '(a) It will spread the force of the bag over the large area of the shoulder of the child producing large pressure ',
             '(b) It will spread the force of the bag over the large area of the shoulder of the child producing less pressure ',
@@ -5267,7 +5597,8 @@ is the focal length of the lens.
         exp: `Explanation: As we know that pressure is inversely proportional to area, so an increase in area means decrease in pressure.School bags are provided with broad straps to increase the surface area in contact with the shoulders and reduce pressure on the shoulders. If thin straps would be used, then surface area in contact with the shoulders would decrease which will lead to increase in pressure on shoulders.`
     },
     {
-        question: `331. Choose the correct unit for the relative density among the following: `,
+        question: `
+331. Choose the correct unit for the relative density among the following: `,
         options: [
             '(a) kg/cm ',
             '(b) unitless ',
@@ -5278,7 +5609,8 @@ is the focal length of the lens.
         exp: `Explanation: The difference between the specific gravity and density is that at room temperature and pressure is 1gram per 1 cubic cm is the density of water this density is treated as a standard and density of any other material (usually liquids) is calculated relative to the , this is called relative density or specific gravity. Hence, specific gravity is the ratio of the mass of a substance to that of a reference substance, let’s consider the density of honey is approx. 1.42 grams/cm3, so its specific gravity would be 1.42/1 = 1.42. Notice that specific gravity is a ratio, therefore specific gravity does not have a unit, and hence specific gravity is a dimensionless physical quantity. The specific gravity of a substance will let us know if it will float or sink, it gives us the idea about relative mass or relative density. If,  the specific gravity of a substance is below 1 then it will float and if it is greater than 1 it will sink. Relative density is the ratio of density of a substance to the density of a given reference material. Thus, it is a unit less quantity.`
     },
     {
-        question: `332. The earth and the moon are attracted to each other by gravitational force. The earth attracts the moon with a force that is: `,
+        question: `
+332. The earth and the moon are attracted to each other by gravitational force. The earth attracts the moon with a force that is: `,
         options: [
             '(a) More than that exerted by the moon ',
             '(b) Same as that exerted by the moon ',
@@ -5289,7 +5621,8 @@ is the focal length of the lens.
         exp: `Explanation: Gravitational attraction is caused by the mass of an object. Since Earth is far more massive than the Moon, the gravitational force exerted on the Moon is far greater than that of the Moon on the Earth. An example of the difference: while the Moon causes tides on the Earth, the Earth has the Moon locked so that the same face (minus some wobbling) is always visible from the Earth.,  `
     },
     {
-        question: `333. An apple falls from a tree because of the gravitational attraction between the earth and the apple. If F1 is the magnitude of the force exerted by the earth on the apple and F2 is the magnitude of the force exerted by the apple on the earth, then `,
+        question: `
+333. An apple falls from a tree because of the gravitational attraction between the earth and the apple. If F1 is the magnitude of the force exerted by the earth on the apple and F2 is the magnitude of the force exerted by the apple on the earth, then `,
         options: [
             '(a) F1 is very much greater than F2 ',
             '(b) F2 is very much greater than F1 ',
@@ -5301,7 +5634,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `334. Which of the following statement marks as a difference between plant cell and animal cell?`,
+        question: `
+334. Which of the following statement marks as a difference between plant cell and animal cell?`,
         options: [
             '(a) Plant cells have cell wall which animal cells do not.',
             '(b) Plant cells do not have vacuole while animal cells do have.',
@@ -5312,7 +5646,8 @@ is the focal length of the lens.
         exp: `Explanation: A plant cell also has chloroplast , which afflicts the plant cells colours . An animals cell DOES not have chloroplast . Plant cells have a cell weveryone and a cell membrane Animal cells solely have a cell membrane Plant cells have chloroplasts Animal cell have n't got the chloroplasts Plant cells have huge vacuoles Animal cell have little vacuoles . Plant Cell : Presence of CELLULOSE Animals Cell : Absence of CELLULOSE Plants Cell : Permanent shape be decided by the cell wall ; Shapes is feasible to approximately spherical , box-like or cylindrical Animal Cell : Shapes were different because there is no cell wall Plant Cell : Chloroplasts are present solely in some cell Animal Cell : Absent Plant Cell : Has an enormous permanent vacuole containing cell sap Animal Cell : Small vacuole ; do not contain cell sap.`
     },
     {
-        question: `335. Osmosis is a process by which molecules of a solvent tend to pass through a semipermeable membrane from a less concentrated solution into a more concentrated one. Can you pick out the option among the following which does not belong to this process?`,
+        question: `
+335. Osmosis is a process by which molecules of a solvent tend to pass through a semipermeable membrane from a less concentrated solution into a more concentrated one. Can you pick out the option among the following which does not belong to this process?`,
         options: [
             '(a) The movement of water across a semipermeable membrane is affected by the amount of substances dissolved in it.',
             '(b) Membranes are made of organic molecules such as proteins and lipids.',
@@ -5323,7 +5658,8 @@ is the focal length of the lens.
         exp: `Explanation: Osmosis is the diffusion of a solvent through a differentially permeable membrane. In biological systems, the solvent will usually be water. Osmosis will occur whenever the water concentrations are different on either side of a differentially permeable membrane. Osmosis can be defined as the movement of water molecules from a higher water concentration area to the area of less water concentration through a semipermeable membrane. In other words, it can be defined as the diffusion of water molecules through a semipermeable membrane. It is a special case of diffusion of water (High to low). For example, water in the roots of plants is transported through osmosis. Significance of Osmosis:  Osmosis influences the transport of nutrients and the release of metabolic waste products.  It is responsible for the absorption of water from the soil and conducting it to the upper parts of the plant through the xylem.  It stabilizes the internal environment of a living organism by maintaining the balance between water and intercellular fluid levels.  It maintains the turgidity of cells.  It is a process by which plants maintain their water content despite the constant water loss due to transpiration.  This process controls the cell to cell diffusion of water.  Osmosis induces cell turgor which regulates the movement of plants and plant parts.  Osmosis also controls the dehiscence of fruits and sporangia.  Higher osmotic pressure protects the plants against drought injury.`
     },
     {
-        question: `336. Cell is the structural and functional unit of life. The word cell is derived from the Latin word ‘cellula’ which means “a little room”. Can you name the scientist who coined the term cell?`,
+        question: `
+336. Cell is the structural and functional unit of life. The word cell is derived from the Latin word ‘cellula’ which means “a little room”. Can you name the scientist who coined the term cell?`,
         options: [
             '(a) Robert Hooke',
             '(b) Anton Von Leeuwenhoek',
@@ -5334,7 +5670,8 @@ is the focal length of the lens.
         exp: `Explanation: A cell is the structural and fundamental unit of life. The study of cells from its basic structure to the functions of every cell organelle is called Cell Biology. Robert Hooke was the first Biologist who discovered cells. All organisms are made up of cells. They may be made up of a single cell (unicellular), or many cells (multicellular). Mycoplasmas are the smallest known cells. Cells are the building blocks of all living beings. They provide structure to the body and convert the nutrients taken from the food into energy.Cells are complex, and their components perform various functions in an organism. They are of different shapes and sizes, pretty much like bricks of the buildings. Our body is made up of cells of different shapes and sizes.Cells are the lowest level of organisation in every life form. From organism to organism, the count of cells may vary. Humans have the number of cells compared to that of bacteria.Cells comprise several cell organelles that perform specialised functions to carry out life processes. Every organelle has a specific structure. The hereditary material of the organisms is also present in the cells. Robert Hooke discovered the cell in 1665. Robert Hooke observed a piece of bottle cork under a compound microscope and noticed minuscule structures that reminded him of small rooms. Consequently, he named these “rooms” as cells. However, his compound microscope had limited magnification, and hence, he could not see any details in the structure. Because of this limitation, Hooke concluded that these were non-living entities. Later Anton Van Leeuwenhoek observed cells under another compound microscope with higher magnification. This time, he had noted that the cells exhibited some form of movement (motility). As a result, Leeuwenhoek concluded that these microscopic entities were “alive.” Eventually, after a host of other observations, these entities were named as animalcules. In 1883, Robert Brown, a Scottish botanist, provided the very first insights into the cell structure. He was able to describe the nucleus present in the cells of orchids. Characteristics of Cells: Following are the various essential characteristics of cells:  Cells provide structure and support to the body of an organism.  The cell interior is organised into different individual organelles surrounded by a separate membrane.  The nucleus(major organelle) holds genetic information necessary for reproduction and cell growth.  Every cell has one nucleus and membrane-bound organelles in the cytoplasm.  Mitochondria, a double membrane-bound organelle is mainly responsible for the energy transactions vital for the survival of the cell.  Lysosomes digest unwanted materials in the cell.  Endoplasmic reticulum plays a significant role in the internal organisation of the cell by synthesising selective molecules and processing, directing and sorting them to their appropriate locations.`
     },
     {
-        question: `337. The proteins and lipids, essential for building the cell membrane, are manufactured by:`,
+        question: `
+337. The proteins and lipids, essential for building the cell membrane, are manufactured by:`,
         options: [
             '(a) Endoplasmic reticulum',
             '(b) Golgi apparatus',
@@ -5345,7 +5682,8 @@ is the focal length of the lens.
         exp: `Explanation: Endoplasmic reticulum (ER), in biology, a continuous membrane system that forms a series of flattened sacs within the cytoplasm of eukaryotic cells and serves multiple functions, being important particularly in the synthesis, folding, modification, and transport of proteins . All eukaryotic cells contain an endoplasmic reticulum (ER). In animal cells, the ER usually constitutes more than half of the membranous content of the cell. Differences in certain physical and functional characteristics distinguish the two types of ER, known as rough ER and smooth ER.`
     },
     {
-        question: `338. Tissue is a group of similar kind of cells specialized to perform a particular function in the body. Therefore presence of tissues in a multicellular organism ensures:`,
+        question: `
+338. Tissue is a group of similar kind of cells specialized to perform a particular function in the body. Therefore presence of tissues in a multicellular organism ensures:`,
         options: [
             '(a) Faster development',
             '(b) Division of labour',
@@ -5356,7 +5694,8 @@ is the focal length of the lens.
         exp: `Explanation: In simple terms, tissues can be defined as a group of cells with similar shape and function are termed as tissues. They form a cellular organizational level intermediate between the cells and organ system. Organs are then formed by combining the functional groups of multiple tissues.`
     },
     {
-        question: `339. Lysosome is a cytoplasmic organelle containingenzymesthat break down biological polymers. Lysosomes function as the digestive system of the cell. It is also called the suicide bag of the cell because:`,
+        question: `
+339. Lysosome is a cytoplasmic organelle containingenzymesthat break down biological polymers. Lysosomes function as the digestive system of the cell. It is also called the suicide bag of the cell because:`,
         options: [
             '(a) It causes any cell to commit suicide',
             '(b) Its enzymes digest the cell itself',
@@ -5367,7 +5706,8 @@ is the focal length of the lens.
         exp: `Explanation: Lysosomes are an important cell organelle found within eukaryotic animal cells. Due to their peculiar function, they are also known as the “suicide bags” of the cell. The term was coined by Christian de Duve, a Belgian biologist, who discovered it and ultimately got a Nobel Prize in Medicine or Physiology in the year 1974. Lysosome Definition: “Lysosomes are sphere-shaped sacs filled with hydrolytic enzymes that have the capability to break down many types of biomolecules.” In other words, lysosomes are membranous organelles whose specific function is to breakdown cellular wastes and debris by engulfing it with hydrolytic enzymes. Lysosomes work as the waste discarding structures of the cell by processing undesirable materials and degrading them, both from the exterior of the cell and waste constituents inside the cell. But sometimes, the digestive enzymes may end up damaging the lysosomes themselves, and this can cause the cell to die. This is termed as autolysis, where “auto” means “self” and “lysis” means “the disintegration of the cell by the destruction of its cell membrane“. Hence, lysosomes are known as “Suicidal Bags” of the cell.`
     },
     {
-        question: `340. Epithelial tissue always has an exposed outer surface and an inner surface anchored to connective tissue by a thin, noncellular structure called the`,
+        question: `
+340. Epithelial tissue always has an exposed outer surface and an inner surface anchored to connective tissue by a thin, noncellular structure called the`,
         options: [
             '(a) Non-stratified layer',
             '(b) Stratified layer',
@@ -5378,7 +5718,8 @@ is the focal length of the lens.
         exp: `Explanation: Epithelial Tissue: They are formed by cells which cover the external parts of the body organs and lines the organ surfaces such as the surface of the skin, the reproductive tract, the airways, and the inner lining of the digestive tract. Functions of Epithelial Tissue: 1. Play a major role in sensory reception, excretion, filtration and other metabolic activities. 2. Provide mechanical strength and resistance to the underlying cells and tissue. 3. It is involved in the movement of materials through the process of filtration, diffusion and secretion. 4. Protects the internal organs against the invasions of pathogens, toxins, physical trauma, radiation, etc. Epithelial tissues are also involved in secreting hormones, enzymes, mucus and other products from ducts and transporting it to the circulatory system.`
     },
     {
-        question: `341. Connective tissues are the tissues that help to bind or connect other tissues in the body. They have widely spaced cells embedded in a matrix having a variety of proteins, polysaccharides and mineral salts. Can you identify the connective tissues among the following? \n i. Ligament \n ii. Epithelium \n iii. Tendon \n iv. Blood`,
+        question: `
+341. Connective tissues are the tissues that help to bind or connect other tissues in the body. They have widely spaced cells embedded in a matrix having a variety of proteins, polysaccharides and mineral salts. Can you identify the connective tissues among the following? \n i. Ligament \n ii. Epithelium \n iii. Tendon \n iv. Blood`,
         options: [
             '(a) Both (i) and (iii)',
             '(b) (i), (ii) and (iii)',
@@ -5389,7 +5730,8 @@ is the focal length of the lens.
         exp: `Explanation: Connective Tissues: They are the group of tissues made up of cells separated by non-living material, called as an extracellular matrix. This tissue gives shape to the organs and holds them in place. For example, blood, bone, tendon, adipose, ligament and areolar tissues. There are three types of connective tissue:  Fibrous Connective Tissue.  Fluid Connective Tissue.  Skeletal Connective Tissue. Functions of Connective Tissue The connective tissue gives shape to the organs and holds them in place. It functions as the main supporting tissue of the body. Other important and the major functions of connective tissue in the body are: 1. Insulating. 2. Helps in binding the organs together and provides support. 3. Protects against the invasions of pathogens by their phagocytic activity. 4. Provides shape to the body, conserves body heat and also stores energy. 5. Involved in transporting nutrients, hormones, gases, wastes, and other substances within the body.`
     },
     {
-        question: `342. Tiny pores are found on the surface of the leaves of plants. These pores are called stomata. These stomata surrounded by the kidney shaped guard cells provide many vital functions to the plants. Which of the following functions is not served by the stomata for the plants?`,
+        question: `
+342. Tiny pores are found on the surface of the leaves of plants. These pores are called stomata. These stomata surrounded by the kidney shaped guard cells provide many vital functions to the plants. Which of the following functions is not served by the stomata for the plants?`,
         options: [
             '(a) Exchange of gases, particularly CO2 and O2, with atmosphere',
             '(b) Loss of water in the form of vapours during transpiration',
@@ -5400,7 +5742,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer D`
     },
     {
-        question: `343. Meristemetic tissues are those which help in increasing the length and girth of the plan. Which of the following statements given below is correct about the meristematic tissue?`,
+        question: `
+343. Meristemetic tissues are those which help in increasing the length and girth of the plan. Which of the following statements given below is correct about the meristematic tissue?`,
         options: [
             '(a) It is made up of cells that are incapable of cell division',
             '(b) It is made up of cells that are capable of cell division',
@@ -5412,7 +5755,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `344. The anti-viral protein is known as: `,
+        question: `
+344. The anti-viral protein is known as: `,
         options: [
             'A. Antibodies ',
             'B. Interferon ',
@@ -5425,7 +5769,8 @@ is the focal length of the lens.
         exp: `Explanation: Viral proteins are proteins generated by a virus. As viruses hijack much of their host's cellular machinery to support their life cycle, they encode very few of their own genes; viral proteins are therefore generally structural components, for the viral envelope and capsid. Non-structural proteins and regulatory or accessory proteins can also be viral proteins. Antiviral proteins are proteins that are induced by human or animal cells to interfere with viral replication. These proteins are isolated to inhibit the virus from replicating in a host's cells and stop it from spreading to other cells. `
     },
     {
-        question: `345. What is the other name of rabbis? `,
+        question: `
+345. What is the other name of rabbis? `,
         options: [
             'A. Chemo phobia ',
             'B. Herpetophobia ',
@@ -5438,7 +5783,8 @@ is the focal length of the lens.
         exp: `Explanation: Rabies is a viral disease that is spread through the animal bite such as the dog. It is caused by the infection of rabies virus. The infection caused from this leads to encephalomyelitis i.e the inflammation of the brain as well as the spinal cord. The transmission of the virus happens through the saliva and affects the CNS or Central nervous system. This virus belongs to the family called Rhabdoviridae. It takes the shape of a bullet. Animals such as dogs, rabbits, cats, fox and etc carry this virus and transmit the disease to human beings. Usually, this disease causes about 24,000 - 60,000 deaths in worldwide per year. Control and Prevention of Rabies Prevention is better than cure. Rabies is an infectious disease that can be preventable. Following measures can reduce the infection to nearly high extents. Some of the measures are given below-  Get rabies vaccination injected to prevent the infection.  Vaccinating your pet against the disease.  Maintain distance with the wild animals.  Wash wounds with soap and water and maintain good hygiene.  Keep your pets away from the other stray dogs.  Prevent bats wandering around your campuses and living places. `
     },
     {
-        question: `346. Children are vaccinated against polio because `,
+        question: `
+346. Children are vaccinated against polio because `,
         options: [
             '1. Vaccination kills polio causing microbes ',
             '2. Prevents the entry of polio causing organisms ',
@@ -5451,7 +5797,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer D`
     },
     {
-        question: `347. Which of the following is a mismatch?`,
+        question: `
+347. Which of the following is a mismatch?`,
         options: [
             '1. Leprosy- Bacterial infection ',
             '2. AIDS- Bacterial infection ',
@@ -5464,7 +5811,8 @@ is the focal length of the lens.
         exp: `Explanation: A. Leprosy Definition “Leprosy is a chronic infection that affects the skin, mucous membrane, and nerves, and causes discolouration, lumps, disfigurement and deformities in skin.” What is Leprosy? Leprosy is a disease that causes severe, scarring skin sores and nerve damage in the limbs. Leprosy disease has affected people on every continent. Leprosy is actually not that infectious but it spreads when a healthy person comes in regular and close contact with mouse droplets and leprosy patient. Children get more affected by this disease than adults. Almost, 180000 people all over the world get infected with leprosy. The Leprosy disease mainly affects the peripheral nerves, skin, upper respiratory tract and the eyes. The most prevalent possibility of transmission is through the respiratory route. Leprosy is also transmitted through insects. B. What is AIDS? AIDS or Acquired Immune Deficiency Syndrome is a syndrome caused by the HIV virus. In this condition, a person’s immune system becomes too weak to fight off any kind of infection or disease. AIDS is usually the last stage of HIV infection; a stage where the body can no longer defend itself and thus spawns various diseases. AIDS, when untreated, leads to death. AIDS is an advanced HIV infection or late-stage HIV. Someone with AIDS may develop a wide range of health conditions like - pneumonia, thrush, fungal infections, TB, toxoplasmosis and cytomegalovirus. There is also an increased risk of developing a medical illness like cancer and brain illnesses. CD4 count refers to the number of Thelper cells in a cubic millilitre of blood. A person may be referred to as “AIDS-affected” when the CD4 count drops below 200 cells per cubic millilitre of blood. C. What is Malaria? Malaria is a mosquito-borne infectious disease caused by various species of the parasitic protozoan microorganisms called Plasmodium. Malaria is a disease that man has battled with for a long time. The first evidence of this protozoan came from mosquitoes preserved in amber nearly 30 million years ago. It is even thought to have brought the Roman Empire to its knees. Malaria was so prevalent during the Roman times that the disease is also called ‘Roman Fever’. Today, the credit for actually discovering the parasite is given to Charles Louis Alphonse Laveran, a French physician. He even won the Nobel Prize in 1907 for his findings. Malaria parasite exists in the form of a motile sporozoite. The vector of malaria i.e. the female Anopheles mosquito transmits the malarial sporozoites into the hosts. When an infected mosquito bites a human, the sporozoites are injected into the blood through the mosquito’s saliva. The sporozoites travel into our body and accumulate in the liver. These parasites initially multiply within the liver, by damaging the liver and rupturing the blood cells in the body. Malaria kills by causing the destruction of the red blood cells in the host. The parasites reproduce asexually in the RBCs, bursting the cells and releasing more parasites to infect more cells. The rupture of red blood cells by the malaria parasite releases a toxin called hemozoin which causes the patient to experience a condition known as the chills. When the female Anopheles mosquito bites an infected human, the parasites enter the mosquito’s body along the human blood it is drinking. It is inside the mosquito’s body that the actual development and maturing of the parasite happens. The parasites produced in the human body reach the intestine of the mosquito where the male and females cells fertilize each other to lead to the formation of a sporozoite. On maturing, the sporozoite breaks out the mosquito’s intestine and migrate to the salivary glands. Once they reach salivary glands, they wait till the mosquito bites another human and the process of infection and disease begins all over again. It is prudent however to observe that the complete development of the malaria parasite takes place in two different hosts; humans and mosquitoes. D. What is Common Cold? Cold or common cold is a disease diagnosed with a headache, runny nose, scratchy throat, fever and non stop sneezing. It is a viral infectious disease of the upper respiratory tract which primarily affects the nose and sometimes sinuses, ears, and bronchial tubes. A common cold is caused by viruses. Some of them include -  Rhinovirus - This one usually intrudes your system during early fall, spring, and summer. They are behind 10%-40% of colds. Even though these are the main common viruses which affect you, they would rarely make you seriously sick.  Coronavirus - The virus affects the human system during winter and early spring. This virus is behind 20% of colds. There are more than 30 types of coronavirus, out of which only 3 or 4 ones are harmful.  RSV and parainfluenza - These tiny organisms are behind severe infections like pneumonia, in young children. `
     },
     {
-        question: `348. Which bacteria is responsible for causing typhoid? `,
+        question: `
+348. Which bacteria is responsible for causing typhoid? `,
         options: [
             'A. Salmonella typhi ',
             'B. E. Coli ',
@@ -5477,7 +5825,8 @@ is the focal length of the lens.
         exp: `Explanation: What Is Typhoid? Typhoid is an infectious bacterial disease that mainly spreads through contaminated food or water. It can also spread due to the poor hygienic conditions. The major symptoms of this disease are characterized by high fever, loss of appetite and diarrhoea. Salmonella typhi is the bacterium responsible for this disease and humans are the only carriers. The first case of typhoid fever was reported in the United States in the early 1900’s. Overall, about 21 million people are infected with this disease annually, and about 200,000 cases are fatal. Furthermore, scientists have identified 2 types of typhoid causing bacterium, namely: 1. ST1 2. ST2 Causes Of Typhoid: Also called as “Salmonella enterica serotype Typhi”, this microbe is the causative agent for this disease. It is a gram-negative bacteria characterized by a thin cell wall and an outer membrane. The cells are reddish in colour, with some having black stains in the centre. It is rod-shaped and grows in the small intestine of the human body. Human beings are only the main hosts of this bacteria. This type of species can survive in environments which are rich in oxygen and also, they are found in sewage, water bodies and some eventually make their own on to food. The bacteria enter the human body through the contaminated foods and water, where it then enters into the intestinal cells of the human body. Later, it passes through the bloodstream and destroys the lymphatic system and spreads throughout the body. This bacterium is mainly carried by the white blood cells present in the liver and also the bone marrow. There, they multiply and re-enter the blood cells, which in turn, causes a number of symptoms to appear in the later stages. `
     },
     {
-        question: `349. The disease which are present since birth and are due to some genetic disorder is called: `,
+        question: `
+349. The disease which are present since birth and are due to some genetic disorder is called: `,
         options: [
             'A. Congenital disease ',
             'B. Infectious ',
@@ -5490,7 +5839,8 @@ is the focal length of the lens.
         exp: `Explanation: Congenital refers to a condition or disease which is present at birth. The condition can be inherited (genetic) or caused by environmental factors. Some maternal infections, such as HIV, can be passed onto the child and cause a congenital condition. Maternal factors such as alcohol or drug consumption, nutritional intake and placental health can all cause congenital problems Examples  Congenital heart defects are those which affect the structure of the heart and the way blood flows through it. Ranging from minor—with no symptoms—to life-threatening, these are the most common type of birth defect  Cleft lip and palate, which affect the development of the roof of the mouth and upper lip. A cleft lip can be caused by genes passed down from the parents, environmental toxins, viruses or may occur in concert with other birth defects.  Neural tube defects such as spina bifida  Down Syndrome caused by an extra chromosome `
     },
     {
-        question: `350. Diarrhea, cholera, typhoid are the diseases that have one thing in common that is `,
+        question: `
+350. Diarrhea, cholera, typhoid are the diseases that have one thing in common that is `,
         options: [
             'A. All of them are caused by bacteria ',
             'B. All of them is transmitted by contaminated food and water ',
@@ -5503,7 +5853,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer D`
     },
     {
-        question: `351. Which of the following statements is correct regarding vaccination? `,
+        question: `
+351. Which of the following statements is correct regarding vaccination? `,
         options: [
             'A. It develops resistance against pathogettack. ',
             'B. It kills pathogen causing disease ',
@@ -5516,7 +5867,8 @@ is the focal length of the lens.
         exp: `Explanation: A vaccine is a preparation that improves immunity to a particular disease. It is a biological prepared product which contains typical agents resembling a microorganism that causes disease, made from weakened or dead forms of the microbes, one of its surface proteins or its toxins. It helps in the stimulation of the immune system and to identify the invaded microbes as the foreign agent and destroy it so that the immune system can be recognized and destroy any microorganism encountered later. A vaccine is an antigenic substance that develops immunity against a disease which can be delivered through needle injections or by mouth or by aerosol.Vaccination is the injection of a dead or weakened organism that forms immunity against that organism in the body.Immunization is the process by which an animal or a person stays protected from diseases. Vaccines are Safe and Effective: Vaccines are the perfect defense against a preventable and contagious disease that can be deadly. Vaccines are one of the safest medical products available but there are some preventive measures one should adopt. Precise information of the values of vaccines along with their possible side-effects assist people to take decisions on vaccines. How Well Do Vaccines Work? No medicine can be labeled as perfect but most of the vaccines produce immunity for about 90-100% of the cases. Certainly, better sanitation and hygiene can help prevent the spread of disease but the germs that are responsible still stay around. The germs continue to make people sick as long as their existence. Every vaccine has to be licensed by the Food and Drug Administration abbreviated by FDA before being brought into use in the United States. A vaccine needs to go through extensive tests to confirm that it is safe before the approval of FDA. Among these tests are the clinical tests trials that compare groups of people who get a control such as a placebo with the group of people who get a vaccine. A vaccine is approved only when FDA confirms that it is safe for intended use. Vaccines save millions of lives every year. When a particular section of a city or town is immunized against a communicable disease, several members of the same community are shielded against the diseases as the opportunity for an outbreak is minimum. The principle of immunity refers to the control of various contagious diseases that involve rabies, mumps, influenza, measles and pneumococcal disease. `
     },
     {
-        question: `352. If you live in an overcrowded and poorly ventilated house, it is possible that you may suffer from `,
+        question: `
+352. If you live in an overcrowded and poorly ventilated house, it is possible that you may suffer from `,
         options: [
             'A. Waterborne disease ',
             'B. Airborne disease ',
@@ -5529,7 +5881,8 @@ is the focal length of the lens.
         exp: `Explanation: Airborne Transmission: Some infectious agents remain suspended in the air for a long period of time. These pathogens might attack the immune system of a person in contact. For eg., if you enter a room that was initially occupied by a patient of measles, you too might catch the infection. `
     },
     {
-        question: `353. An organism which harbours a pathogen and may pass it on to another person to cause a disease is known as `,
+        question: `
+353. An organism which harbours a pathogen and may pass it on to another person to cause a disease is known as `,
         options: [
             'A. Host ',
             'B. Vector ',
@@ -5542,7 +5895,8 @@ is the focal length of the lens.
         exp: `Explanation: A vector is an organism that does not cause disease itself but that transmits infection by conveying pathogens from one host to another. Vectors may be mechanical or biological.`
     },
     {
-        question: `354. In the SI system, the unit of P.E. is: `,
+        question: `
+354. In the SI system, the unit of P.E. is: `,
         options: [
             'A. Erg ',
             'B. Newton. ',
@@ -5553,7 +5907,8 @@ is the focal length of the lens.
         exp: `Explanation: The term potential energy was introduced by the 19thcentury Scottish engineer and physicist William Rankine. There are several types of potential energy, each associated with a distinct type of force. It is the energy by virtue of an object’s position relative to other objects. We can define potential energy as: The energy held by an object because of its position relative to other objects, stresses within itself, its electric charge, or other factors. Similarly, in the case of a spring, when it is displaced from its equilibrium position, it gains some amount of energy which we observe in the form of stress we feel in our hand upon stretching it. We can define potential energy as a form of energy that results from the alteration of its position or state. Potential Energy Formula: The formula for potential energy depends on the force acting on the two objects. For the gravitational force the formula is: W = m×g×h = mgh,  Where, m is the mass in kilograms g is the acceleration due to gravity h is the height in meters Unit: Gravitational potential energy has the same units as kinetic energy: kg m2 / s2 Note: All energy has the same units - kg m2 / s2, and is measured using the unit Joule (J). `
     },
     {
-        question: `355. What happens to the kinetic energy of the body if its velocity is doubled? `,
+        question: `
+355. What happens to the kinetic energy of the body if its velocity is doubled? `,
         options: [
             'A. Remains same',
             'B. Becomes double ',
@@ -5564,7 +5919,8 @@ is the focal length of the lens.
         exp: `Explanation: A force must be applied on a body to accelerate an object. Work must be done in order to apply a force. The body will move with an unvarying speed after the work has been done due to the energy provided by it. The speed and the mass of the body are factors on which the energy transfer that makes up the kinetic energy depends.,  The kinetic energy of an object is the energy that it possesses due to its motion. Kinetic energy definition is given as: The energy of an object because of its motion or the energy gained by an object from its state of rest to motion. Formula of Kinetic Energy: Following is the formula of kinetic energy: KE=12mv2 Where, KE is the kinetic energy of the object m is the mass of an object v is the velocity of an object Kinetic energy is an example of scalar quantity which means that the quantity has only magnitude and no direction. Unit of Kinetic Energy: The SI unit of kinetic energy is Joule which is equal to 1 kg.m2.s-2. The CGS unit of kinetic energy is erg. What are the Examples of Kinetic Energy? 1. A semi-truck travelling down the road has more kinetic energy than a car travelling at the same speed because the truck’s mass is much more than the car’s.,  2. A river flowing at a certain speed comprises kinetic energy as water has certain velocity and mass. 3. The kinetic energy of an asteroid falling towards earth is very large. 4. The kinetic energy of the aeroplane is more during the flight due to large mass and speedy velocity.`
     },
     {
-        question: `356. Expression for Power of an object is equal to: `,
+        question: `
+356. Expression for Power of an object is equal to: `,
         options: [
             'A. Power = Work done X Time ',
             'B. Power = Time/ Work done ',
@@ -5575,7 +5931,8 @@ is the focal length of the lens.
         exp: `Explanation: Power is always dependent on work done, so if a person does work at different rates his power also differs at different times. This is where the concept of average-power comes into the picture. What is Power? We can define power as the rate of doing work, it is the work done in unit time. The SI unit of power is Watt (W) which is joules per second (J/s). Sometimes the power of motor vehicles and other,  machines are given in terms of Horsepower (hp), which is approximately equal to 745.7 watts. What is Average Power? We can define average power as the total energy consumed divided by the total time taken. In simple language, we can say that average power is the average amount of work done or energy converted per unit of time. Power Formula: Power is defined as the rate at which work is done upon an object. Power is a time-based quantity. which is related to how fast a job is done. The formula for power is mentioned below. Power = Work / time P = W / t Unit of Power: The unit for standard metric work is the Joule and the standard metric unit for time is the second, so the standard metric unit for power is a Joule / second, defined as a Watt and abbreviated W.`
     },
     {
-        question: `357. In winters, rubbing of hands together for some time, causes a sensation of warmth mainly because of: `,
+        question: `
+357. In winters, rubbing of hands together for some time, causes a sensation of warmth mainly because of: `,
         options: [
             'A. heat caused by the force of friction',
             'B. heat caused by the momentum',
@@ -5586,7 +5943,8 @@ is the focal length of the lens.
         exp: `Explanation: If you rub your hands together for several seconds, you'll notice that your hands feel warm. That warmth is caused by a force called friction. When objects like your hands come in contact and move against each other, they produce friction. Friction is defined as: The resistance offered by the surfaces that are in contact with each other when they move over each other. Friction works in the opposite direction in which the body is moving making the body slow down. Friction is useful in most of the cases. Friction is also dependent on the external factors. Factors Affecting Friction: Following are the two factors on which friction depends 1. On the nature of the two surfaces that are in contact: Friction is dependent on the smoothness or roughness of the two surfaces that are in contact with each other. When the surface is smooth, the friction between the two reduces as there is no much interlocking of irregularities taking place. While the surface is rough, friction increases. 2. On the force that is acting on these surfaces: When force is applied along with the irregularities, friction increases.,  What Causes Friction? When we see any object, we can see the smooth surface but when the same object is viewed under a microscope, it can seen that even the smooth appearing object has rough edges. Tiny hills and grooves can be seen through the microscope and they are known as irregularities of the surface. So, when one object is moved over the other, these irregularities on the surface get entangled giving rise to friction. More the roughness, more will the irregularities and greater will be the force applied. `
     },
     {
-        question: `358. The value of 1 Kilo Watt Hour is `,
+        question: `
+358. The value of 1 Kilo Watt Hour is `,
         options: [
             'A. 1.8 X 10^5J ',
             'B. 3.6 X 10^6J ',
@@ -5597,7 +5955,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer B`
     },
     {
-        question: `359. According to the law of conservation of energy`,
+        question: `
+359. According to the law of conservation of energy`,
         options: [
             'A. Energy can only be transformed from one form to another',
             'B. Energy can neither be created nor destroyed ',
@@ -5608,7 +5967,8 @@ is the focal length of the lens.
         exp: `Explanation: Energy is required for the evolution of life forms on earth. In Physics, it is defined as the capacity to do work. We know that energy exists in different forms in nature. You have learned about various forms of energy - heat, electrical, chemical, nuclear, etc. In this article, we will learn about the laws and principles that govern energy. This law is known as the law of conservation of energy. What is the Law of Conservation of Energy? The law of conservation of energy states that energy can neither be created nor be destroyed. Although, it may be transformed from one form to another. If you take all forms of energy into account, the total energy of an isolated system always remains constant. All the forms of energy follow the law of conservation of energy. In brief, the law of conservation of energy states that: In a closed system, i.e., a system that is isolated from its surroundings, the total energy of the system is conserved. Law of Conservation of Energy Examples: In physics, most of the inventions rely on the fact that energy is conserved when it is transferred from one form to another. A,  number of electrical and mechanical devices operate solely on the law of conservation of energy. We will discuss a few examples here.  In a torch, the chemical energy of the batteries is converted into electrical energy, which is converted into light and heat energy.  In hydroelectric power plants, waterfalls on the turbines from a height. This, in turn, rotates the turbines and generates electricity. Hence, the potential energy of water is converted into the kinetic energy of the turbine, which is further converted into electrical energy.  In a loudspeaker, electrical energy is converted into sound energy.  In a microphone, sound energy is converted into electrical energy.  In a generator, mechanical energy is converted into electrical energy.  When fuels are burnt, chemical energy is converted into heat and light energy.  Chemical energy from food is converted to thermal energy when it is broken down in the body and is used to keep it warm. `
     },
     {
-        question: `360. On an object the work done does not depend upon: `,
+        question: `
+360. On an object the work done does not depend upon: `,
         options: [
             'A. Displacement ',
             'B. Angle between force and displacement',
@@ -5619,7 +5979,8 @@ is the focal length of the lens.
         exp: `Explanation: The amount of work done depends on the amount of the force applied and the distance object moves along with the angle between force and displacement. W=F\times S\times cos\theta=F×S×cosθ `
     },
     {
-        question: `361. What is the smallest unit of power? `,
+        question: `
+361. What is the smallest unit of power? `,
         options: [
             'A. Watt ',
             'B. Kilowatt ',
@@ -5630,7 +5991,8 @@ is the focal length of the lens.
         exp: `Explanation: Answer A `
     },
     {
-        question: `362. Which of the following device converts chemical energy in to electrical energy? `,
+        question: `
+362. Which of the following device converts chemical energy in to electrical energy? `,
         options: [
             'A. Battery ',
             'B. Loud Speaker',
@@ -5641,7 +6003,8 @@ is the focal length of the lens.
         exp: `Explanation: What is Energy? Energy is defined as the ability to do work where work is the movement of a body to be some force. We need energy all the time and energy comes in various forms. What is Chemical Energy? Chemical energy is defined as : the energy which is stored in the bonds of chemical compounds (molecules and atoms). It is released in the chemical reaction and mostly produces heat as a by-product, known as an exothermic reaction. The examples of stored chemical energy are biomass, batteries, natural gas, petroleum, and coal. Mostly, when the chemical energy is released from a substance, it is transformed into a new substance completely. For instance, when an explosion goes off, the chemical energy in it is transferred to the surroundings as thermal energy, kinetic energy, and sound energy. Chemical Energy in Everyday Life:  We know that plants need solar energy to produce sugar from carbon dioxide to water. Sugar, water and carbon dioxide stay together by chemical bonds that hold the chemicals together.,   For instance, all sugars consist of oxygen, carbon and hydrogen atoms held together by chemical bonds. These atoms do not connect together automatically; rather some energy is required to make them stay together.  Plants use solar energy to put the hydrogen, the carbon and the oxygen atoms as a whole in the form of sugar. This is a suitable example of energy transformation where energy is transformed from one form to another. Here, solar energy is transformed into chemical energy and prevents from falling apart. `
     },
     {
-        question: `363. Our planet Earth receives or transfers most of its energy in the form of `,
+        question: `
+363. Our planet Earth receives or transfers most of its energy in the form of `,
         options: [
             'A. Radiant energy',
             'B. Geo-thermal energy ',
@@ -5653,7 +6016,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `364. Match the column: \n Column-I Column-II \nA. Microphone 1.Wind energy into mechanical energy \nB. Speaker 2.Mechanical energy into sound energy \nC. Reeds of a harmonium 3.Electrical energy into sound energy \nD. Sails of a ship 4.Sound energy into electrical energy `,
+        question: `
+364. Match the column: \n Column-I Column-II \nA. Microphone 1.Wind energy into mechanical energy \nB. Speaker 2.Mechanical energy into sound energy \nC. Reeds of a harmonium 3.Electrical energy into sound energy \nD. Sails of a ship 4.Sound energy into electrical energy `,
         options: [
             `A. a - 4, b - 3, c - 1, d - 2 `,
             `B. a - 1, b - 2, c - 3, d - 4 `,
@@ -5664,7 +6028,8 @@ is the focal length of the lens.
         exp: `Explanation: Microphone − Sound energy into electrical energy. Speaker − Electrical energy into sound energy. Reeds of a harmonium − Mechanical energy into sound energy. Sails of a ship − Wind energy into mechanical energy.`
     },
     {
-        question: `365. Arrange the following media in ascending order of the speed of sound in them, 1. Water 2. Steel 3. Nitrogen `,
+        question: `
+365. Arrange the following media in ascending order of the speed of sound in them, 1. Water 2. Steel 3. Nitrogen `,
         options: [
             `A. 3, 2 and 1 `,
             `B. 1, 3 and 2 `,
@@ -5677,7 +6042,8 @@ is the focal length of the lens.
     `
     },
     {
-        question: `366. What is the minimum distance between two crests called? `,
+        question: `
+366. What is the minimum distance between two crests called? `,
         options: [
             'A. Wavelength ',
             'B. Amplitude ',
@@ -5688,7 +6054,8 @@ is the focal length of the lens.
         exp: `Explanation: Wavelength can be defined as the distance between two successive crests or troughs of a wave. It is measured in the direction of the wave. Description: Wavelength is the distance from one crest to another, or from one trough to another, of a wave (which may be an electromagnetic wave, a sound wave, or any other wave). Crest is the highest point of the wave whereas the trough is the lowest. Since wavelength is distance/length, it is measured in units of lengths such as metres, centimetres, milimetres, nanometres, etc.`
     },
     {
-        question: `367. What type of waves are Sound Waves? `,
+        question: `
+367. What type of waves are Sound Waves? `,
         options: [
             `A. Latitudinal waves`,
             `B. Longitudinal waves`,
@@ -5699,7 +6066,8 @@ is the focal length of the lens.
         exp: `Explanation: A sound is a form of energy, just like electricity, heat or light. Let’s examine some sources of sounds like a bell. When you strike a bell, it makes a loud ringing noise. Now, instead of just listening to the bell, put your finger on the bell after you have struck it. Can you feel it vibrating? This is the key to the sound. It is even more evident in guitars and drums. You can see the wires vibrating every time you pluck it. When the bell or the guitar stops vibrating, the sound also stops. The to and fro motion of the body is termed as Vibration. You can see examples of vibrations everywhere. Vibrating objects produce sound. Some vibrations are visible, some aren’t. If you pull and then release a stretched rubber band, the band moves to and fro about the central axis and while doing so it also produces a sound. The sound moves through a medium by alternately contracting and expanding parts of the medium it is travelling through. In physics, Sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid. Sound is pictorially represented by a continuous succession of peaks and valleys. The distance between two consecutive peaks or trough is termed as the wavelength of the wave or the period. The number of cycles per unit time is termed as the frequency of the sound. Frequency is measured in cycles per second or Hertz. The faster an object vibrates, i.e. the higher the frequency, then the higher the pitch of the sound. The difference between a man’s voice and women must be clearly evident to you. The voice of a man has a lower frequency which contributes to the deepness of the bass in the voice. Women, in contrast, have a voice with higher frequency resulting in a higher shrillness or pitch. What Is Longitudinal Wave? Longitudinal waves are the waves where the displacement of the medium is in the same direction, or in opposite direction, and direction of the travel of the wave. The distance between the centers of two consecutive regions of compression or the rarefaction is defined by wavelength, λ. When the compression and rarefaction regions are of two waves coincide with each other, it is known as constructive interference and if the regions of compression and rarefaction do not coincide, it is known as destructive interference. Sound Waves: A sound wave is an example of a longitudinal wave and is produced by the vibrating motion of the particles that travel through a conductive medium. The example of sound waves in a longitudinal direction is tuning fork. In Sound waves, the amplitude of the wave is the difference between the maximum pressure caused by the wave and the pressure of the undisturbed air. The propagation speed of sound depends upon the type, composition of the medium and temperature through which it propagates. `
     },
     {
-        question: `368. Which of the following is/are not applications of Ultrasonic Waves? \n A. For measuring the depth of Sea. \nB. In sterilizing of a liquid. \nC. In Ultrasonography \nD. In sterilizing a needle. Options are: `,
+        question: `
+368. Which of the following is/are not applications of Ultrasonic Waves? \n A. For measuring the depth of Sea. \nB. In sterilizing of a liquid. \nC. In Ultrasonography \nD. In sterilizing a needle. Options are: `,
         options: [
             `A. Both A and B `,
             `B. Only D `,
@@ -5710,7 +6078,8 @@ is the focal length of the lens.
         exp: `Explanation: What is Ultrasound? Sound waves with frequencies higher than the upper audible limit of human hearing are called ultrasound. The limit varies from person to person but is approximately 20,000 Hertz. The physical properties of ultrasound are similar to the normal audible sound. This type of scientific concept is used in many different fields such as navigation, medicine, imaging, cleaning, mixing, communication, testing etc. Even in nature, bats and porpoises use this particular technique for the location of prey and obstacles. In the following section, we shall learn about its applications. Applications: 1. Cleaning: In objects with parts that are difficult to reach, for example, spiral tubes and electronic components, the process of ultrasonic cleaning is used. Here, the object is dipped in a solution of suitable cleaning material and ultrasonic waves are passed into it. As a result of this, high-frequency waves are generated that cause the dirt and grease to detach from the surface. 2. Detection of cracks: Ultrasound is used to detect cracks in the metallic components that are used in the construction of high rise structures such as buildings and bridges. They generate and display an ultrasonic waveform that is interpreted by a trained operator, often with the aid of analysis software, to locate and categorize flaws in test pieces. High-frequency sound waves reflect from flaws in predictable ways, producing distinctive echo patterns that can be displayed and recorded by portable instruments. A trained operator identifies specific echo patterns corresponding to the echo response from good parts and from representative flaws. The echo pattern from a test piece may then be compared to the patterns from these calibration standards to determine its condition. 3. Echocardiography: In the process of electrocardiography, the ultrasonic waves are used to form an image of the heart using reflection and detection of these waves from various parts. 4. Ultrasonography: ,Medical ultrasound is a diagnostic imaging technique based on it. It is used for the imaging of internal body structures such as muscles, joints and internal organs. Ultrasonic images are known as sonograms. In this process, pulses of ultrasound are sent to the tissue using a probe. The sound echoes off the tissue, where different tissues reflect sound varying in degrees. These echoes are recorded and displayed an image. 5. Lithotripsy: Ultrasonic waves are used to break stones in the kidney. High energy sound waves are passed through the body without injuring it and break the stone into small pieces. These small pieces move through the urinary tract and out of the body more easily than a large stone. 6. SONAR: SONAR, Sound Navigation, and Ranging is a technique in which sound waves are used to navigate, detect and communicate under the surface of the water. 7. Echolocation: Echolocation is the process where sound waves and echoes are used to determine objects in space. Echolocation is used by bats to navigate and find their food in the dark. Bats send out sound waves from their mouth and nose, which then hit the objects in their vicinity producing echoes, which are then received by the bats. The nature of the echo helps them determine the size, the shape and the distance of the object. `
     },
     {
-        question: `369. What will be the effect of temperature on speed of sound? `,
+        question: `
+369. What will be the effect of temperature on speed of sound? `,
         options: [
             'A. The speed of sound decreases with the increases of temperature of the medium. ',
             'B. The speed of sound decreases with the decrease of temperature of the medium. ',
@@ -5721,7 +6090,8 @@ is the focal length of the lens.
         exp: `Explanation: The speed of sound increases with the increase of temperature of the medium. The speed of sound in air increases by 0.61 m/s when the temperature is increased by10C. `
     },
     {
-        question: `370. What is the unit of loudness? `,
+        question: `
+370. What is the unit of loudness? `,
         options: [
             'A. Bel ',
             'B. Phon ',
@@ -5732,7 +6102,8 @@ is the focal length of the lens.
         exp: `Explanation: The sensation of a sound perceived in a ear is measured by another term called loudness which depends on intensity of sound and sensitiveness of the ear. Unit of loudness is bel. A practical unit of loudness is decibel (dB) which is 1/10th of bel. Another unit of loudness is phon. `
     },
     {
-        question: `371. Which of the following statement is or are correct about longitudinal mechanical waves? `,
+        question: `
+371. Which of the following statement is or are correct about longitudinal mechanical waves? `,
         options: [
             `A.The longitudinal mechanical waves which lie in the frequency range 20 Hz to 20000 Hz are called audible or sound 'waves. `,
             `B. The longitudinal mechanical waves having frequencies less than 20 Hz are called infrasonic. `,
@@ -5743,7 +6114,8 @@ is the focal length of the lens.
         exp: `Explanation: Sound or Audible waves are sensitive to human ear and are generated by the vibrating bodies like tuning fork, vocal cords etc. Infrasonic waves are produced by sources of bigger size such as earth quakes, volcanic eruptions, ocean waves etc. Human ear cannot detect Ultrasonic waves. But dog, cat, bat etc can detect these waves. Bat not only detect but also produce ultrasonic waves. `
     },
     {
-        question: `372. Due to which phenomena sound is heard at longer distances in nights than in day? `,
+        question: `
+372. Due to which phenomena sound is heard at longer distances in nights than in day? `,
         options: [
             'A. Reflection ',
             'B. Refraction ',
@@ -5754,7 +6126,8 @@ is the focal length of the lens.
         exp: `Explanation: Due to refraction, sound is heard at longer distances in nights than in day.`
     },
     {
-        question: `373. Name the characteristic of the sound which distinguishes a sharp sound from a grave or dull sound? `,
+        question: `
+373. Name the characteristic of the sound which distinguishes a sharp sound from a grave or dull sound? `,
         options: [
             'A. Intensity ',
             'B. Echo ',
@@ -5766,7 +6139,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `374. Regarding the Chemical reactions, consider the following statements:  \n 1. New atoms are produced in a chemical reaction.  \n 2. Exothermic reactions are accompanied by absorption of Heat  \n Which of the statements given above is/are correct? `,
+        question: `
+374. Regarding the Chemical reactions, consider the following statements:  \n 1. New atoms are produced in a chemical reaction.  \n 2. Exothermic reactions are accompanied by absorption of Heat  \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -5777,7 +6151,8 @@ is the focal length of the lens.
         exp: `Explanation: During a chemical reaction atoms of one element do not change into those of another element. Nor do atoms disappear from the mixture or appear from elsewhere, in fact chemical reactions involve the breaking and making of bonds between atoms to produce new substances. Exothermic reactions are accompanied by release of Heat. `
     },
     {
-        question: `375. Which of the following best defines the oxidation of any substance? `,
+        question: `
+375. Which of the following best defines the oxidation of any substance? `,
         options: [
             'A. Gain in oxygen ',
             'B. Loss in oxygen  ',
@@ -5788,7 +6163,8 @@ is the focal length of the lens.
         exp: `Explanation: If a substance gains oxygen during a reaction, it is said to be oxidised. If a substance loses oxygen during a reaction, it is said to be reduced. If in a reaction, one reactant gets oxidised while the other gets reduced, it is called oxidation-reduction reactions or redox reactions. `
     },
     {
-        question: `376. Regarding the oxidation, consider the following statements: \n 1. The Black coating on silver and the green coating on copper are examples of Corrosion. \n 2. Bags of chips are flushed with gas such as nitrogen to prevent the chips from getting oxidised. \n Which of the statements given above is/are correct? `,
+        question: `
+376. Regarding the oxidation, consider the following statements: \n 1. The Black coating on silver and the green coating on copper are examples of Corrosion. \n 2. Bags of chips are flushed with gas such as nitrogen to prevent the chips from getting oxidised. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only ',
@@ -5799,7 +6175,8 @@ is the focal length of the lens.
         exp: `Explanation: When a metal is attacked by substances around it such as moisture, acids, etc., it is said to be corroded and this process is called corrosion. The black coating on silver and the green coating on copper are examples of corrosion. Corrosion causes damage to car bodies, bridges, iron railings, ships and to all objects made up of metals, especially those of iron. When fats and oils are oxidised, they become rancid and their smell and taste change. Usually substances which prevent oxidation (antioxidants) are added to foods containing fats and oil. Keeping food in air tight containers helps to slow down oxidation. Due to this reason, bags of chips are flushed with gas such as nitrogen to prevent the chips from getting oxidised. `
     },
     {
-        question: `377. Regarding the lime, consider the following statements: \n 1. Calcium hydroxide is also called as quicklime. \n 2. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls after two to three days of whitewashing. \n Which of the statements given above is/are correct? `,
+        question: `
+377. Regarding the lime, consider the following statements: \n 1. Calcium hydroxide is also called as quicklime. \n 2. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls after two to three days of whitewashing. \n Which of the statements given above is/are correct? `,
         options: [
             'A. 1 only ',
             'B. 2 only  ',
@@ -5810,7 +6187,8 @@ is the focal length of the lens.
         exp: `Explanation: Calcium oxide is called as quicklime. Calcium oxide reacts vigorously with water to produce slaked lime (calcium hydroxide) releasing a large amount of heat. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls. Calcium carbonate is formed after two to three days of white washing and gives a shiny finish to the walls. `
     },
     {
-        question: `378. Respiration is the type of which of the following reactions? `,
+        question: `
+378. Respiration is the type of which of the following reactions? `,
         options: [
             'A. Combination reaction ',
             'B. Decomposition reaction ',
@@ -5821,7 +6199,8 @@ is the focal length of the lens.
         exp: `Explanation: Respiration is an exothermic process. Reactions in which heat is released along with the formation of products are called exothermic chemical reactions. As we all know, we need energy to stay alive. We get this energy from the food we eat. During digestion, food is broken down into simpler substances. For  example, rice, potatoes and bread contain carbohydrates. These carbohydrates are broken down to form glucose. This glucose combines with oxygen in the cells of our body and provides energy. `
     },
     {
-        question: `379. The neutralization reaction between an acid and a base is a type of: `,
+        question: `
+379. The neutralization reaction between an acid and a base is a type of: `,
         options: [
             'A. Double displacement reaction ',
             'B. Displacement reaction ',
@@ -5832,7 +6211,8 @@ is the focal length of the lens.
         exp: `Explanation: A double displacement reaction is a type of reaction in which two reactants exchange ions to form two new compounds. Double displacement reactions typically result in the formation of a product that is a precipitate. Double displacement reactions take the form: AB + CD → AD + CB Key Takeaways: Double Displacement Reaction 1. A double displacement reaction is a type of chemical reaction in which the reactant ions exchange places to form new products.  2. Usually, a double displacement reaction results in precipitate formation. 3. The chemical bonds between the reactants may be either covalent or ionic. 4. A double displacement reaction is also called a double replacement reaction, salt metathesis reaction, or double decomposition. The reaction occurs most often between ionic compounds, although technically the bonds formed between the chemical species may be either ionic or covalent in nature. Acids or bases also participate in double displacement reactions. The bonds formed in the product compounds are the same type of bonds as seen in the reactant molecules. Usually, the solvent for this type of reaction is water. `
     },
     {
-        question: `380. The end product of an alcoholic fermentation is:`,
+        question: `
+380. The end product of an alcoholic fermentation is:`,
         options: [
             'A). pyrubic acid',
             'B). acetaldehyde',
@@ -5843,7 +6223,8 @@ is the focal length of the lens.
         exp: `Explanation: Alcoholic fermentation is called as lactic acid fermentation, it is anaerobic respiration that does not require oxygen. It is the process of release of energy by incomplete degradation of organic food hence end products are never fully inorganic. First glycolysis occurs and forms two molecules of pyruvate after that fermentation occurs, no oxygen involved and later forms ethyl alcohol and lactic acid. So, the correct option is ' ethanol or lactic acid'.`
     },
     {
-        question: `381. Which of the following gases is used in the storage of fat and oil containing foods for a long time? `,
+        question: `
+381. Which of the following gases is used in the storage of fat and oil containing foods for a long time? `,
         options: [
             'A. Carbondioxide gas ',
             'B. Nitrogen gas ',
@@ -5854,7 +6235,8 @@ is the focal length of the lens.
         exp: `Explanation: Helium or nitrogen both can be used for storage of fresh sample of an oil for a long time. These gases are called inert gases as they do not react with most elements including oxygen.  Thus these gases create an inert environment for the oil and prevent its reaction with any element in the environment that prevent from getting it rancid. `
     },
     {
-        question: `382. The respiration process during which glucose undergoes slow combustion by combining with oxygen in the cells of our body to produce energy, is a kind of: `,
+        question: `
+382. The respiration process during which glucose undergoes slow combustion by combining with oxygen in the cells of our body to produce energy, is a kind of: `,
         options: [
             'A. Exothermic process ',
             'B. Endothermic process ',
@@ -5865,7 +6247,8 @@ is the focal length of the lens.
         exp: `Explanation A`
     },
     {
-        question: `383. A chemical reaction does not involve: `,
+        question: `
+383. A chemical reaction does not involve: `,
         options: [
             'A. Formation of new substances having entirely different properties that of the reactants ',
             'B. Breaking of old chemical bonds and formation of new chemical bonds ',
@@ -5877,7 +6260,8 @@ is the focal length of the lens.
     },
 
     {
-        question: `384. Arrange the following components in decreasing order according to their percentage present in air. `,
+        question: `
+384. Arrange the following components in decreasing order according to their percentage present in air. `,
         options: [
             'A. Nitrogen, Oxygen, Argon, Carbon dioxide. ',
             'B. Oxygen, Argon, Carbon dioxide, Nitrogen. ',
@@ -5888,7 +6272,8 @@ is the focal length of the lens.
         exp: `Explanation: The major components of the air are: Nitrogen - 78% Oxygen - 20% Argon - 0.93% Carbon dioxide - 0.031% Other gases such as Neon, Helium, Hydrogen etc, are present in trace amounts. The increasing order of the boiming points of the above gases is : Nitrogen (lowest) Argon Oxygen Carbon dioxide `
     },
     {
-        question: `385. The term "water-pollution" can be defined in several ways. Which of the following statements does not give the correct definition? `,
+        question: `
+385. The term "water-pollution" can be defined in several ways. Which of the following statements does not give the correct definition? `,
         options: [
             'A. The addition of undesirable substances to water-bodies ',
             'B. The removal of desirable substances from water-bodies ',
@@ -5899,7 +6284,8 @@ is the focal length of the lens.
         exp: `Explanation: Various Causes of Water Pollution 1. Industrial waste: Industries produce a huge amount of waste which contains toxic chemicals and pollutants which can cause air pollution and damage to us and our environment. They contain pollutants such as lead, mercury, sulfur, asbestos, nitrates, and many other harmful chemicals. Many industries do not have a proper waste management system and drain the waste in the fresh water which goes into rivers, canals and later into the sea. The toxic chemicals have the capability to change the color of water, increase the number of minerals, also known as eutrophication, change the temperature of water and pose a serious hazard to water organisms. 2. Sewage and wastewater: The sewage and wastewater that is produced by each household is chemically treated and released into the sea with fresh water. The sewage water carries harmful bacteria and chemicals that can cause serious health problems. Pathogens are known as a common water pollutant; The sewers of cities house several pathogens and thereby diseases. Microorganisms in water are known to be causes of some very deadly diseases and become the breeding grounds for other creatures that act as carriers. These carriers inflict these diseases via various forms of contact onto an individual. A very common example of this process would be Malaria. 3. Mining activities: Mining is the process of crushing the rock and extracting coal and other minerals from underground. These elements when extracted in the raw form contains harmful chemicals and can increase the number of toxic elements when mixed up with water which may result in health problems. Mining activities emit a large amount of metal waste and sulphides from the rocks which is harmful to the water. 4. Marine dumping: The garbage produced by each household in the form of paper, aluminum, rubber, glass, plastic, food is collected and deposited into the sea in some countries. These items take from 2 weeks to 200 years to decompose. When such items enter the sea, they not only cause water pollution but also harm animals in the sea. 5. Accidental oil leakage: Oil spill poses a huge concern as a large amount of oil enters into the sea and does not dissolve with water; thereby opens problem for local marine wildlife such as fish, birds and sea otters. For e.g.: a ship carrying a large quantity of oil may spill oil if met with an accident and can cause varying damage to species in the ocean depending on the quantity of oil spill, size of the ocean, the toxicity of pollutant. 6. The burning of fossil fuels: Fossil fuels like coal and oil when burnt produce a substantial amount of ash in the atmosphere. The particles which contain toxic chemicals when mixed with water vapor result in acid rain. Also, carbon dioxide is released from the burning of fossil fuels which result in global warming. 7. Chemical fertilizers and pesticides: Chemical fertilizers and pesticides are used by farmers to protect crops from insects and bacterias. They are useful for the plant’s growth. However, when these chemicals are mixed up with water produce harmful for plants and animals. Also, when it rains, the chemicals mix up with rainwater and flow down into rivers and canals which pose serious damages for aquatic animals. 8. Leakage from sewer lines: A small leakage from the sewer lines can contaminate the underground water and make it unfit for the people to drink. Also, when not repaired on time, the leaking water can come on to the surface and become a breeding ground for insects and mosquitoes. 9. Global warming: An increase in earth’s temperature due to the greenhouse effect results in global warming. It increases the water temperature and results in the death of aquatic animals and marine species which later results in water pollution. 10. Radioactive waste: Nuclear energy is produced using nuclear fission or fusion. The element that is used in the production of nuclear energy is Uranium which is a highly toxic chemical. The nuclear waste that is produced by radioactive material needs to be disposed of to prevent any nuclear accident. Nuclear waste can have serious environmental hazards if not disposed of properly. Few major accidents have already taken place in Russia and Japan. 11. Urban development: As the population has grown, so has the demand for housing, food, and cloth. As more cities and towns are developed, they have resulted in increasing use of fertilizers to produce more food, soil erosion due to deforestation, increase in construction activities, inadequate sewer collection, and treatment, landfills as more garbage is produced, increase in chemicals from industries to produce more materials. 12. Leakage from the landfills: Landfills are nothing but a huge pile of garbage that produces the awful smell and can be seen across the city. When it rains, the landfills may leak and the leaking landfills can pollute the underground water with a large variety of contaminants. 13. Animal waste: The waste produced by animals is washed away into the rivers when it rains. It gets mixed up with other harmful chemicals and causes various water-borne diseases like cholera, diarrhea, jaundice, dysentery and typhoid. 14. Underground storage leakage: Transportation of coal and other petroleum products through underground pipes is well known. Accidentals leakage may happen anytime and may cause damage to the environment and result in soil erosion. `
     },
     {
-        question: `386. Which one of the following is not a cause of ozone depletion? `,
+        question: `
+386. Which one of the following is not a cause of ozone depletion? `,
         options: [
             'A. Oxides of nitrogen ',
             'B. Oxides of sulphur dioxide ',
@@ -5910,7 +6296,8 @@ is the focal length of the lens.
         exp: `Explanation: To understand ozone layer, it would be helpful to know the different layers of the atmosphere. The earth’s atmosphere is composed of many layers, each playing a significant role. The first layer stretching approximately 10 kilometers upwards from the earth’s surface is known as the troposphere. A lot of human activities such as gas balloons, mountain climbing, and small aircraft flights take place within this region. The stratosphere is the next layer above the troposphere stretching approximately 15 to 60 kilometers. The ozone layer sits in the lower region of the stratosphere from about 20-30 kilometers above the surface of the earth. The thickness of the ozone layer is about 3 to 5 mm, but it pretty much fluctuates depending on the season and geography. Ozone layer is a deep layer in earth’s atmosphere that contain ozone which is a naturally occurring molecule containing three oxygen atoms. These ozone molecules form a gaseous layer in the Earth’s upper atmosphere called stratosphere. This lower region of stratosphere containing relatively higher concentration of ozone is called Ozonosphere. The Ozonosphere is found 15-35 km (9 to 22 miles) above the surface of the earth. The concentration of ozone in the ozone layer is usually under 10 parts per million while the average concentration of ozone in the atmosphere is about 0.3 parts per million. The thickness of the ozone layer differs as per season and geography. The highest concentrations of ozone occur at altitudes from 26 to 28 km (16 to 17 miles) in the tropics and from 12 to 20 km (7 to 12 miles) towards the poles. Why Ozone Layer is Necessary? An essential property of ozone molecule is its ability to block solar radiations of wavelengths less than 290 nanometers from reaching Earth’s surface. In this process, it also absorbs ultraviolet radiations that are dangerous for most living beings. UV radiation could injure or kill life on Earth. Though the absorption of UV radiations warms the stratosphere but it is important for life to flourish on planet Earth. Research scientists have anticipated disruption of susceptible terrestrial and aquatic ecosystems due to depletion of ozone layer. Ultraviolet radiation could destroy the organic matter. Plants and plankton cannot thrive, both acts as food for land and sea animals, respectively. For humans, excessive exposure to ultraviolet radiation leads to higher risks of cancer (especially skin cancer) and cataracts. It is calculated that every 1 percent decrease in ozone layer results in a 2-5 percent increase in the occurrence of skin cancer. Other ill-effects of the reduction of protective ozone layer include - increase in the incidence of cataracts, sunburns and suppression of the immune system. Causes of Ozone Layer Depletion: Credible scientific studies have substantiated that the cause of ozone layer depletion is human activity, specifically, human-made chemicals that contain chlorine or bromine. These chemicals are widely known as ODS, an acronym for Ozone-Depleting Substances. The scientists have observed reduction in stratospheric ozone since early 1970’s. It is found to be more prominent in Polar Regions. Ozone-Depleting Substances have been proven to be eco-friendly, very stable and non-toxic in the atmosphere below. This is why they have gained popularity over the years. However, their stability comes at a price; they are able to float and remain static high up in the stratosphere. When up there, ODS are comfortably broken down by the strong UV light and the resultant chemical is chlorine and bromine. Chlorine and bromine are known to deplete the ozone layer at supersonic speeds. They do this by simply stripping off an atom from the ozone molecule. One chlorine molecule has the capability to break down thousands of ozone molecules. Ozone-depleting substances have stayed and will continue to stay in the atmosphere for many years. This, essentially, implies that a lot of the ozone-depleting substances human have allowed to go into the atmosphere for the previous 90 years are still on their journey to the atmosphere, which is why they will contribute to ozone depletion. The chief ozone-depleting substances include chlorofluorocarbons (CFCs), carbon tetrachloride, hydrochlorofluorocarbons (HCFCs) and methyl chloroform. Halons, sometimes known as brominated fluorocarbons, also contribute mightily to ozone depletion. However, their application is greatly restricted since they are utilized in specific fire extinguishers. The downside to halons is they are so potent that they are able to deplete the ozone layer 10 times more than ozone-depleting substances. Scientists in this age are working around the clock to develop Hydrofluorocarbons (HFCs) to take the place of hydrochlorofluorocarbons (HCFCs) and chlorofluorocarbons (CFCs) for use in vehicle air conditioning. Hydrochlorofluorocarbons are powerful greenhouse gases, but they are not able to deplete ozone. Chlorofluorocarbons, on the other hand, significantly contribute to climate change, which means Hydrofluorocarbons continue to be the better alternative until safer alternatives are available. There are two regions in which the ozone layer has depleted.  In the mid-latitude, for example, over Australia, ozone layer is thinned. This has led to an increase in the UV radiation reaching the earth. It is estimated that about 5-9% thickness of the ozone layer has decreased, increasing the risk of humans to over-exposure to UV radiation owing to outdoor lifestyle.  In atmospheric regions over Antarctica, ozone layer is significantly thinned, especially in spring season. This has led to the formation of what is called ‘ozone hole’. Ozone holes refer to the regions of severely reduced ozone layers. Usually ozone holes form over the Poles during the onset of spring seasons. One of the largest such hole appears annually over Antarctica between September and November. `
     },
     {
-        question: `387. The nitrogen molecules present in air can be converted into nitrates and nitrites by: `,
+        question: `
+387. The nitrogen molecules present in air can be converted into nitrates and nitrites by: `,
         options: [
             'A. A biological process of nitrogen fixing bacteria present in soil. ',
             'B. A biological process of carbon fixing factor present in soil. ',
@@ -5921,7 +6308,8 @@ is the focal length of the lens.
         exp: `Explanation: Nitrogen fixation is the essential biological process and the initial stage of the nitrogen cycle. In this process, nitrogen in the atmosphere is converted into ammonia (another form of nitrogen) by certain bacterial species like Rhizobium, Azotobacter, etc. and by other natural phenomena. Plants are the main of the sources of food. The nutrients obtained from plants are synthesized by plants using various elements which they obtain from the atmosphere as well as from the soil. This group of elements includes nitrogen as well. Plants obtain nitrogen from the soil through the process of protein synthesis. Unlike carbon dioxide and oxygen, atmospheric nitrogen cannot be obtained through stomata of leaves. Because the concentration of nitrogen gas present in the atmosphere can not be directly used by plants and also the concentration of the usable form of nitrogen in the atmosphere is very less. There are certain bacteria and some natural phenomenon which help in Nitrogen fixation. `
     },
     {
-        question: `388. The water cycle in nature involves which of the following processes sequentially? `,
+        question: `
+388. The water cycle in nature involves which of the following processes sequentially? `,
         options: [
             'A. Evaporation, precipitation and condensation. ',
             'B. Precipitation, condensation and evaporation. ',
@@ -5932,7 +6320,8 @@ is the focal length of the lens.
         exp: `Explanation Answer C`
     },
     {
-        question: `389. Select the incorrect statement regarding the rainfall with low pH. `,
+        question: `
+389. Select the incorrect statement regarding the rainfall with low pH. `,
         options: [
             'A. It affects aquatic life and corrodeetal, stone, etc. ',
             'B. It is caused by reaction of sulphur and nitrogen oxides with moisture in air. ',
@@ -5943,7 +6332,8 @@ is the focal length of the lens.
         exp: `Explanation: Rain with low pH is called acid rain. Acid rain is caused when sulphuric acid and nitric acid are formed in atmosphere by reaction of oxides of nitrogen and sulphur with moisture present in air. These oxides are released into atmospheric air by combustion of fossil fuels, i.e., conventional sources of energy. `
     },
     {
-        question: `390. Match column I with column II and select the correct option from the given codes.  \n Column I Column II  \n (a) Particulate matter (i) Chemical water pollutant  \n (b) Heat (ii) Non-degradable soil pollutant  \n (c) Detergent (iii) Degradable  \n (d) Plastic (iv) Air pollutant  \n (e) Vegetable peel (v) Physical water pollutant `,
+        question: `
+390. Match column I with column II and select the correct option from the given codes.  \n Column I Column II  \n (a) Particulate matter (i) Chemical water pollutant  \n (b) Heat (ii) Non-degradable soil pollutant  \n (c) Detergent (iii) Degradable  \n (d) Plastic (iv) Air pollutant  \n (e) Vegetable peel (v) Physical water pollutant `,
         options: [
             'A) (a)-(iv), (b)-(iii), (c)-(i), (d)-(ii), (e)-(v) ',
             'B) (a)-(iv), (b)-(v), (c)-(i), (d)-(ii), (e)-(iii) ',
@@ -5954,7 +6344,8 @@ is the focal length of the lens.
         exp: `Explanation B`
     },
     {
-        question: `391. Which one among the following is not a layer of atmosphere? `,
+        question: `
+391. Which one among the following is not a layer of atmosphere? `,
         options: [
             'A. Mesosphere ',
             'B. Stratosphere ',
@@ -5965,7 +6356,8 @@ is the focal length of the lens.
         exp: `Explanation: There are five layers in the structure of the atmosphere depending upon temperature. These layers are:  Troposphere  Stratosphere  Mesosphere  Thermosphere  Exosphere Troposphere  It is considered as the lowest layer of Earth’s atmosphere.  The troposphere starts at surface of the earth and goes up to a height of 7 to 20 km.  All weather occurs within this layer.  This layer has water vapour and mature particles.  Temperature decreases at the rate of 1 degree Celsius for every 165 m of height.  Tropopause separates Troposphere and Stratosphere. Stratosphere  It is the second layer of the atmosphere found above the troposphere.  It extends up to 50 km of height.  This layer is very dry as it contains little water vapour.  This layer provides some advantages for flight because it is above stormy weather and has steady, strong, horizontal winds.  The ozone layer is found in this layer.  The ozone layer absorbs UV rays and safeguards earth from harmful radiation.  Stratopause separates Stratosphere and Mesosphere. Mesosphere  The Mesosphere is found above the stratosphere.  It is the coldest of the atmospheric layers.  The mesosphere starts at 50 km above the surface of Earth and goes up to 85 km.  The temperature drops with altitude in this layer.  By 80 km it reaches -100 degrees Celsius.  Meteors burn up in this layer.  The upper limit is called Mesopause which separate Mesosphere and Thermosphere. Thermosphere  This layer is found above Mesopause from 80 to 400 km.  Radio waves which are transmitted from the earth are reflected back by this layer.  The temperature increases with height.  Aurora and satellites occur in this layer. Ionosphere  The lower Thermosphere is called the Ionosphere.  Ionosphere consists of electrically charged particles known as ions.  This layer is defined as the layer of the atmosphere of Earth that is ionized by cosmic and solar radiation.  It is positioned between 80 and 400 km above the Mesopause. Exosphere  It is the outermost layer of the atmosphere.  The zone where molecules and atoms escape into space is mentioned as the exosphere.  It extends from the top of the thermosphere up to 10,000 km. `
     },
     {
-        question: `392. Few characteristics of a type of soil are given below. Find the type of the soil based on the given characteristics.  \n 1. Presence of iron oxides in the soil.  \n 2. Formed by the erosion of rocks in areas of high temperature.  \n 3. Soil appears red in colour.  \n 4. Found in western and eastern ghats.  \n 5. Soil is not very fertile. `,
+        question: `
+392. Few characteristics of a type of soil are given below. Find the type of the soil based on the given characteristics.  \n 1. Presence of iron oxides in the soil.  \n 2. Formed by the erosion of rocks in areas of high temperature.  \n 3. Soil appears red in colour.  \n 4. Found in western and eastern ghats.  \n 5. Soil is not very fertile. `,
         options: [
             'A. Alluvial soil ',
             'B. Laterite soil ',
@@ -5976,7 +6368,8 @@ is the focal length of the lens.
         exp: `Explanation B`
     },
     {
-        question: `393. What would happen, if all the oxygen present in the environment is converted to ozone? `,
+        question: `
+393. What would happen, if all the oxygen present in the environment is converted to ozone? `,
         options: [
             'A. We will be protecteore. ',
             'B. It will become poisonous and kill living forms. ',
@@ -5987,7 +6380,8 @@ is the focal length of the lens.
         exp: `Explanation: Ozone is a poisonous gas and is thus only present in a thin layer in the stratosphere. lf all the oxygen is converted to ozone, the environment will become poisonous and kill all living forms. Ozone is O3, in its elemental form or even in its combined form it is highly toxic. Ozone can damage lungs and even low amounts of ozone can cause chest pain, coughing, shortness of breath and lung irritation.However at the stratospheric level, no life form exists and there ozone prevent us from the harmful U.V radiations of the sun.`
     },
     {
-        question: `394. Which of the following are the three primary nutrients needed for plant growth? `,
+        question: `
+394. Which of the following are the three primary nutrients needed for plant growth? `,
         options: [
             'A. Calcium, sulphur and magnesium. ',
             'B. Nitrogen, phosphorus and potassium. ',
@@ -5998,7 +6392,8 @@ is the focal length of the lens.
         exp: `Explanation: Soil is a major source of nutrients needed by plants for growth. The three main nutrients are nitrogen (N), phosphorus (P) and potassium (K). Together they make up the trio known as NPK. Other important nutrients are calcium, magnesium and sulfur. Plants also need small quantities of iron, manganese, zinc, copper, boron and molybdenum, known as trace elements because only traces are needed by the plant. The role these nutrients play in plant growth is complex, and this document provides only a brief outline. Major elements: 1. Nitrogen (N) Nitrogen is a key element in plant growth. It is found in all plant cells, in plant proteins and hormones, and in chlorophyll. Atmospheric nitrogen is a source of soil nitrogen. Some plants such as legumes fix atmospheric nitrogen in their roots; otherwise fertiliser factories use nitrogen from the air to make ammonium sulfate, ammonium nitrate and urea. When applied to soil, nitrogen is converted to mineral form, nitrate, so that plants can take it up. Soils high in organic matter such as chocolate soils are generally higher in nitrogen than podzolic soils. Nitrate is easily leached out of soil by heavy rain, resulting in soil acidification. You need to apply nitrogen in small amounts often so that plants use all of it, or in organic form such as composted manure, so that leaching is reduced. 2. Phosphorus (P) Phosphorus helps transfer energy from sunlight to plants, stimulates early root and plant growth, and hastens maturity. Very few Australian soils have enough phosphorus for sustained crop and pasture production and the North Coast is no exception. The most common phosphorus source on the North Coast is superphosphate, made from rock phosphate and sulfuric acid. All manures contain phosphorus; manure from grain-fed animals is a particularly rich source. 3. Potassium (K) Potassium increases vigour and disease resistance of plants, helps form and move starches, sugars and oils in plants, and can improve fruit quality. Potassium is low or deficient on many of the sandier soils of the North Coast. Also, heavy potassium removal can occur on soils used for intensive grazing and intensive horticultural crops (such as bananas and custard apples). 4. Calcium (Ca) Calcium is essential for root health, growth of new roots and root hairs, and the development of leaves. It is generally in short supply in the North Coast's acid soils. Lime, gypsum, dolomite and superphosphate (a mixture of calcium phosphate and calcium sulfate) all supply calcium. Lime is the cheapest and most suitable option for the North Coast; dolomite is useful for magnesium and calcium deficiencies, but if used over a long period will unbalance the calcium/magnesium ratio. Superphosphate is useful where calcium and phosphorus are needed. 5. Magnesium (Mg) Magnesium is a key component of chlorophyll, the green colouring material of plants, and is vital for photosynthesis (the conversion of the sun's energy to food for the plant). Deficiencies occur mainly on sandy acid soils in high rainfall areas, especially if used for intensive horticulture or dairying. Heavy applications of potassium in fertilisers can also produce magnesium deficiency, so banana growers need to watch magnesium levels because bananas are big potassium users. Magnesium deficiency can be overcome with dolomite (a mixed magnesium-calcium carbonate), magnesite (magnesium oxide) or epsom salts (magnesium sulfate). 6. Sulfur (S) Sulfur is a constituent of amino acids in plant proteins and is involved in energy-producing processes in plants. It is responsible for many flavour and odour compounds in plants such as the aroma of onions and cabbage. Sulfur deficiency is not a problem in soils high in organic matter, but it leaches easily. On the North Coast seaspray is a major source of atmospheric sulfur. Superphosphate, gypsum, elemental sulfur and sulfate of ammonia are the main fertiliser sources. `
     },
     {
-        question: `395. Which of the following is a food-fodder mixed farming system? `,
+        question: `
+395. Which of the following is a food-fodder mixed farming system? `,
         options: [
             'A. Growing food crops alone ',
             'B. Growing fodder crops alone ',
@@ -6009,7 +6404,8 @@ is the focal length of the lens.
         exp: `Explanation: Mixed farming system can be defined as - (i).The use of a single farm for multiple purposes, as the growing of cash crops or the raising of livestock is called as mixed farming. (ii).Farming involving both the growing of crops and the keeping of livestock is called as mixed farming. (iii). A type of commercial agriculture concerned with the production of both crops and animals on one farm. Stock on a mixed farm used to be grazed on fallow land, but many modern mixed farms produce some, or all, of their fodder crops. Mixed farming is a system of farming in which a farmer conducts different types of agricultural practices together, on a single farm in view of increasing his income through different sources, is called as mixed farming. But, what is a farm? & what is Farming? Receiving the radiant energy of sun through crops and cattle is called as farming whereas, the place where these practices are done, is called as a farm. Here is one example: Rearing of cattle and growing fodder for them on a piece of land is called as farming. In other words, Mixed farming is the combining of two independent agricultural enterprises on the same farm. In mixed farming a farmer can take up different types of practices for income generation while doing his main business of agriculture. Some of these practices that can be done together with the main agricultural practices are - poultry faming, dairy farming, bee keeping, sericulture, Pisciculture, shrimp farming, goat and sheep rearing, piggery and agro forestry. Thus a farmer can raise his income manifold through carrying out different farming practices together. The greatest benefit from this type of farming is that if any one business does not pay desired benefit, the same can be recovered from the benefit of the other business. Merits of Mixed Farming System: The mixed farming system is the largest category of livestock system in the world which covers about 2.5 billion hectares of land, of which 1.1 billion hectares are arable rainfed crop land, 0.2 billion hectares are irrigated cropland and 1.2 billion hectares are grassland. This system of farming produces 92% of the world’s milk supply. Some of the important merits of mixed farming are mentioned below. 1. This farming system maintains soil fertility by recycling soil nutrients and allowing the introduction and use of rotations between various crops and forage legumes and trees, or for land to remain fallow and grasses and shrubs to become reestablished; 2. Mixed farming maintains soil biodiversity, minimize soil erosion, help to conserve water and provide suitable habitats for birds; 3. It makes the best use of crop residues. When they are not used as feed, stalks may be incorporated directly into the soil, where, for some time, they act as a nitrogen trap, exacerbating deficiencies. In the tropical semi-arid areas, termite action results in loss of nutrients before the next cropping season. Burning, the other alternative, increases carbon dioxide emissions; and 4. Mixed farming allows intensified farming, with less dependence on natural resources and preserving more biodiversity than would be the case if food demands were to be met by crop and livestock activities undertaken in isolation. There are a number of methods that are adopted in the mixed farming system. Some of these methods are being described below 1. Food -Fodder Farming In this method of mixed farming, the fodder crops are also grown along with other crops. Farmers can grow Sorghum, Pusa Giant Napier; berseem etc. as fodder crops for their cattle alongwith food crops. It is through this system that the availability of high variety of fodder is ensured for milch cattle while growing crops for production of grains, pulses, vegetables, oil and fruits etc. 2. Agroforestry System According to the World Forestry Centre (ICRAF) 1993, - “Agroforestry system is a collective name forthe land use systems and practices in which woody perennial plants are deliberately integrated with crops (and some times animals) on the same land management unit. The integration can be either in a spatial mixture or in a temporal sequence. There are normally both ecological and economic interactions between woody and non-woody components in Agroforestry". Again in the year 2003, the ICRAF further defined the agroforestry system as - a dynamic, ecology based, natural resources management system that, through the integration of trees on farms and in the agricultural landscape, diversifies and sustains production for increased social, economic and environmental benefits for land users at all levels (World Agroforestry Centre, 2003). `
     },
     {
-        question: `396. Why is organic manure considered better than fertilisers? `,
+        question: `
+396. Why is organic manure considered better than fertilisers? `,
         options: [
             'A. It cannot be prepared in fields. ',
             'B. It is less rich in plant nutrients. ',
@@ -6020,7 +6416,8 @@ is the focal length of the lens.
         exp: `Explanation: Organic manure or organic fertilizer is made up of organic biodegradable waste like animal excreta and agriculture wastes. As it biodegradable it cannot harm the environment and increase the soil fertility it is better than chemical fertilizer. But chemical fertilizers are nutrient specific and prepared in chemical factories. `
     },
     {
-        question: `397. Which of the following refers to inland fisheries? `,
+        question: `
+397. Which of the following refers to inland fisheries? `,
         options: [
             'A. Culturing fish in fresh water ',
             'B. Deep sea fisheries ',
@@ -6031,7 +6428,8 @@ is the focal length of the lens.
         exp: `Explanation: Inland fisheries are any activity conducted to extract fish and other aquatic organisms from "inland waters". The term "inland waters" is used to refer to lakes, rivers, brooks, streams, ponds, inland canals, dams, and other land-locked (usually freshwater) waters (such as the Caspian Sea, Aral Sea, etc.). Whilst most inland waters are freshwater( i.e. zero salinity), there are many areas that are classified nationally as inland waters which have daily or seasonal fluctuations in salinity (e.g. estuaries, deltas, some coastal lagoons). Some areas are permanently brackishwater (coastal lagoons, the Caspian Sea, Lake Van) or even hypersaline (e.g. The Utah Great Salt Lake). Fisheries in inland waters have long provided an important source of food for mankind. The global population now stands at 7.6 billion and is projected to rise to 9.7 billion people by 2050. Inland capture fisheries have an important role to play in the global challenge to sustainably feed this growing population, as they deliver quality nutrition to some of the world’s most vulnerable populations in a manner that is both accessible and affordable. Inland fisheries are critical for a group of developing countries in the world, providing an important source of nutrition, food security as well as micronutrients. These nutritional and food security benefits are an integral part of the agricultural landscape of these countries, thus inland fisheries are closely linked to food production, water and land management, biodiversity and ecosystems. Inland fisheries are also increasingly impacted and changed as countries develop their water and land resources for agriculture. They are under increasing pressure and threats arising from far reaching changes to the aquatic environment arising from human activities such as damming, navigation, wetland reclamation for agriculture, urbanization, water extraction and transfer, and waste disposal. `
     },
     {
-        question: `398. Which of the following is an important objective of biotechnology in the field of agriculture? `,
+        question: `
+398. Which of the following is an important objective of biotechnology in the field of agriculture? `,
         options: [
             'A. To produce disease resistant varieties of plants ',
             'B. To increase the nitrogen content ',
@@ -6042,7 +6440,8 @@ is the focal length of the lens.
         exp: `Explanation: Biotechnology is being used to address problems in all areas of agricultural production and processing. This includes plant breeding to raise and stabilize yields; to improve resistance to pests, diseases and abiotic stresses such as drought and cold; and to enhance the nutritional content of foods. Biotechnology is being used to develop low-cost, disease-free planting materials for crops. `
     },
     {
-        question: `399. Who is called the "Father of Green Revolution" in India? `,
+        question: `
+399. Who is called the "Father of Green Revolution" in India? `,
         options: [
             'A. M.S. Ramaiah ',
             'B. Aryabhatta ',
@@ -6053,7 +6452,8 @@ is the focal length of the lens.
         exp: `Explanation C`
     },
     {
-        question: `400. What is the advantage of crop rotation? `,
+        question: `
+400. What is the advantage of crop rotation? `,
         options: [
             'A. Getting different kinds of crops ',
             'B. Increasing the quality of minerals ',
@@ -6064,7 +6464,8 @@ is the focal length of the lens.
         exp: `Explanation: Principles of crop rotation The basic principles of crop rotations are as follows:  Deep rooted crops should be succeeded by shallow rooted crop s such as cotton, castor, pigeon peapotato, lentil, green gram etc.  Dicot crops should be rotated by monocot crops such as mustar d, potato- rice, wheat- sugarcane.  Leguminous crops should be succeeded by nonleguminous crops and vice versa (green gram- wheat).  Exhaustive crops should be succeeded with restorative crops s uch as potato, sorghum, sugarcane, castor- sunhemp, black gra m, cowpea.  Grain crops should be followed by foliage crops such as, wheatdhaincha, black gram.  Long duration crops should be succeeded by short duration cro ps such as sugarcane, napier, Lucerne- cowpea, black gram, grou nd nut.  Crops susceptible to soil borne pathogens and parasitic weeds s hould be followed by tolerant trap crops such as sugarcane- ma rigold, mustard (for nematodes); tobacco- rice, pulses (for oro banche); pearl millet- castor (for striga); lucern, berseem- oats (for cuscuta).  Crops with problematic weeds should be followed by clean crop s/ multi cut crops and other dissimilar crops such as wheat- pu ddle rice for Phalaris minor; berseem- potato for Chicorium int ybus; rice- vegetables for Echinochloa crusgalli.  Heavy irrigation and intensive labour requiring crops should be followed by less water and labour requiring crops such as sugar cane, paddy- mungbean and sesame. Advantages of crop rotation Following are the advantages of an appropriate crop rotation:  Higher yield without incurring extra investment.  Enhance soil fertility and microbial activity.  Avoid accumulation of toxic substances.  The legumes in a cropping system, assimilating nitrogen from th e atmosphere and enriching the soil with their root system.  Better utilization of nutrients and soil moisture.  Insurance against natural devastation.  Maintain soil health by avoiding insect pest, diseases and weed problems.  Provide proper labour, power and capital distribution throughou t the year.  Higher chances to provide diversified commodities.  Slow but steady income, which is beneficial to marginal and sma ll farmers.  Deep rooted crops work the soil below plough layer. `
     },
     {
-        question: `401. Which of these is a macronutrient of plant? `,
+        question: `
+401. Which of these is a macronutrient of plant? `,
         options: [
             'A. Copper ',
             'B. Iron ',
@@ -6075,7 +6476,8 @@ is the focal length of the lens.
         exp: `Explanation: Macronutrients include carbon, hydrogen, nitrogen, oxygen, phosphorous, potassium, calcium, sulfur, and magnesium. Micronutrients are boron, chlorine, manganese, iron, zinc, copper, and molybdenum. A plant uses these nutrients to support its growth, life cycle, and biological functions. `
     },
     {
-        question: `402. Which is the Indian breed of high milk-yielding variety of cow? `,
+        question: `
+402. Which is the Indian breed of high milk-yielding variety of cow? `,
         options: [
             'A. Jersey ',
             'B. Ongole ',
@@ -6086,7 +6488,8 @@ is the focal length of the lens.
         exp: `Explanation: Sahiwal is a breed of 'Zebu cattle' and is considered to be one of the best milch cattle breed in India. The breed has derived its name from the Sahiwal area in Montgomery district of Punjab in Pakistan. `
     },
     {
-        question: `403. Which of the following organisms is/are causes diseases in poultry? `,
+        question: `
+403. Which of the following organisms is/are causes diseases in poultry? `,
         options: [
             'A. Bacteria ',
             'B. Fungi ',
