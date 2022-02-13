@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+
+<head>
+    <title>Question Bank</title>
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <meta http-equiv="cache-control" content="max-age=800" />
+    <meta http-equiv="cache-control" content="Private" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="img/ios/180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/ios/32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/ios/16.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#3b82f6" />
+    <meta name="mobile-web-app-capable" content="yes">
+
+
+
+
+
+
+
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/tailwind.min.css">
+    </link>
+    <link rel="stylesheet" href="css/style.css">
+    </link>
+
+    <script src="https://hammerjs.github.io/dist/hammer.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
+</head>
+
+<body class="h-full bg-white">
+    <div class="flex flex-row w-full h-full">
+
+        <!--left side  -->
+        <div class="flex flex-col w-full h-full">
+            <textarea id="src" class="w-full h-full border-2 border-blue-500">
+                hello world
+                is cool
+            </textarea>
+            <div onclick="text_to_line()"
+                class="text-center rounded-full bg-green-500 text-white p-4 cursor-pointer text-2xl">
+                Add Line Numbers
+            </div>
+
+        </div>
+
+        <!-- right side -->
+        <div class="flex flex-col w-full h-full">
+            <div class="flex flex-col">
+                <input class="p-4" type="number" placeholder="Question Start line" />
+                <input class="p-4" type="number" placeholder="Question End line" />
+                <input class="p-4" type="number" placeholder="Options Start line" />
+                <input class="p-4" type="number" placeholder="Options End line" />
+                <input class="p-4" type="number" placeholder="Answer Line" />
+                <input class="p-4" type="number" placeholder="Exp Start Line" />
+                <input class="p-4" type="number" placeholder="Exp End Line" />
+                <div onclick="create_question()"
+                    class="text-center rounded-full bg-green-500 text-white p-4 cursor-pointer text-2xl">
+                    Create Question
+                </div>
+            </div>
+            <textarea class="w-full h-full border-2 border-blue-500"></textarea>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <script>
+        let str = ""
+        function text_to_line() {
+            let ta = document.querySelector("#src")
+            ta.value.split("\n").forEach((line, index) => {
+                str += `${index}# ${line} \n`
+            });
+            ta.value = str
+        }
+        function create_question() {
+            let q_start = document.querySelector("q_start").value
+            let q_end = document.querySelector("q_end").value
+            let o_start = document.querySelector("o_start").value
+            let o_end = document.querySelector("o_end").value
+            let ans = document.querySelector("ans").value
+            let exp_start = document.querySelector("exp_start").value
+            let exp_end = document.querySelector("exp_end").value
+
+            let question =`
+            {
+                question:${sub(q_start,q_end)},
+                options:
+                [
+                    'A',
+                    'B',
+                    'C',
+                    'D',
+                ],
+                answer:\`${str[ans]}\`,
+                exp:\`${sub(exp_start,exp_end)}\`
+            },
+            `
+            console.log(question)
+
+        }
+        function sub(start,end)
+        {
+            return str.slice(start,end+1).join("\n")
+        }
+    </script>
+
+</body>
+
+</html>
