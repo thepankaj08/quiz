@@ -30,7 +30,7 @@
 
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="css/tailwind.min.css">
+    <link rel="stylesheet" href="css/winds.css">
     </link>
     <link rel="stylesheet" href="css/style.css">
     </link>
@@ -39,32 +39,53 @@
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
 </head>
 
-<body class="h-full bg-white">
+<body class="h-full">
 
-    <div id='app' class="flex flex-col h-full w-full bg-gray-50">
-        <div class="flex flex-col h-full overflow-auto items-center ">
+    <div id='app' :class="[get_dark_mode()]" class="flex flex-col h-full w-full">
+        <div class="flex flex-col h-full overflow-auto items-center dark:bg-black-18">
+
             <!-- header -->
-            <div ref="head" class="bg-white w-full flex items-center p-2 text-blue-500 justify-between text-2xl">
+            <div ref="head"
+                class="bg-white dark:bg-black-31 text-blue-500 dark:text-white  w-full flex items-center p-2  justify-between text-2xl shadow">
                 <span class="material-icons">opacity</span>
                 <div class="capitalize flex p-2 font-family-product-sans">Question Bank</div>
-                <span class="material-icons">settings</span>
+                <select v-model="set_selected_index" @change="update_set($event)"
+                    class="dark:bg-black-31 text-xl lg:text-2xl font-family-product-sans">
+                    <option disabled value="">Select Set</option>
+                    <option v-for="(item,index) in available_sets" :value="index" class="font-family-product-sans">Set
+                        {{item.title}}
+                    </option>
+                </select>
+                <span v-on:click="show_settings_window=true" class="material-icons cursor-pointer">settings</span>
             </div>
 
 
-            <div class="flex flex-col">
+            <div class="flex flex-col w-full">
                 <!-- question text -->
-                <div class=" text-xl lg:text-2xl leading-10 select-text bg-white shadow  p-2 rounded-lg m-2">
-                    <div class="font-bold text-blue-500">Question {{index+1}}</div>
-                    <pre class="ws-bs font-family-product-sans">
-                        {{display_data('question')}}
-                    </pre>
+                <div
+                    class=" text-xl lg:text-2xl leading-10 select-text bg-white dark:bg-black-30 shadow  p-2 rounded-lg m-2">
+
+                    <select class="dark:bg-black-31 dark:text-white text-xl lg:text-2xl font-family-product-sans"
+                        v-model="index" @change="update_question_index($event)">
+                        <option v-for="(item,index) in data" :value="index" class="font-family-product-sans">
+                            Question {{index+1}}
+                        </option>
+                    </select>
+
+                    <pre class="ws-bs font-family-product-sans dark:text-white" v-html="display_data('question')"></pre>
 
                     <div class="text-lg">
+                        <div>
+                            <div
+                            ref="bar"
+                            style="transition-duration: 1.5s;"
+                            class="w-0 h-2 rounded-full bg-green-500 transition-all"></div>
+                        </div>
                         <div v-on:click="show_exp=!show_exp"
-                            class="font-family-product-sans underline cursor-pointer text-center text-blue-500">
+                            class="font-family-product-sans underline cursor-pointer text-center text-blue-500 dark:text-green-600">
                             View Explanation
                         </div>
-                        <div v-if="show_exp" class="select-text font-family-product-sans">
+                        <div v-if="show_exp" class="select-text font-family-product-sans dark:text-white">
                             {{display_data('exp')}}
                         </div>
                     </div>
@@ -72,7 +93,7 @@
                 <!-- options -->
                 <div class="grid grid-cols-1 sm:grid-cols-2 flex-grow">
                     <div v-for="(item,index) in display_data('options')" v-on:click="attempt_using_click($event,index)"
-                        class="options flex flex-row items-center cursor-pointer capitalize p-6 text-xl lg:text-2xl m-2 font-family-product-sans rounded-lg bg-white shadow gap-2">
+                        class="options flex flex-row items-center cursor-pointer capitalize p-6 text-xl lg:text-2xl m-2 font-family-product-sans rounded-lg bg-white dark:bg-black-30 dark:text-white shadow gap-2">
                         <span class="hidden material-icons text-green-500">check_circle</span>
                         <span class="hidden material-icons text-red-500">cancel</span>
                         {{item}}
@@ -82,14 +103,17 @@
 
 
             <div class="flex w-full justify-between">
-                <div v-on:click="prev()" class="flex  items-center justify-center bg-blue-50 rounded-xl cursor-pointer">
-                    <span class="material-icons text-2xl lg:text-4xl  p-2 px-4 select-none text-blue-500">
+                <div v-on:click="prev()"
+                    class="flex  items-center justify-center bg-blue-50 dark:bg-black-30 rounded-xl cursor-pointer">
+                    <span
+                        class="material-icons text-2xl lg:text-4xl  p-2 px-4 select-none text-blue-500 dark:text-white">
                         arrow_back
                     </span>
                 </div>
-                <div v-on:click="next()" class="flex  items-center justify-center bg-blue-50 rounded-xl cursor-pointer">
+                <div v-on:click="next()"
+                    class="flex  items-center justify-center bg-blue-50 dark:bg-black-30 rounded-xl cursor-pointer">
                     <span
-                        class="material-icons text-2xl lg:text-4xl p-2 px-4 select-none text-blue-500">arrow_forward</span>
+                        class="material-icons text-2xl lg:text-4xl p-2 px-4 select-none text-blue-500 dark:text-white">arrow_forward</span>
                 </div>
             </div>
 
@@ -97,29 +121,49 @@
 
 
 
-        <div class="flex items-center p-4 text-blue-400 justify-around  ">
-            <select v-model="set_selected_index" @change="update_set($event)"
-                class="text-xl lg:text-2xl font-family-product-sans">
-                <option disabled value="">Select Set</option>
-                <option v-for="(item,index) in available_sets" :value="index" class="font-family-product-sans">Set
-                    {{item.title}}
-                </option>
-            </select>
 
-            <select class="text-xl lg:text-2xl font-family-product-sans" v-model="index"
-                @change="update_question_index($event)">
-                <option v-for="(item,index) in data" :value="index" class="font-family-product-sans">Question
-                    {{index+1}}
-                </option>
-            </select>
+        <!-- settings windows  -->
+        <div v-if="show_settings_window"
+            class="flex flex-col shadow w-4/5 h-4/5 bg-white dark:bg-black-31 absolute left-1/10 top-0 m-auto z-10 p-4">
+            <div class="font-bold text-blue-500 text-2xl dark:text-white">Settings</div>
+
+
+            <div class="flex items-center justify-between p-4">
+                <div class="dark:text-white">Dark Mode</div>
+                <input type="checkbox" v-model="is_dark_on" />
+            </div>
+
+            <div class="flex items-center justify-between p-4">
+                <div class="dark:text-white">Auto Go to Next Question</div>
+                <input type="checkbox" v-model="auto_go_to_next_question" />
+            </div>
+
+
+            <div class="flex items-center justify-end p-4">
+                <div v-on:click="show_settings_window=false"
+                    class="px-3 py-2 rounded-md cursor-pointer dark:text-white dark:bg-black shadow-xl border-1 border-gray-900">
+                    Close
+                </div>
+            </div>
         </div>
-
 
     </div>
 
 
 
+
+
+
+
+
+
+
+    <!-- question banks files -->
     <script src="data/good_to_go/science.js"></script>
+    <script src="data/good_to_go/polity.js"></script>
+
+
+    <!-- other files -->
     <script src="scripts/confetti.js"></script>
     <script src="scripts/vue.js"></script>
     <script src="scripts/app.js"></script>

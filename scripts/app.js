@@ -7,11 +7,17 @@ var app = new Vue(
         available_sets:[
           {
             "title":"Science","icon":"android","source":science,
-          }
+          },
+          {
+            "title":"Polity","icon":"android","source":polity,
+          },
         ],
         set_selected_index:0,
         data:null,
         show_exp:false,
+        is_dark_on:true,
+        show_settings_window:false,
+        auto_go_to_next_question:true,
     },
     created:function()
     {
@@ -29,6 +35,14 @@ var app = new Vue(
     },
     methods:
     {
+      get_dark_mode:function()
+      {
+        if(this.is_dark_on)
+        {
+          return "dark bg-gray-800"
+        }
+        return "bg-white"
+      },
       save:function()
       {
         // localStorage.index = this.index
@@ -58,6 +72,9 @@ var app = new Vue(
 
         //focus question
         this.$refs.head.scrollIntoView()
+
+        //reset bar
+        this.$refs.bar.style.width = "0%"
       },
       next:function()
       {
@@ -81,7 +98,12 @@ var app = new Vue(
         let q = this.data[this.index]
         if(q!=undefined)
         {
-          return q[what]
+          let value=q[what]
+          if(what=="question")
+          {
+            value.indexOf("not correct")!=-1?value = value.replace("not correct",'<span class="font-bold bg-custom-yellow dark:text-black">not correct</span>'):value = value.replace("correct",'<span class="font-bold bg-custom-yellow dark:text-black">correct</span>');
+          }
+          return value
         }
         return "EOL"
       },
@@ -103,6 +125,7 @@ var app = new Vue(
           div.classList.add("bg-green-50","border-green-300")
           launch_confetti()
           div.querySelector(".text-green-500").classList.remove("hidden")
+          this.handle_auto_go_to_next_question()
         }else
         {
           div.classList.add("bg-red-50","border-red-300")
@@ -111,14 +134,26 @@ var app = new Vue(
       },
       update_set:function()
       {
-        this.data=this.available_sets[this.set_selected_index]
-        console.log(this.set_selected_index)
+        this.data = this.available_sets[this.set_selected_index].source
       },
       update_question_index:function()
       {
         this.reset_options() 
-      }
-      
+      },
+      handle_auto_go_to_next_question:function()
+      {
+        if(this.auto_go_to_next_question)
+        {
+          let that=this
+          this.$refs.bar.style.width = "100%"
+          setTimeout(function()
+          {
+            console.log("go to next question")
+            that.next()
+          },1500)
+        }
+      },
+
     }
 })
 

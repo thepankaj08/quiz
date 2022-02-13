@@ -12,3 +12,30 @@
 {
     font-family:"PSR";
 }
+
+.bg-custom-yellow
+{
+    background-color:#ffff00;
+}
+
+.dark .dark\:bg-black-31 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(31,31,31, var(--tw-bg-opacity));
+    }
+    .dark .dark\:bg-black-30 {
+        --tw-bg-opacity: 1;
+        background-color: rgba(30,30,30, var(--tw-bg-opacity));
+        }
+        
+
+    .dark .dark\:bg-black-18 {
+        --tw-bg-opacity: 1;
+        background-color: rgba(18,18,18, var(--tw-bg-opacity));
+        }
+
+.left-1\/10
+{
+    left:10%;
+}
+
+            
