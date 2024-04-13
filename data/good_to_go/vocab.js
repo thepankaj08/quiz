@@ -1,4 +1,4 @@
-let science =
+let vocab =
 [
     {
     question: `
