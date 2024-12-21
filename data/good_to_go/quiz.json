@@ -1,0 +1,2336 @@
+{
+    "direct_indirect": [
+        {
+            "question": "1. He said, \u201cRavi, why are you sounding so depressed today?\u201d",
+            "options": [
+                "(1) He asked Ravi why did he sound so depressed that day.",
+                "(2) He asked Ravi why he was sounding so depressed that day.",
+                "(3) He told Ravi why he sound- ed so depressed today.",
+                "(4) He asked Ravi that why was he sounding so depressed that day."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "2. He asked me, \u201cWhat time will the sun set tomorrow ?\u201d",
+            "options": [
+                "(1) He asked me what time does the sun set the next day.",
+                "(2) He asked me what time the sun would set tomorrow.",
+                "(3) He asked me what time the sun would set the next day.",
+                "(4) He asked me what time would the sun set the next day."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "3. \u201cTinu, where have you been all these days ?\u201d asked the Principal.",
+            "options": [
+                "(1) The Principal asked Tinu where he had been all those days.",
+                "(2) The Principal asked Tinu where he has been all those days.",
+                "(3) The Principal asked Tinu where had he been all those days.",
+                "(4) The Principal asked to Tinu where was he all those days."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "4. \u201cHave you finished your assign- ment, Minu ?\u201d said her brother.",
+            "options": [
+                "(1) Minu\u2019s brother asked Minu if you have finished your as- signment.",
+                "(2) Minu\u2019s brother said to Minu if she had finished her as- signment.",
+                "(3) Minu\u2019s brother asked her if she had finished her assign- ment.",
+                "(4) Minu\u2019s brother asked Minu if she has finished her as- signment"
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "5. He says, \u201cI go for a walk every  morning.\u201d",
+            "options": [
+                "(1) He says that he goes for a walk every morning.",
+                "(2) He said that he used to go for a walk every morning",
+                "(3) He said that he goes for a walk every morning.",
+                "(4) He says he went for a walk every morning."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "6. The Principal said, \u201cWhy didn't  you attend the flag hoisting cer-  emony, Anuj ?\u201d",
+            "options": [
+                "(1) The Principal asked Anuj why hadn't he attended the flag hoisting ceremony.",
+                "(2) The Principal asked to Anuj why he hadn't attended the flag hoisting ceremony.",
+                "(3) The Principal asked Anuj why didn't he attend the flag hoisting ceremony.",
+                "(4) The Principal asked Anuj why he didn't attend the flag hoisting ceremony."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "7. 1 said to him, \u201cWhere have you  lost the pen I brought for you  yesterday ?\u201d",
+            "options": [
+                "(1) I asked him where he had lost the pen I had brought him yesterday.",
+                "(2) I asked him where he had lost the pen I have brought for him the previous day.",
+                "(3) I asked him where he had lost the pen I had brought for him the previous day.",
+                "(4) I asked him where had he lost the pen I had brought him the previous day."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "8. He said, \u201cGarima wants to take  up a job while her husband  wants her to look after the fam-  ily.\u201d",
+            "options": [
+                "(1) He said that Garima want- ed to take up a job while her husband wanted her to look after the family.",
+                "(2) He said that Garima wants to take up a job while her husband wanted her to look after the family.",
+                "(3) He told that Garima wanted to take up a job while her husband wants her to look after the family.",
+                "(4) He said to Garima that though she wanted to take up a job while her husband wanted her to look after the family."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "9. She said, \u201cWhen I was a child, I  wasn\u2019t afraid of ghosts.\u201d",
+            "options": [
+                "(1) She said that when she was achild she wasn't not afraid of ghosts.",
+                "(2) She said that when she was a child she hadn't been afraid of ghosts.",
+                "(3) She said that when she was a child she wasn\u2019t afraid of ghosts.",
+                "(4) She said that when she had been a child she wasn't afraid of ghosts."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "10. He said, \u201cReena, do you want to  buy a house in Noida ?\u201d",
+            "options": [
+                "(1) He told Reena if she want- ed to buy a house in Noida.",
+                "(2) He asked that did she want to buy a house in Noida.",
+                "(3) He asked Reena if she wants to buy a house in Noida.",
+                "(4) He asked Reena if she want- ed to buy a house in Noida."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "11. I said to my friend, \u201cCan I bor-  row your dictionary for one day?\u201d",
+            "options": [
+                "(1) 1 asked my friend if I could borrow his dictionary for one day.",
+                "(2) I asked my friend if I could borrow your dictionary for one day.",
+                "(3) I asked my friend if I can borrow his dictionary for one day.",
+                "(4) I asked my friend that if I can borrow his dictionary for one day."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "12. He said, \u201cLet Hari come with us,  mother. I'll take care of him\u201d.",
+            "options": [
+                "(1) He requested his mother to let Hari come with them as  he will take care of him.",
+                "(2) He informed his mother to let Hari come with them as he would take care of him.",
+                "(3) He told his mother to let Hari come with them as he would take care of him.",
+                "(4) He told to his mother let Hari come with us as he would take care of him."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "13. \u201cNo,\u201d said the child, \u201cI won't  kneel, for if I do, I shall spoil  my new pair of trousers.\u201d",
+            "options": [
+                "(1) The child said that he would not kneel for if he did so he will spoil his new pair of trousers.",
+                "(2) The child said that he will not kneel for if he kneels he will spoil his new pair of trousers.",
+                "(3) The child said that he would not kneel for if he did so he would spoil his new pair of trousers.",
+                "(4) The child said that I will not kneel for if he did kneel, he should spoil his new pair of trousers."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "14. The chairman of the selection  committee said, \u201cWe shall fina-  lise the rest of our team after  we have selected the skipper.\u201d",
+            "options": [
+                "(1) The chairman of the selec- tion committee told that they would finalise the rest of our team after we have selected the skipper.",
+                "(2) The chairman of the selec- tion committee said that we would finalise the rest of our team after we have selected the skipper.",
+                "(3) The chairman of the selec- tion committee said that they would finalise the rest of their team after they select- ed the skipper.",
+                "(4) The chairman of the selec- tion committee said that they would finalise the rest of their team after they had selected the skipper."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "15. He said, \u201cHas anybody been  unkind to you ?\u201d |",
+            "options": [
+                "(1) He asked me if anybody had been unkind to me.",
+                "(2) He asked me had anybody been unkind to me.",
+                "(3) He asked me if anybody had been unkind to you.",
+                "(4) He asked me if anybody had been unkind to him."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "16. The pilot said, \u201cPlease don\u2019t panic  but tighten your seat belts.\u201d",
+            "options": [
+                "(1) The pilot told to the passen- gers that they should not panic but tighten the seat belts.",
+                "(2) The pilot told the passengers to not panic but to tighten their seat belts instead.",
+                "(3) The pilot told the passengers not to panic but to tighten your seat belts.",
+                "(4) The pilot told the passengers not to panic but to tighten their seat belts."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "17. He said, \u201cRavi, why are you sounding so depressed today?\u201d",
+            "options": [
+                "(1) He asked Ravi why did he sound so depressed that day.",
+                "(2) He asked Ravi why he was sounding so depressed that day.",
+                "(3) He told Ravi why he sound- ed so depressed today.",
+                "(4) He asked Ravi that why was he sounding so depressed that day."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "18. \u201cI shall remain here and the tai- lor won't be able to find me,\u201d said she.",
+            "options": [
+                "(1) She said that she should remain there and the tailor won't be able to find me.",
+                "(2) She said that she should remain there and the tailor would not be able to find her.",
+                "(3) She said that she would re- main there and the tailor would not be able to find her.",
+                "(4) She said that, she could re- main here and the tailor would not find her."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "19. Mother said, \u201cGaurav, you will be eligible for voting when you are 18.\u201d",
+            "options": [
+                "(1) Mother told Gaurav he would be eligible for voting when he was 18.",
+                "(2) Mother told Gaurav that he could vote only after 18.",
+                "(3) Mother told Gaurav you will be eligible for voting when you are 18.",
+                "(4) Mother told Gaurav that he would be eligible for voting when he would be 18."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "20. He said, \u201cBravo 1 You have done  well.",
+            "options": [
+                "(1) He applauded him to say that he had done well.",
+                "(2) He applauded him and said that you have done well.",
+                "(3) He applauded him, saying that he has done well.",
+                "(4) He applauded him, saying that he had done well."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "21. He said to me, \u201cYou are getting  lazy day by day.\u201d",
+            "options": [
+                "(1) He informed me that I am getting lazy day by day.",
+                "(2) He told me that I have been getting lazy day by day.",
+                "(3) He told me that I was get- ting lazy day by day.",
+                "(4) He told me that you were getting lazy day by day."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "22. \u201cWhen will I be able to vote?\u201d I  asked my mother.",
+            "options": [
+                "(1) I asked my mother when would he be able to vote.",
+                "(2) I asked to my mother when I will be able to vote.",
+                "(3) I asked my mother when I would be able to vote.",
+                "(4) I asked my mother when would I be able to vote."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "23. I said, \u201cFather, when will you  buy me a motor cycle ?\u201d",
+            "options": [
+                "(1) I asked my father when will he buy me a motorcycle.",
+                "(2) I asked my father when he will buy me a motor cycle.",
+                "(3) I asked my father when would he buy me a motor cycle.",
+                "(4) I asked my father when he would buy me a motor cy- cle."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "24. He said to me, \u201cIs there any  possibility of my getting promo-  tion this year?\u201d",
+            "options": [
+                "(1) He asked me if there was any possibility of my getting promotion this year.",
+                "(2) He asked me if there was any possibility of his getting promotion this year.",
+                "(3) He asked me if there was any possibility of his getting promotion that year.\u201d",
+                "(4) He asked me if there is any possibility of his getting pro- motion this year."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "25. The dealer said, \u201cEither make  your purchases or walk out of  my shop.\u201d",
+            "options": [
+                "(1) The dealer told the custom- er that he would either make his purchases or walk out of his shop.",
+                "(2) The dealer ordered the customer to make his purchases and walk out of his shop.",
+                "(3)The dealer told the customer  that he should either make his purchases, or walk out of his shop.",
+                "(4) The dealer requested the customer to make his pur- chases or walk out of his shop."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "26. He said, \u201cI do not wish to see  any of you; go away.\u201d",
+            "options": [
+                "(1) He said that he had not wished to see any of them and ordered them to go away.",
+                "(2) He said that he did not wish to see any of them and or- dered them to go away.",
+                "(3)He told that he did not wish to see any of them and or- dered them to go away.",
+                "(4)He said that he does not wish to see any of us and ordered us to go away."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "27. He said to us, \u201cWhy are you all  sitting about there doing noth-  ing ?\u201d",
+            "options": [
+                "(1) He asked us why are we all sitting about there doing nothing",
+                "(2) He asked us why we are all sitting about there doing nothing.",
+                "(3) He asked us why we were all sitting about there doing nothing.",
+                "(4) He asked us why were we all sitting about there doing nothing."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "28. \u201cMay you live long and prosper\u201d,  Said the old lady to her son.",
+            "options": [
+                "(1) The old lady blessed her son with long life and wished him prosperity.",
+                "(2) The old lady prayed for her son\u2019s long life and prosperity.",
+                "(3) The old lady prayed for her son and said that he might live long and prosper.",
+                "(4) The old lady blessed her son and prayed for his long life and prosperity."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "29. \u201cMany happy returns of your  birthday\u201d, we said.",
+            "options": [
+                "(1) We greeted him on his birth- day.",
+                "(2) We said that many happy re- turns of your birthday.",
+                "(3) We wished him many happy returns of his birthday.",
+                "(4) We prayed for many happy returns of his birthday."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "30. \u201cFie! a soldier and afraid of fight-  ing!\u201d said Babar.",
+            "options": [
+                "(1) Babar exclaimed with sur- prise that a soldier should be afraid of fighting.",
+                "(2) Addressing a soldier, Babar cursed him that he should be afraid of fighting.",
+                "(3) Babar cursed the soldier who was afraid of fighting.",
+                "(4) Babar cursed and exclaimed that a soldier should not be afraid of fighting."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "31. He said to Sita, \u201cWhen do you  intend to pay back the money you  borrowed from me ?\u201d",
+            "options": [
+                "(1) He enquired Sita when did she intend to pay back the money she borrowed from him.",
+                "(2) He enquired Sita when she intended to pay back the mon- ey she borrowed from him.",
+                "(3) He enquired Sita when she intended to pay back the mon- ey she had borrowed from him.",
+                "(4) He enquired when Sita in- tended to pay back the mon- ey she borrowed from him."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "32. \u201cSo help me Heaven! \u201che cried, \u201cI will never steal again\u201d.",
+            "options": [
+                "(1) He wanted Heaven to help him so that he would never steal again.",
+                "(2) He exclaimed to Heaven that he would never steal again.",
+                "(3) He exclaimed Heaven to help him that he would never steal again.",
+                "(4) He called upon Heaven to wit- ness his resolve never to steal again."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "33. She said, \u201cI'll give you Rs. 100 to  keep your mouth shut.\u201d",
+            "options": [
+                "(1) She said that she would give him Rs. 100 to keep his mouth shut.",
+                "(2) She offered him Rs. 100 to keep his mouth shut.",
+                "(3) She suggested to him that she would give him Rs. 100 to keep his mouth shut.",
+                "(4) She proposed that she would give him Rs.100 to keep his mouth shut."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "34. \u201cDoctor\u201d, the patient cried, please  tell me how much time I have.\u201d",
+            "options": [
+                "(1) The patient pleaded the doc- tor how much time she will have.",
+                "(2) The patient exclaimed to the doctor that how much time she had.",
+                "(3) The patient pleaded with the  doctor to tell her how much time she had.",
+                "(4) The patient cried to the doc- tor that how much time had she."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "35. \u201cLet\u2019s give a party\u201d, said Jaya.  \u201cLet\u2019s not,\u201d said her husband.",
+            "options": [
+                "(1) Jaya suggested giving a par- ty but her husband answered in the negative.",
+                "(2) Jaya suggested giving a par- ty but her husband opposed the idea.",
+                "(3) Jaya suggested giving a par- ty but her husband contra- dicted her.",
+                "(4) Jaya suggested giving a par- ty but her husband refused."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "36. He said to her, \u201cDid it shake you  up as much as it shook me ?\u201d",
+            "options": [
+                "(1) He asked her if it had shak- en her up as much as it shook him.",
+                "(2) He enquired of her if it shook her up as it shook him.",
+                "(3) He enquired of her if it shook her up as much as it had shaken him.",
+                "(4) He asked her if it had shaken her up as it had shaken him."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "37. The Chief Minister said, \u201cWhat a  disaster the earthquake is!\u201d",
+            "options": [
+                "(1) The Chief Minister cried that the earthquake was a terrible disaster.",
+                "(2)The Chief Minister expressed with surprise that the earth- quake was a terrible disaster.",
+                "(3)The Chief Minister exclaimed with sorrow that the earth- quake was a terrible disaster.",
+                "(4) The Chief Minister told in pain that the earthquake was a ter- rible disaster."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "38. I said to her, \u201cAll your faults will be pardoned if you confess them.\u201d ,",
+            "options": [
+                "(1)I told her that all her faults will be pardoned if you con- fess them. :",
+                "(2) told her that all her faults would be pardoned if she con- fessed them.",
+                "(3)I told her that all -her faults will have to be pardoned if she confessed them.",
+                "(4)I told her that all her faults would have to be pardoned if she confessed them."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "39. The teacher said to the student, \u201cWhy were you absent yester- day?\u201d",
+            "options": [
+                "(1)The teacher asked the stu- dent why had been he absent the previous day.",
+                "(2) The teacher asked the stu- dent why had he been absent the previous day.",
+                "(3) The teacher informed the stu- dent that why he had been absent the next day.",
+                "(4) The teacher asked the stu- dent why he had been absent the previous day."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "40. \u2018From one of the windows of my flat I can see the Qutub Minar\u2019, said my friend.",
+            "options": [
+                "(1) My friend told that from one of the windows of his flat he could see the Qutub Minar.",
+                "(2) My friend said that from one of the windows of his flat he can see the Qutub Minar.",
+                "(3) My friend said that from one of the windows of his flat he could see the Qutub Minar.",
+                "(4) My friend told that from one of the windows of his flat he can see the Qutub Minar."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "41. Shanker said to his friend, \u201cLook out! there is a snake behind you.\u201d",
+            "options": [
+                "(1) Shanker told his friend to look out as there was a snake be- hind him.",
+                "(2)Shanker exclaimed to his friend with surprise that there was a snake behind him.",
+                "(3) Seeing a snake behind him, Shanker asked his friend to look out.",
+                "(4) Shanker: warned his friend that there was a snake behind him."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "42. The teacher said to Ram, \u201cWould  you like to go on a trip to Kash-  mir ?\u201d Ram said, \u201cYes\u201d",
+            "options": [
+                "(1)The teacher asked if Ram would like to go on a trip to Kashmir and Ram replied yes.",
+                "(2) The teacher asked Ram if he would like to go on a trip to Kashmir and Ram replied yes.",
+                "(3) The teacher asked Ram if he would have liked to go ona trip to Kashmir and Ram re- plied in the affirmative.",
+                "(4) The teacher asked Ram if he would like to go on a trip to Kashmir and Ram replied in the affirmative."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "43. \u201cI Suppose, you children go out for a nice long walk\u201d, she said.",
+            "options": [
+                "(1)She proposed that the chil- dren went out for a nice long walk.",
+                "(2) She advised that the children go out for a nice long walk.",
+                "(3) She suggested that the children go out for a nice long walk.",
+                "(4) She suggested that the chil- dren should go out for a nice long walk."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "44. Everybody said, \u201cHow well she sings!\u201d",
+            "options": [
+                "(1) Everybody told us that she sings very well.",
+                "(2) Everybody exclaimed that she \u2018sings very well.",
+                "(3) Everybody exclaimed that she sang very well.",
+                "(4) Everybody told us that how she sang very well."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "45. The old man of Latur said, \u201cAlas, my only son is dead!\u201d",
+            "options": [
+                "(1)The old man of Latur ex- claimed with sorrow that his only son was dead.",
+                "(2) The old man of Latur told with pain that his only son was dead.",
+                "(3)The old man of Latur ex- pressed with anguish that his only son was dead.",
+                "(4) The old man of Latur sorrow- fully narrated that his only son was dead."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "46. I said, \u201cLet Mohan do his worst,  he cannot harm me.\u201d",
+            "options": [
+                "(1) suggested to Mohan to do his worst, he could not harm me.",
+                "(2)I told that if Mohan did his worst, he could not harm me.",
+                "(3) I declared that Mohan might do his worst, he could not harm me.",
+                "(4) I declared that though Mohan might do his worst, he could not harm me."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "47. \u201cCall the first witness\u201d, said the  judge.",
+            "options": [
+                "(1) The judge commanded to call the first witness.",
+                "(2) The judge commanded them to call the first witness.",
+                "(3) The judge commanded that the first witness be called.",
+                "(4) The judge commanded the first witness to be called."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "48. The queen said to her son, \u201cYou  must go to the forest and remain  there till your father calls you back.\u201d",
+            "options": [
+                "(1) The queen ordered her son to go to the forest and remain there till his father calls him back.",
+                "(2) The queen told her son that he must go to the forest and remain there till his father called him back.",
+                "(3) The queen told his son that you must go to the forest and remain there till your father called you back.",
+                "(4) The queen told her son to go to the forest and remained there till his father called him back."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "49. I said, \u201cWhen it gets dark, light  the lantern and hang it out.\u201d",
+            "options": [
+                "(1) 1 said that when it got dark he light the lantern and hung it out.",
+                "(2) I requested that when it got dark he may light the lantern and hang it out.",
+                "(3)I said that when it got dark he should light the lantern and hang it out.",
+                "(4)I told that when it got dark he should light the lantern and hang it out."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "50. The teacher said to Ashok, \u201cI shall report the matter to the Principal if you misbehave again\".",
+            "options": [
+                "(1) The teacher told Ashok that he would be reporting the matter to the Principal if he misbehaved again.",
+                "(2) The teacher warned Ashok that he would report the mat- ter to the Principal if he mis- behaved again.",
+                "(3) The teacher threatened Ashok to report the matter to the Principal if he would mis- behave again.",
+                "(4) The teacher cautioned Ashok about reporting the matter to the Principal if he misbehaved again."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "51. \u201cMohan made this mess. Let him  clear it up\u201d, said his father.",
+            "options": [
+                "(1) Mohan\u2019s father said that Mo- han had made the mess and proposed that he clear it up.",
+                "(2) Mohan\u2019s father said that Mo- han had made the mess and that he was to clear it.",
+                "(3) Mohan\u2019s father said that Mo- han had made the mess and suggested that he clear it.",
+                "(4) Mohan\u2019s father said that Mo- han had made the mess and that he should clear it."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "52. \u201cDo as you wish, but don\u2019t come and ask me for help if you get into difficulties.\u201d",
+            "options": [
+                "(1)He told me to do as he wished or he wouldn't come and help me if! got into diffi- culties.",
+                "(2) He told me to do as I wished, but not to go and ask him for help if I got into difficulties.",
+                "(3)He ordered me to do as I wished, but not to go and ask him for help if, I got into dif- ficulties.",
+                "(4) He told me that unless I did as I wished he would not come and help me if! got into difficulties. where had he been all those"
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "53. Socrates said, \u201cVirtue is its own reward.\u201d",
+            "options": [
+                "(1) Socrates said that virtue had its own rewards.",
+                "(2) Socrates says that virtue is its own reward.",
+                "(3) Socrates said that virtue is its own reward.",
+                "(4) Socrates said that virtue was its. own reward."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "54. He said to the interviewer, \u201cCould you please repeat the question?\u201d",
+            "options": [
+                "(1) He requested the interview- er if he could please repeat the question. \u2014",
+                "(2) He requested the interview- er to please repeat the ques- tion.",
+                "(3) He requested the interview- er to repeat the question.",
+                "(4) He requested the interview- er if he could repeat the ques- tion."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "55. He said, \u201cIt used to be a lovely, quiet street.\u201d",
+            "options": [
+                "(1) He said that it used to be a lovely, quiet street.",
+                "(2) He pointed out that it had used to be a lovely, quiet street.",
+                "(3) He said that there used to be a lovely, quiet street.",
+                "(4) He inquired whether there was a lovely, quiet street."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "56. The Prime Minister said that no one would be allowed to disturb the peace.",
+            "options": [
+                "(1) The Prime Minister said, \u201cWe shall not allow any one to dis- turb the peace.\u201d",
+                "(2) The Prime Minister said, \u201cWe would not allow no one to dis- turb the peace",
+                "(3) The Prime Minister said, \u201cNo one will disturb the peace.\u201d",
+                "(4) The Prime Minister said, \u201cNo. one can disturb the peace.\u201d"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "57.' The spectators said, \u201cBravo! Well done players.\u201d",
+            "options": [
+                "(1) The spectators shouted that the players were doing very well.",
+                "(2) The spectators exclaimed with joy that the players were doing very well.",
+                "(3) The spectators applauded the players saying that they had done well.",
+                "(4) The spectators applauded the players joyfully to do well."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "58. I said to my friend, \u201cGood Morn- ing. Let us go for a picnic today.\u201d",
+            "options": [
+                "(1) I told good morning to my friend and asked to go fora picnic that day.",
+                "(2) I wished my friend good morn- ing and proposed that we should go for a picnic that day.",
+                "(3) I wished my friend good morn- ing and proposed that they should go for a picnic that day.",
+                "(4) I told good morning to my friend and suggested to go for a picnic today."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "59. The new student asked the old one, \u201cDo you know my name?\u201d",
+            "options": [
+                "(1) The new student asked the old one if he knew his name.",
+                "(2) The new student asked the old one that whether he knew his name.",
+                "(3) The new student asked the old one did he know his name",
+                "(4) The new student asked the old one if he knows his name."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "60. I warned her that I could no long- er tolerate her coming late.",
+            "options": [
+                "(1) I said to her, \u201cYou can no long- er tolerate my coming late.\u201d",
+                "(2) I said to her, \u201cI can no longer tolerate your coming late.\u201d",
+                "(3) I said to her, \u201cHe can no long- er tolerate her coming late.\u201d",
+                "(4) I said to her, \u201cI can no longer tolerate she coming late.\u201d"
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "61. I said to my mother, \u201cI will cer-  tainly take you to Bangalore this week.\u201d",
+            "options": [
+                "(1) I told my - er he would  certainly take her to Banga- lore that week.",
+                "(2) I told my mother that I would certainly take her to Banga- lore that week.",
+                "(3) I told my mother that she would certainly take her to Bangalore that week.",
+                "(4) I told to my mother that I would take you to Bangalore that week."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "62. \u201cHow long does the journey take\u201d  my co-passenger asked me.",
+            "options": [
+                "(1) My co-passenger asked me how long does the journey take?",
+                "(2) Vasked my co-passenger how long the journey would take.",
+                "(3) My co-passenger wanted to know how long the journey would take.",
+                "(4) My co-passenger asked me how long the journey did take."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "63. \u201cHow clever of you to have solved the puzzle so quickly,\u201d said the mother.",
+            "options": [
+                "(1) The mother exclaimed admir- ingly that it was very clever of him to have solved the puz- zle so quickly.",
+                "(2) The mother expressed that he was so clever to have solved the puzzle quickly.",
+                "(3) The mother told that he was very clever in solving the puz- zle so quickly. .",
+                "(4) The mother exclaimed with \"joy that he was clever enough to solve the puzzle so quick- ly."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "64. He said he goes for a walk every morning.",
+            "options": [
+                "(1) He said, \u201cI went for a walk every morning.\u201d",
+                "(2) He said, \u201cI go for a walk ev- ery morning.\u201d _\u2014",
+                "(3) He said, \u201cI will go for a walk every morning.\u201d",
+                "(4) He said, \u201cHe goes for a walk every morning.\u201d"
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "65. I reiterated, \u201cI don\u2019t care about  the job.\u201d",
+            "options": [
+                "(1) I reiterated I didn\u2019t care about the job.",
+                "(2) I said again and again I didn't care about the job.",
+                "(3) I reiterated that I did not care - about the job.",
+                "(4) I repeatedly said that I cared about the job."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "66. I said to my brother, \u201cLet us go to some hill station for a change.\u201d",
+            "options": [
+                "(1) suggested to my brother that they should go to some hill station for a change.",
+                "(2) I suggested to my brother that | we should go to some hill sta- tion for a change.",
+                "(3) I suggested to my brother that let us go to some hill station for a change.",
+                "(4) I suggested to my brother that let them go to some hill sta- tion for a change."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "67. I wondered how many discover- ies went unheeded.",
+            "options": [
+                "(1) I said, \u201cHow many discover- ies have gone unheeded?\u201d",
+                "(2) I said, \u201cHow many discover- ies went unheeded?\u201d",
+                "(3) I said, \u201cDo discoveries go un- heeded?\u201d",
+                "(4) I said, \u201cHow many discover- ies go unheeded?\u201d"
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "68. Gopan said to me, \u201cCan you do  these sums for me?\u201d",
+            "options": [
+                "(1) Gopan asked me ifI could do those sums for him.",
+                "(2) Gopan asked me if I can do those sums for him.",
+                "(3) Gopan asked me if I can do these sums for him.",
+                "(4) Gopan asked if I could do these sums for him."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "69. The boss said, \u201cIt\u2019s time we be- gan planning our work\u2019.",
+            "options": [
+                "(1) The boss said that it was time they had begun planning their work.",
+                "(2) The boss said that it was time we had begun planning our work.",
+                "(3) The boss said that it was time they began planning their work.",
+                "(4) The boss said that it was time we began planning his work."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "70. He said to the judge, \u201cI did not  commit this crime.\u201d",
+            "options": [
+                "(1) He told the judge that he did not commit the crime.",
+                "(2) He told the judge that he had not committed the crime.",
+                "(3) He told the judge that he had not committed that crime.",
+                "(4) He told the judge that he had not committed this crime."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "71. Rahul said, \u201cI will do it now or  never\u201d.",
+            "options": [
+                "(1) Rahul said that he will do it now or never.",
+                "(2) Rahul said that he will now or never do it.",
+                "(3) Rahul said that he would do it then or never",
+                "(4) Rahul said that he would now or never do it."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "72. My father once said to me, \u201cIf can't trust my people, then I don\u2019t want to be doing this.\u201d",
+            "options": [
+                "(1) His father once told him that if he couldn't trust his peo- ple then he didn't want to be doing that.",
+                "(2) My father once told me that if he couldn't trust his peo- ple then he didn't want to be doing that.",
+                "(3) My father once told me that if he couldn't trust my peo- ple then he didn't want to be doing that.",
+                "(4) My father once told.me that if he couldn't trust his peo- ple then he didn't want to be doing this."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "73. Doshi said to his wife, \u201cPlease  select one of these necklaces.\u201d",
+            "options": [
+                "(1) Doshi requested his wife to select one of those necklac- es.",
+                "(2) Doshi said to his wife to please select one of these necklaces.",
+                "(3) Doshi told his wife to please select one of those necklac- es.",
+                "(4) Doshi pleased his wife to se- lect one of those necklaces."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "74. He wrote in his report, \u201cThe rain-  fall has been scanty till now.\u201d",
+            "options": [
+                "(1) He reported that the rainfall has been scanty till now.",
+                "(2) He reported that the rainfall had been scanty till now.",
+                "(3) He reported that the rainfall has been scanty till then.",
+                "(4) He reported that the rainfall had been scanty till then.. -"
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "75. \u201cGovind,\u201d said the manager  sternly, \u201cI command you to tell  me what the old man said.\u201d",
+            "options": [
+                "(1) The manager sternly told Govind that he commanded him to tell him what the old man had said.",
+                "(2) The manager commanded sternly to Govind to tell him what the oldman had said.",
+                "(3) The manager commanded Govind to tell him what the old man said.",
+                "(4) The manager sternly com- manded Govind to tell him what the old man had said."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "76. I said to him, \u201cWhere have you  lost the pen I brought for you yesterday ?\u201d",
+            "options": [
+                "(1) I asked him where he had lost the pen I had brought him yesterday.",
+                "(2) I asked him where he had lost the pen I have brought for him the previous day.",
+                "(3) I asked him where he had \u00a9 lost the pen I had brought for him the previous day.",
+                "(4) I asked him where had he lost the pen I had brought him the previous day."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "77.She said to Rita, \u201cPlease help me  with my homework.\u201d",
+            "options": [
+                "(1) She requested Rita to help her in her homework.",
+                "(2) Rita requested her to help her with her homework.",
+                "(3) any She requested Rita to help her with her homework.",
+                "(4) She requested Rita to help her homework."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "78. \u201cWhat a stupid fellow you are !\u201d  she remarked.",
+            "options": [
+                "(1) She exclaimed that what a stu- pid fellow he was.",
+                "(2) She exclaimed that he was a very stupid fellow.",
+                "(3) She exclaimed in disgust how he could be so stupid.",
+                "(4) She asked him what a stupid fellow he was."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "79. The police said to the thief, \u201cDon't  move.\u201d",
+            "options": [
+                "(1) The police ordered the thief not to move.",
+                "(2) The police ordered the thief that he should not move.",
+                "(3) The police told the thief that he did not move.",
+                "(4) The police ordered to the thief to not move."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "80. He said, \u201cI am going to college  just now.\u201d",
+            "options": [
+                "(1) He said that he was going to college just now.",
+                "(2) He asked that he was going to college just then.",
+                "(3) He said that he was going to college just then.",
+                "(4) He asked that he was going to college just now."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "81. The teacher said to the student  \u201cCan you explain this ?\u201d",
+            "options": [
+                "(1) The teacher asked the student whether he can explain this.",
+                "(2) The teacher asked the student~ whether he can explain that.",
+                "(3) The teacher asked the stu- dent whether he could explain _this.",
+                "(4) The teacher asked the student whether he could explain that."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "82. Ramu said, \u201cMy master is plan- ning to build a huge house in Khandala.\u201d",
+            "options": [
+                "(1) Ramu said that his master planned to build a huge house in Khandala.",
+                "(2) Ramu said that his master is planning to build a huge house in Khandala.",
+                "(3) Ramu said that his master\u2019s plan is to build a huge house in Khandala.",
+                "(4) Ramu said that his master was planning to build a huge house in Khandala."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "83. Nandita said to Nitin, \u201cCan you  solve this sum ?\u201d",
+            "options": [
+                "(1) Nandita asked Nitin if could he solve this sum.",
+                "(2) Nandita asked Nitin if could he solve that sum.",
+                "(3) Nandita asked Nitin if he could solve this sum.",
+                "(4) Nandita asked Nitin if he could solve that sum."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "84. He said, \u201cHow lovely the scene is!\u201d",
+            "options": [
+                "(1) He exclaimed that the scene is very lovely.",
+                "(2) He exclaimed that how the scene was lovely.",
+                "(3) He exclaimed that the scene was very lovely.",
+                "(4) He exclaimed that the scene is indeed lovely."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "85. Bill said, \u2018I am here to help you all.\u201d",
+            "options": [
+                "(1) Bill said that he is here to help you all.",
+                "(2) Bill said that he was there to help us all.",
+                "(3) Bill said that he was here to help us all. ;",
+                "(4) Bill said that he is there to help us all."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "86. The kids yelled in a loud voice,  \u201cWe love our family.\u201d",
+            "options": [
+                "(1) The kids yelled loudly that they love our family.",
+                "(2) The kids yelled in a loud voice that they loved their family.",
+                "(3) The kids yelled in a loud voice that they loved our family.",
+                "(4) The kids were shouting loud- ly that they loved their fami- ly. :"
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "87. He said to me, \u201cPlease visit my  company tomorrow\u201d.",
+            "options": [
+                "(1) He said to me to visit his com- pany tomorrow.",
+                "(2) He requested me to visit his company tomorrow.",
+                "(3) He requested me to visit his company the next day.",
+                "(4) He said to me to visit his com- pany the next day."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "88. He said, \u201cMy parents are arriv-  ing tomorrow.\u201d",
+            "options": [
+                "(1) He said that his parents are arriving the next day.",
+                "(2) He said that his parents were arriving the next day.",
+                "(3) He said that his parents are arriving tomorrow.",
+                "(4) He said that his parents have arrived the next day. __"
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "89. He said, \u201cHow cruel of him !\u201d",
+            "options": [
+                "(1) He remarked that it was very cruel of him.",
+                "(2) He remarked on his great cru- elty.",
+                "(3) He remark that it was very cruel of him.",
+                "(4) He remarked that it is very  cruel of him."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "90. \u201cHow did it get here ?\u201d She want-  ed to know.",
+            "options": [
+                "(1) She wanted to know how did it get here.",
+                "(2) She wanted to know how it had gotthere.",
+                "(3) She wanted to know how did it got there.",
+                "(4) She wanted to know how it get there."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "91. \u201cYou are one of Pinkerton\u2019s men, I  presume,\u201d he said.",
+            "options": [
+                "(1) He said that he presumed me one of Pinkerton\u2019s men.",
+                "(2) He said that he presumed that I was one of Pinkerton\u2019s men,",
+                "(3) He said that he presumed me as one of Pinkerton's men.",
+                "(4) He said that he presumes that I am one of Pinkerton's men."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "92. \u201cAway !\u201d she said to the man, \u201cdo  not trouble your family anymore\u201d.",
+            "options": [
+                "(1) She asked the man to go away and not trouble the family any more.",
+                "(2) She asked the man not to trou- ble the family that was away, anymore.",
+                "(3) She asked the man not to trou- ble your family any more and go away.",
+                "(4) She asked the man to go away and not trouble his family any more."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "93. He asked me, \u201cHave you finished  reading the magazine ?\u201d",
+            "options": [
+                "(1) He asked me whether I had finished reading the magazine.",
+                "(2) He asked me if had I finished reading the magazine.",
+                "(3) He asked me ifI have finished reading the magazine.",
+                "(4) He asked me whether I fin- ished reading the magazine."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "94. He said, \u201cWe have done our  work \u201d.",
+            "options": [
+                "(1) He said that he had done his work.",
+                "(2) He said that they have done their work.",
+                "(3) He said that they had done their work.",
+                "(4) He said that they should do their work."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "95. He said that he had been waiting  there for a long time.",
+            "options": [
+                "(1) He said, \u201cI have been waiting here for a long time.\u201d",
+                "(2) He said, \u201cHe has been wait- ing here for a long time.\u201d",
+                "(3) He said, \u201cHe has been wait- ing there for a long time.\u201d",
+                "(4) He said, \u201cI am waiting here for a long time.\u201d"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "96. \u201cPlease, take me to the officer,\u201d  said the visitor.",
+            "options": [
+                "(1) The visitor requested them to take him to the officer.",
+                "(2) The visitor told them to take him to the officer.",
+                "(3) The visitor requested for the Officer tobe taken. .",
+                "(4) The visitor wanted the officer to take him there."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "97. Nitin said, \u201cWhat a pleasant atmo-  sphere this place has !\u201d",
+            "options": [
+                "(1) Nitin exclaimed with joy that place was a pleasant atmo- sphere.",
+                "(2) Nitin exclaimed with joy that was a pleasant atmosphere in that place.",
+                "(3) Nitin exclaimed with joy that that place had a pleasant at- mosphere.",
+                "(4) Nitin exclaimed with joy that what a pleasant atmosphere that place had."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "98. Aarati said, \u201c1 am in a hurry to-  day.\u201d",
+            "options": [
+                "(1) Aarati said that she was in a hurry that day.",
+                "(2) Aarati said that I am in a hur- ry today.",
+                "(3) Aarati said that she is in a hurry today.",
+                "(4) Aarati said that she is in a. hurry that day."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "99. They said, \u201cWe are practising for  the next match.\u201d",
+            "options": [
+                "(1) They said that they are prac- tising for the next match.",
+                "(2) They said that they practised for the next match.",
+                "(3) They said that they were prac- tising for the next match.",
+                "(4) They said they were going to practise for the next match."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "100. He said, \u201cLong may you live.\u201d",
+            "options": [
+                "(1) He suggested that my life might be long.",
+                "(2) He prayed that my life might be long. \u2014",
+                "(3) He prayed that my life may be longer.",
+                "(4) He declared that my life is long- er."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "101. \u201cWhen did you meet my broth-  er?\u201d She asked me.",
+            "options": [
+                "(1) She wanted to know when did I meet her brother.",
+                "(2) She asked when did I meet my brother.",
+                "(3) She asked me when I had met her brother.",
+                "(4) She wants to know when I had met my brother."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "102. Ruby requested me to lend her  Rs. 1000 the next day.",
+            "options": [
+                "(1) Ruby said to me, \u201cPlease lend me Rs. 1000 the next day.\u201d",
+                "(2) Ruby said to me, \u201cPlease lend her Rs. 1000 the next day.\u201d",
+                "(3) Ruby said to me, \u201cPlease lend her Rs. 1000 tomorrow.\u201d",
+                "(4) Ruby said to me, \u201cPlease lend me Rs. 1000 tomorrow.\u201d"
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "103. \u201cDo you want balloons ?\u201d he said  to the child.",
+            "options": [
+                "(1) He asked the child if it want- ed balloons.",
+                "(2) He asked the child whether it had wanted balloons. -",
+                "(3) He asked the child did it want balloons.",
+                "(4) He asked the child if it would want balloons."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "104. She said, \u201cHow ugly I look in this  dress !\u201d",
+            "options": [
+                "(1) She said that how ugly she was looking in that dress.",
+                "(2) She exclaimed how ugly she looked in that dress.",
+                "(3) She expressed how ugly she looked in that dress.",
+                "(4) She exclaimed that she looked very ugly in that dress.."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "105. She said \u201cYou can leave the  books here.\u201d",
+            "options": [
+                "(1) She said that they can leave the books there.",
+                "(2) She said that they could leave the books there.",
+                "(3) She said that they can leave the books here.",
+                "(4) She said that they could leave the books here."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "106. My friend said \u201cI am leaving to-  day.\u201d",
+            "options": [
+                "(1) My friend said that he is leav- ing today.",
+                "(2) My friend said that he was leaving today.",
+                "(3) My friend said that he leaves today.",
+                "(4) My friend said that he was leaving that day."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "107. Mukta said to Puneet, \u201cMy moth-  er is a good cook\u201d.",
+            "options": [
+                "(1) Mukta told Puneet that her mother was a good cook.",
+                "(2) Mukta told Puneet that my mother was a good cook.",
+                "(3) Mukta told to Puneet that her mother is a good cook.",
+                "(4) Mukta asked Puneet that her Mother is a good cook."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "108. The commander said to the  army, \u201cMarch forward\u201d.",
+            "options": [
+                "(1) The commander asked the army march forward.",
+                "(2) The commander ordered the army to march forward.",
+                "(3) The commander requested the army to go forward.",
+                "(4) The army requested the com- mander to march."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "109. He promised, \u201cI will do it tomor-  row.\u201d",
+            "options": [
+                "(1) He promised that he will do it tomorrow.",
+                "(2) He promised that he will do it the next day.",
+                "(3) He promised that he would do it tomorrow.",
+                "(4) He promised that he would do it the next day."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "110. Geeta said, \u201cI_did not do this  deliberately .\u201d",
+            "options": [
+                "(1) Geeta said that I had not done that deliberately.",
+                "(2) Geeta said that she had not done that deliberately.",
+                "(3) Geeta said that she has not done this deliberately.",
+                "(4) Geeta said that I have not done this deliberately."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "111. She exclaimed, \u201cI'm afraid we are  rather late !\u201d",
+            "options": [
+                "(1) She exclaimed that they were frightened of being late.",
+                "(2) She exclaimed that she was afraid that they were rather _ late.",
+                "(3) She shouted that they were scared that they would be late.",
+                "(4) She screamed that she was worried that they would all be late."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "112. She said to me, \u201cWhat can I do  for you?\u201d",
+            "options": [
+                "(1) She asked me what she could do for me.",
+                "(2) She asked me what can she do for me.",
+                "(3) She asked me what she can do for me.",
+                "(4) She asked me whether she can do anything for me."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "113. He said, \u2018 Alas! I am undone!",
+            "options": [
+                "(1) He said that it was his un- doing.",
+                "(2) He exclaimed pathetically _ that he was undone.",
+                "(3) He stated that he was un- done.",
+                "(4) He cried that he was being undone."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "114. \u201cI shall unlock the secrets of  their success,\u201d he said.",
+            "options": [
+                "(1) He said that he shall unlock the secrets of their success.",
+                "(2) He said that he should un- lock the secrets of their suc- cess.",
+                "(3) He said that he would un- lock the secrets of their suc- cess.",
+                "(4) He said that he will unlock the secrets of their success."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "115. \u201cI wonder what he wants of us,\u201d  said Quint.",
+            "options": [
+                "(1) Quint said that he was won- dering what he wanted of them.",
+                "(2) Quint said that he wondered what he wanted of us.",
+                "(3) Quint said he wondered what he wants of them.",
+                "(4) Quint said that he wondered what he wanted of them."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "116. Dinesh said, \u201cI want to eat a good mango one of these days.\u201d",
+            "options": [
+                "(1) Dinesh said he wants to eat a good mango one of these days.",
+                "(2) Dinesh said that he wanted to eat a good mango one of those days.",
+                "(3) Dinesh said that he wants to eat a good mango one of those days.",
+                "(4) Dinesh said that he wanted to eat a good mango one of these days."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "117. He said, \u201cI intend to leave for,  Delhi tonight.\u201d",
+            "options": [
+                "(1) He said that he will intend to leave for Delhi tonight.",
+                "(2) He said that he should in- tend to leave for Delhi that night.",
+                "(3) He said that he intended to leave for Delhi that night.",
+                "(4) He said that his intention is to leave for Delhi tonight."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "118. He said, \u201cThe Sun_rises in the  east.\u201d",
+            "options": [
+                "(1) He said that the Sun rised in the East.",
+                "(2) He said that the Sun rises in the East.",
+                "(3) He said that the Sun will rise in the East.",
+                "(4) He said that the Sun may rise in the East."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "119. Ram asked Krishna, \u201cWhere are  you going today ?\u201d",
+            "options": [
+                "(1) Ram asked Krishna where he was going that day.",
+                "(2) Ram asked Krishna as to - where he was going on the previous day.",
+                "(3) Ram asked Krishna where was he going the next day.",
+                "(4) Ram asked Krishna where was he going the day before."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "120. He said, \u201cWhat a fool Tom is !\u201d",
+            "options": [
+                "(1) He exclaimed that he was a big fool.",
+                "(2) He exclaimed that Tom was a big fool.",
+                "(3) He wondered what kind ofa fool Tom was.",
+                "(4) He claimed that Tom was a big fool."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "121. \u201cWhat kind of scheme do you  have ?\u201d Amit asked the insur-  ance agent.",
+            "options": [
+                "(1) Amit asked the insurance agent what kind of scheme he/she had.",
+                "(2) Amit asked the insurance  agent what kind of scheme he/she has.",
+                "(3) Amit asked the insurance agent what kind of scheme he/she is having",
+                "(4) Amit asked the insurance agent what kind of scheme ~ he/she was having."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "122. The doctor said to the patient,  \u201cTake complete rest.\u201d",
+            "options": [
+                "(1) The doctor told to the patient that take complete rest.",
+                "(2) The doctor advised the pa- tient to take complete rest",
+                "(3) The doctor suggested the pa- tient to take complete rest",
+                "(4) The doctor asked the patient take complete rest."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "123. Mini said to me, \u201cI have bought  this flat for my mother.\u201d",
+            "options": [
+                "(1) Mini told that she had bought that flat for her mother.",
+                "(2) Mini said that she bought that flat for her mother.",
+                "(3) Mini said she has bought that flat for mother,",
+                "(4) Mini told me that she had bought that flat for her mother."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "124. He said, \u201cI will come again.\u201d",
+            "options": [
+                "(1) He said that he will come again.",
+                "(2) He says he is coming again.",
+                "(3) He says he'll come again.",
+                "(4) He said that he would come again."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "125. \"Don't do any more work until you have had a rest,\" her moth- er advised her.",
+            "options": [
+                "(1) Her mother advised her not to do any more work until she has had a rest.",
+                "(2) Her mother advised her not to do any more work until she had had a rest.",
+                "(3) Her mother advised her that she would not do any more work until she had had a rest.",
+                "(4) He mother advised her that she need not do any more work until she had had a rest."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "126. \"Make me another suit like this,\" he said to the tailor.",
+            "options": [
+                "(1) He asked the tailor to make him another suit like this.",
+                "(2) He asks the tailor to make him another suit like this.",
+                "(3) He asked the tailor to make him another suit like that.",
+                "(4) He asked the tailor to make me another suit like this."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "127. My Principal told me, \"Don't con- duct any test tomorrow.\"",
+            "options": [
+                "(1) My Principal told me not to conduct any test tomorrow.",
+                "(2) My Principal told me not to conduct any test tomorrow.",
+                "(3) My Principal ordered me don't conduct any test.",
+                "(4) My Principal ordered me not to conduct any test the next day."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "128. The boy said, \"Bravo! You have done well.\"",
+            "options": [
+                "(1) The boy said that he had done well.",
+                "(2) The boy exclaimed that he had done well.",
+                "(3) The boy applauded him, say- ing that he had done well.",
+                "(4) The boy said bravo he had done well."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "129. I said to my sister, \"I brought you a doll yesterday.\"",
+            "options": [
+                "(1) I told my sister that I brought you a doll the previous day.",
+                "(2) I told my sister that I had brought her a doll the previ- ous day.",
+                "(3) I told my sister that I had brought her a doll yesterday.",
+                "(4) I told my sister that I brought her a doll yesterday."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "130. The captain said to the army, \"March forward, now.\"",
+            "options": [
+                "(1) The captain said to the army that march forward now.",
+                "(2) The captain ordered the army to march forward then.",
+                "(3) The captain ordered the army to march on that day.",
+                "(4) The captain ordered the army to attack the enemy."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "131. They said, \"We've lived here for a long time.\"",
+            "options": [
+                "(1) They said they have lived there for a long time.",
+                "(2) They said they lived here for a long time.",
+                "(3) They said they had lived there for a long time.",
+                "(4) They said they have lived for a long time."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "132. \"Wouldyou open the door please?\"",
+            "options": [
+                "(1) She asked me to please open the door.",
+                "(2) She requested me to open the door.",
+                "(3) She requested me to please open the door.",
+                "(4) She asked me open the door."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "133. The teacher said, \"Gandhiji was born in India.\"",
+            "options": [
+                "(1) The teacher said that Gan- dhiji had been born in India.",
+                "(2) The teacher says that Gan- dhiji was born in India.",
+                "(3) The teacher said that Gan- dhiji was born in India.",
+                "(4) The teacher will say that Gan- dhiji was born in India."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "134. The teacher said to the student \"Why do you disturb the class?\"",
+            "options": [
+                "(1) The teacher said to the stu- dent why he disturbed the class.",
+                "(2) The teacher told the student why he had disturbed the class.",
+                "(3) The teacher asked the stu- dent why he disturbed the class.",
+                "(4) The teacher asked the stu- dent why he had disturbed the class."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "135. Rita said to me, \"Will you lend me this classic ?\" Rita asked me",
+            "options": [
+                "(1) if I would lend her that clas- sic",
+                "(2) if she would lend me that classic",
+                "(3) if I will lend her that classic",
+                "(4) would I lend her that classic?"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "136. The lady said to the servant, \"If you don't wash the clothes properly, I will dismiss you.\"",
+            "options": [
+                "(1) The lady warned the servant that she would dismiss her if she didn't wash the clothes properly.",
+                "(2) The lady told the servant that she would dismiss her on the event of bad work.",
+                "(3) The lady cautioned the ser- vant that she must wash the clothes properly.",
+                "(4) The lady advised the servant to wash the clothes proper- ly."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "137. \"There are ceremonies going on\", he said to me.",
+            "options": [
+                "(1) He told me that there were ceremonies going on.",
+                "(2) He told that there have been ceremonies going on.",
+                "(3) He told that there had been ceremonies going on.",
+                "(4) He told that there are cere- monies going on."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "138. He said to Manoj, \"May you prosper.\"",
+            "options": [
+                "(1) He wished that Manoj should prosper.",
+                "(2) He wished that Manoj may prosper.",
+                "(3) He wished that Manoj mich prosper.",
+                "(4) He wished Manoj to prospei."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "139. The mother said, \"What can I do for you, my son ?\"",
+            "options": [
+                "(1) The mother said to her son what she could do for him.",
+                "(2) The mother asked her son what she did for him.",
+                "(3) The mother asked her son what she could do for him.",
+                "(4) The mother asked what she could do for him, my son."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "140. My Daddy always says, \"Getting up early in the morning is a good bad habit.\"",
+            "options": [
+                "(1) My Daddy always says that ss to get up early in the morning is a good habit.",
+                "(2) My Daddy always says that getting up early in the morning is a good habit.",
+                "(3) My Daddy always advises ad baby that getting up early in the morning was a good habit.",
+                "(4) My Daddy always warns that here to get up early in the morning was a good habit."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "141. \"Be quiet\" I said to them.",
+            "options": [
+                "(1) I told them to be quiet.",
+                "(2) I asked them to remain quiet.",
+                "(3) I told to them for being quiet.",
+                "(4) I ordered them to remain quiet."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "142. The mother says to the child, \"The Sun rises in the East.\"",
+            "options": [
+                "(1) The mother tells the child that the Sun rose in the East.",
+                "(2) The mother says the child that the Sun rises in the East.",
+                "(3) The mother tells the child that the Sun rises in the East.",
+                "(4) The mother informs the child that the Sun rose in the East."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "143. He said, \"The teacher usually does not ask any question.\" He said that",
+            "options": [
+                "(1) the teacher usually does not ask any question.",
+                "(2) the teacher usually did not ask any question.",
+                "(3) the teacher usually asked no question.",
+                "(4) the teacher usually did not asked any question."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "144. \"Where do you live?\" asked the stranger.",
+            "options": [
+                "(1) The stranger asked where I lived.",
+                "(2) The stranger enquired where I was living.",
+                "(3) The stranger questioned where did I live.",
+                "(4) The stranger wanted to know where I live."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "145. I said to him, \"How do you know this?\"",
+            "options": [
+                "(1) I asked him how I knew that.",
+                "(2) I asked him that how he knew that.",
+                "(3) I told him how 1 knew that.",
+                "(4) I asked him how he knew that."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "146. He said, \"We are all sinners.\"",
+            "options": [
+                "(1) He said that we are all d to sinners.",
+                "(2) He said they were all sinners.",
+                "(3) He said that he was a sinner.",
+                "(4) He said all were sinners."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "147. \"Would you mind taking off your shoes before entering the house?\" He said to the foreigner.",
+            "options": [
+                "(1) He requested the foreigner to take off his shoes before entering the house.",
+                "(2) He told the foreigner that he must take off his shoes be- fore entered the house.",
+                "(3) He said the foreigner that to take off his shoes before en- tered the house.",
+                "(4) Before entering the house he said that shoes must be tak- en off."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "148. \"I lost my book yesterday\", she said to her teacher.",
+            "options": [
+                "(1) She admitted to her teacher that she had lost her book the previous day.",
+                "(2) To her teacher she was ad- mitted that she has lost her book the previous day.",
+                "(3) She admitted losing her book to her teacher yesterday.",
+                "(4) She said to her teacher that I have lost my book the pre- vious day."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "149. \"Do you want some more sweets?\" asked my friend.",
+            "options": [
+                "(1) My friend asked me if I want some more sweets.",
+                "(2) My friend said to me if I wanted some more sweets.",
+                "(3) My friend asked me whether I wanted some more sweets.",
+                "(4) My friend asked me that I wanted some more sweets."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "150. \"I have seen the film before\" Suneetha says.",
+            "options": [
+                "(1) Suneetha said that she had seen the film before.",
+                "(2) Suneetha says that she has seen the film before.",
+                "(3) Suneetha said that the film was seen by her before.",
+                "(4) Suneetha said that she saw the film earlier."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "151. He ordered his servant to do as he was told.",
+            "options": [
+                "(1) He ordered his servant, \"Do as you are told.\"",
+                "(2) He said to his servant, \"Do as you are told.\"",
+                "(3) He said to his servant. \"Do as I told you.",
+                "(4) He said to his servant, \"Do as you were told.\""
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "152. She said to the girl, \"Did you do this?\"",
+            "options": [
+                "(1) She asked the girl that she did that.",
+                "(2) She asked the girl if she did that.",
+                "(3) She asked the girl if she had We done that.",
+                "(4) She told the girl that she had done that."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "153. Kiran asked me, \"Did you see the cricket match on television last night?\"",
+            "options": [
+                "(1) Kiran asked me whether I saw the cricket match on television the earlier night.",
+                "(2) Kiran asked me whether I had seen the cricket match on television the earlier night.",
+                "(3) Kiran asked me did I see the cricket match on television last night.",
+                "(4) Kiran asked me whether I had seen the cricket match on television last night."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "154. David said to Anna, \"Mona will leave for her native place tomor- row.\"",
+            "options": [
+                "(1) David told Anna that Mona will leave for her native place tomorrow.",
+                "(2) David told Anna that Mona left for her native place the next day.",
+                "(3) David told to Anna that Mona would be leaving for her na- tive place tomorrow.",
+                "(4) David told Anna that Mona would leave for her native place the next day."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "155. I said to him, \u201cWhy are you work-  ing so hard ?\u201d",
+            "options": [
+                "(1) I asked him why he was working so hard.",
+                "(2) I asked him why was he working so hard.",
+                "(3) I asked him why he had been working so hard.",
+                "(4) I asked him why had he been working so hard."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "156. He said to her, \u201cWhat a cold day!\u201d",
+            "options": [
+                "(1) He told her that it was a cold day.",
+                "(2) He exclaimed that it was a cold day.",
+                "(3) He exclaimed sorrowfully that it was a cold day.",
+                "(4) He exclaimed that it was a very cold day."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "157. The tailor said to him, \u201cWill you  have the suit ready by tomorrow  evening ?\u201d",
+            "options": [
+                "(1) The tailor asked him that he will have the suit ready by the next evening.",
+                "(2) The tailor asked him that he would had the suit ready by the next evening.",
+                "(3) The tailor asked him if he would have the suit ready by the next evening.",
+                "(4) The tailor asked him if he will like to have the suit ready by the next evening."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "158. He said to the interviewer,  - \u201cCould you please repeat the  question?\u201d",
+            "options": [
+                "(1) He requested the interview- er if he could please repeat the question.",
+                "(2) He requested the interview- er to please repeat the ques- tion.",
+                "(3) He requested the interview- er to repeat the question.",
+                "(4) He requested the interviewer if he could repeat the question."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "159. He said, \u201cBe quiet and listen to  my words.\u201d",
+            "options": [
+                "(1) He urged them to be quiet and listen to his words.",
+                "(2) He urged them and said be quiet and listen to words.",
+                "(3) He said they should be quiet and listen to his words.",
+                "(4) He said you should be quiet and listen to my words."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "160. He said to me, \u201cI have often told  you not to play with fire.\u201d",
+            "options": [
+                "(1) He said that he has often been telling me not to play with fire.",
+                "(2) He told me that he had often told me not to play with fire.",
+                "(3) He reminded me that he of- ten said to me not to play with fire.",
+                "(4) He said to me that he often told me not to play with fire."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "161. The Captain said to his men,  \u201cStand at ease.\u201d",
+            "options": [
+                "(1) The Captain urged his men to stand at ease.",
+                "(2) The Captain wanted his men to stand at ease.",
+                "(3) The Captain told his men that they should stand at ease.",
+                "(4) The Captain commanded his men to stand at ease."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "162. Pawan said to me, \u201cIf I hear any  news, I'll phone you.\u201d",
+            "options": [
+                "(1) Pawan told me that if he heard any news, he will phone me.",
+                "(2) Pawan told me that if he will hear any news, he will phone me.",
+                "(3) Pawan told me if he had heard any news, he would phone me.",
+                "(4) Pawan told me that if he heard any news, he would phone me. ."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "163. The teacher said to Mahesh, \"Congratulations! Wish you suc- cess in life.\u201d",
+            "options": [
+                "(1) The teacher congratulated Mahesh and said wish you success in life.",
+                "(2) The teacher wished congra- tulations and success in life to Mahesh.",
+                "(3) The teacher said congratula- tions to Mahesh and wished him success in life.",
+                "(4) The teacher congratulated Mahesh and wished him suc- cess in life."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "164. The poor examinee said, \u201cO God,  take pity on me.\u201d",
+            "options": [
+                "(1) The poor examinee prayed God to take pity on him.",
+                "(2) The poor examinee, invoking God, implored him to take pity on him.  3) The poor examinee exclaimed that God take pity on him.  (4) The poor examinee asked God to take pity on him.",
+                "",
+                "(4) The poor examinee asked God to take pity on him."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "165. \u201cWhere will you be tomorrow,\" I  said, \u201cin case I have to ring you?\u201d",
+            "options": [
+                "(1) l asked where you will be the next day in case I will ring him.",
+                "(2) I asked where he would be the next day in case I had to ring him.",
+                "(3) I said to him where he will be in case I have to ring him.",
+                "(4) I enquired about his where\u2014 abouts the next day in case I would have to ring up."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "166. Seeta said to me, \u201cCan you give \u2014  me your pen ?\u201d.",
+            "options": [
+                "(1) Seeta asked me can I give her my pen.",
+                "(2) Seeta asked me if I can give me your pen.",
+                "(3) Seeta asked me if I could give her my pen.",
+                "(4) Seeta asked me if I gave her my pen."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "167. The father warned his son that  he should be beware of him. |",
+            "options": [
+                "(1) The father warned his son, \u201cBeware of him!\u201d",
+                "(2) The father warned his son, \u201cWatch that chap!\u201d",
+                "(3) The father warned his son, \u201cBe careful about him.\u201d  (4} The father warned his son, \u201cDon't fall into the trap.\u201d",
+                ""
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "168. Manna asked Rohan, \u201cHave you  sat in a trolley bus before?\u201d",
+            "options": [
+                "(1) Manna asked Rohan wheth- er he had satina trolley bus earlier.",
+                "(2) Manna asked Rohan had he sat in a trolley bus before.",
+                "(3) Manna asked Rohan if he sat on a trolley bus before.",
+                "(4) Manna asked Rohan if he has ever sat in a trolley bus"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "169. Farhan asked Geeta, \u201cCould you  lend me a hundred rupees until  tomorrow ?\u201d",
+            "options": [
+                "(1) Farhan asked Geeta wheth- er she could lend him a hun- dred rupees until tomorrow.",
+                "(2) Farhan asked Geeta wheth- er she could lend him a hun- dred rupees until the next day.",
+                "(3) Farhan asked Geeta whether she could lend me a hun- dred rupees until the next day.",
+                "(4) Farhan asked whether Geeta could lend me a hundred rupees until the next day."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "170. \"What about going for a swim,\" he said, \"It's quite fine now.\"",
+            "options": [
+                "(1) He asked me what about going for a swim as it was quite fine then.",
+                "(2) He proposed going for a swim as it was quite fine.",
+                "(3) He suggested going for a swim as it was quite fine.",
+                "(4) He advised me to go for a swim as it was quite fine."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "171. \"You can't bathe in this sea,\" he said to me, \"it's very rough.\"",
+            "options": [
+                "(1) He said that I can't bathe in this sea because it's very rough.",
+                "(2) He said that you couldn't bathe in that sea if it was very rough.",
+                "(3) He said that I couldn't bathe in that sea as it was very rough.",
+                "(4) He said that you can't bathe in this sea since it was very rough."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "172. Jagdish said, \"We passed by a beautiful lake when we went on a trip to Goa.\"",
+            "options": [
+                "(1) Jagdish said that they passed by a beautiful lake when they had gone on a trip to Goa.",
+                "(2) Jagdish said that they had passed by a beautiful lake when they went on a trip to Goa.",
+                "(3) Jagdish said that they had Anpassed by a beautiful lake when they had gone on a trip to Goa.",
+                "(4) Jagdish said they passed by a beautiful lake when they went on a trip to Goa."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "173. He said to me, \"I expect you to attend the function.\"",
+            "options": [
+                "(1) He told me that he had exected me to attend the function.",
+                "(2) He told me that he expected me to attended the function.",
+                "(3) He told me that he expected me to have attended the function.",
+                "(4) He told me that he expected me to attend the function."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "174. He said, \"Why didn't you send your application to me ?\"",
+            "options": [
+                "(1) He enquired why I had not sent my application to him.",
+                "(2) He enquired why I did not send my application to him.",
+                "(3) He enquired why had I not sent my application to him.",
+                "(4) He enquired why did I not send my application to him."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "175. Dinesh asked, \"Are you going to the party tomorrow, Eliza ?\"",
+            "options": [
+                "(1) Dinesh asked whether Eliza was going to the party the next day.",
+                "(2) Dinesh asked Eliza whether you are going to the party the next day.",
+                "(3) Dinesh asked Eliza whether she was going to the party the next day.",
+                "(4) Dinesh asked Eliza are you going to the party tomorrow."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "176. John asked, \"How long will it take to travel from Germany to South Africa ?\"",
+            "options": [
+                "(1) John asked how long it will take to travel from Germany to South Africa.",
+                "(2) John asked how long would it take to travel from Germany to South Africa.",
+                "(3) John asked how long it would take to travel from Germany to South Africa.",
+                "(4) John was asking how long must it take to travel from Germany to South Africa."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "177. \"What did you see at the South Pole?\" Ashok asked Anil.",
+            "options": [
+                "(1) Ashok asked Anil if he saw anything at the South Pole",
+                "(2) Ashok asked Anil what he had seen at the South Pole",
+                "(3) Ashok asked Anil what did he see at the South Pole",
+                "(4) Ashok asked Anil that he saw anything at the South Pole"
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "178. The visitor said to them \"Please give me a glass of water.\"",
+            "options": [
+                "(1) The visitor said please give him a glass of water.",
+                "(2) The visitor said to them to give him a glass of water.",
+                "(3) The visitor ordered them to give a glass of water.",
+                "(4) The visitor requested them to give him a glass of water."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "179. The policeman told the students, \"Do not park your vehicles here.'",
+            "options": [
+                "(1) The policeman asked the students not park your vehicles here.",
+                "(2) The policeman asked the students not to park their vehicles here.",
+                "(3) The policeman asked the students not to park their vehicles there.",
+                "(4) The policeman asked the students not to park his vehicle here."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "180. The man said, \"All the boys are playing in the street.\"",
+            "options": [
+                "(1) The man told us that all the boys had been playing in the street.",
+                "(2) The man told us that all the boys were playing in the street.",
+                "(3) The man told us that all the boys play in the street.",
+                "(4) The man told us that all the boys in the street are playing."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "181. She said, \"I am sorry, I did not write\".",
+            "options": [
+                "(1) She apologized for I did not write.",
+                "(2) She apologized she is sorry, she did not write.",
+                "(3) She apologized she is sorry, she has not written.",
+                "(4) She apologized that she had not written."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "182. \"Alright, yes, I was wrong and you were right\", he said.",
+            "options": [
+                "(1) He admitted that he has been wrong and I have been right.",
+                "(2) He admitted that I was wrong and you were right.",
+                "(3) He admitted that I was wrong and he was right.",
+                "(4) He admitted that he had been wrong and I had been right."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "183. Nirmal said to us, \"My father gave me a purse yesterday.\"",
+            "options": [
+                "(1) Nirmal told us that my father given me a purse the previous day.",
+                "(2) Nirmal told us that his father had given him a purse the previous day.",
+                "(3) Nirmal told us that his father has given him a purse yesterday.",
+                "(4) Nirmal told us that his father had given him a purse yesterday."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "184. I asked my brother if he had returned the money to his friend.",
+            "options": [
+                "(1) Had you returned the money to my friend.",
+                "(2) I said to my brother, \"Have you return the money to his friend?\"",
+                "(3) I said to my brother, \"Have you returned the money to your friend?\"",
+                "(4) Do you return the money to his friend."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "185. Bala's mother: \"Will you lock the door, Bala?\"",
+            "options": [
+                "(1) Bala's mother told Bala that he need not lock the door.",
+                "(2) Bala's mother asked Bala if he would lock the door.",
+                "(3) Bala's mother asked Bala if  he had locked the door.",
+                "(4) Balas mother said lock the door."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "186. \"Are you ready, Raju?\" Mother asked.",
+            "options": [
+                "(1) Mother asked Raju if he would be ready.",
+                "(2) Mother told Raju if he was ready.",
+                "(3) Mother asked Raju if he was tou his ready.",
+                "(4) Mother wanted to know from Raju if he was ready."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "187. Ann told my brother, \"I will meet you in your class\".",
+            "options": [
+                "(1) Ann told my brother that he will meet her in her class.",
+                "(2) Ann told my brother that I bust would meet you in your class.",
+                "(3) Ann told my brother that she would meet him in his class.",
+                "(4) Ann told my brother that she would meet him in her class."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "188. Naren said, \"Why are you still waiting here, Binod?\"",
+            "options": [
+                "(1) Naren asked Binod why he was still waiting there.",
+                "(2) Naren asked Binod that why She he was still waiting there.",
+                "(3) Naren asked Binod why he is still waiting there.",
+                "(4) Naren asked Binod that why you were still waiting there."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "189. \"Jack fell as he'd have wished,\" the mother said.",
+            "options": [
+                "(1) The mother said that Jack had fallen as he would have wished.",
+                "(2) The mother said that Jack fell as he had wished.",
+                "(3) The mother said that Jack Warry has fallen as he has wished.",
+                "(4) The mother said that Jack had been fallen as he would have been wished."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "190. \"Can you see a woman seated on the bench in a park ?\" Alice asked her.",
+            "options": [
+                "(1) Alice asked her if she can see a woman seated on the bench in a park.",
+                "(2) Alice told her if she could see a woman seated on the bench in a park.",
+                "(3) Alice asked her if she could see a woman seated on the bench in a park.",
+                "(4) Alice asked her if she could have seen a woman seated on the bench in a park."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "191. The king said, \"My force will protect the kingdom.\"",
+            "options": [
+                "(1) The king said that his force would protect the kingdom.",
+                "(2) The king said that the king's force will protect the the kingdom.",
+                "(3) The king ordered that our force should protect the barkan kingdom.",
+                "(4) The king commanded that his force will be protected the kingdom."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "192. The student said, \"Let me come in.\u201d",
+            "options": [
+                "(1) The student told that let he be allowed to come in.",
+                "(2) The student said that if he is allowed to come in.",
+                "(3) The student requested to let him come in.",
+                "(4) The student requested that he might be allowed to come in."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "193. He said, \"Babies, drink milk.\"",
+            "options": [
+                "(1) He said that babies drink milk.",
+                "(2) He told that babies should mod drink milk.",
+                "(3) He advised the babies to vood drink milk.",
+                "(4) He said that babies drank milk."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "194. I said, \"I came here yesterday,\"",
+            "options": [
+                "(1) I said that I came here that day.",
+                "(2) I said that go here yesterday.",
+                "(3) I said that I had come there the previous day.",
+                "(4) I say that I went there the previous day."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "195. He said, \"The government is writing letters,'",
+            "options": [
+                "(1) He said that the government is writing letters.",
+                "(2) He said that the government  was writing letters.",
+                "(3) He said that the government will write letters.",
+                "(4) He said that the government wrote letters."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "196. He said, \"I have passed the examination.\"",
+            "options": [
+                "(1) He said that he had passed the examination.",
+                "(2) He announced that he has passed the examination.",
+                "(3) He said that he had to pass the examination",
+                "(4) He said that he has passed the examination"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "197. The doctor says, \"It is better you undergo a surgery next week.\"",
+            "options": [
+                "(1) The doctor advised me to undergo a surgery the following week.",
+                "(2) The doctor says that it is better I undergo a surgery the following week.",
+                "(3) The doctor says that it was better I underwent a surgery the coming week.",
+                "(4) The doctor advises that it is better I underwent a surgery the following week."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "198. The teacher asked the student when he would submit his assignment.",
+            "options": [
+                "(1) The teacher said to the student, \"When will you Se submit your assignment?\"",
+                "(2) The teacher asked the student, \u201cWhen will you submit his assignment ?\u201d",
+                "(3) The teacher asked the student, \u201cWhen would you submit his assignment ?\u201d",
+                "(4) The teacher asked the student, \u201cWhen would he submit his assignment ?\u201d"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "199. The Principal asked me whether  I had informed the Chief Guest  the revised schedule the day  before.",
+            "options": [
+                "(1) The Principal said to me, \u201cDid I inform the Chief Guest the revised schedule the day before ?\u201d",
+                "(2) The Principal said to me, \u201cHave I informed the Chief Guest the revised schedule the day before ?\u201d",
+                "(3) The Principal said to me, \u201cHave you informed the Chief Guest the revised schedule yesterday?\u201d",
+                "(4) The Principal said to me, \u201cDid you inform the Chief Guest the revised schedule yesterday ?\u201d"
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "200. \u201cDon't play on the grass, boys,\u201d  she said.",
+            "options": [
+                "(1) She ordered the boys \u201cDon't play on the grass.\u201d",
+                "(2) She said to the boys that they should not play on the grass.",
+                "(3) She told the boys that they should not be playing on the grass.",
+                "(4) She told the boys not to play on the grass."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "201. \u201cWhat a terrible storm it is!\u201d he  said.",
+            "options": [
+                "(1) He exclaimed that it was a terrible storm.",
+                "(2) He exclaimed that it has been a terrible storm.",
+                "(3) He exclaimed that it will be a terrible storm.",
+                "(4) He exclaimed that it is a terrible storm."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "202. The traveller said, \u201cWhat a  beautiful sight!\u201d",
+            "options": [
+                "(1) The traveller exclaimed that it was an beautiful sight.",
+                "(2) The traveller exclaimed that it was a beautiful sight.",
+                "(3) The traveller said that it was beautiful.",
+                "(4) The traveller remarked the beautiful sight."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "203. The Chief Guest said, \u201cIt gives me great pleasure to be here this morning.\u201d",
+            "options": [
+                "(1) The Chief Guest said that that gave me great pleasure to be there that morning.",
+                "(2) The Chief Guest said that it \"gave him great pleasure to \u2018be there that morning.",
+                "(3) The Chief Guest said that it gives him great pleasure to be here that morning.",
+                "(4) The Chief Guest said that it gives him great pleasure to be there that morning."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "204. He said, \u201cWhat.a lovely voice she  has !\u201d",
+            "options": [
+                "(1) He exclaimed that she had a very lovely voice.",
+                "(2) He exclaimed that she has a very lovely voice.",
+                "(3) He exclaimed that she did not have a lovely voice.",
+                "(4) He exclaimed that she does not have a lovely voice."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "205. He said to me, \u201cWhere is the  post office ?\u201d",
+            "options": [
+                "(1) He asked me that where the post office was.",
+                "(2) He asked me where was the post office.",
+                "(3) He wanted to know where the post office was.",
+                "(4) He asked me where the post office was."
+            ],
+            "answer": "Answer: 4",
+            "exp": ""
+        },
+        {
+            "question": "206. My father said, \u201cHonesty is the  best policy.\u201d",
+            "options": [
+                "(1) My father stated that honesty was the best policy.",
+                "(2) My father said that honesty is the best policy.",
+                "(3) My father said that honesty was the best policy.",
+                "(4) My father said that honesty has been the best policy."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        },
+        {
+            "question": "207. She yelled, \u201cPlease help me.\u201d",
+            "options": [
+                "(1) She yelled at one for some help.",
+                "(2) Sheyelled for someone to help.",
+                "(3) She yelled for someone to help her.",
+                "(4) She yelled at someone to help her."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "208. He asked me why I was late.",
+            "options": [
+                "(1) He asked me, \u201cWhy are you late ?\u201d",
+                "(2) He asked me, \u201cWhy I was late?\u201d",
+                "(3) He asked me, \u201cWhy you are late?\u201d \u2014",
+                "(4) He asked me, \u201cWhy am I late?\u201d"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "209. He said that I needn't wait there.",
+            "options": [
+                "(1). He said, \u201cYou needn't wait here.\u201d",
+                "(2) He said, \u201cI needn't wait there.\u201d",
+                "(3) He said, \u201cYou needn't wait there.\u201d :",
+                "(4) He said, \u201cI needn't wait here.\u201d"
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "210. I said to the worker, \u201cHow do  you like your job?\u201d",
+            "options": [
+                "(1) I told the worker how he liked his job.",
+                "(2) I asked the worker how you like your job.",
+                "(3) I asked the worker how he liked his job.",
+                "(4) I asked the worker how you liked his job."
+            ],
+            "answer": "Answer: 3",
+            "exp": ""
+        },
+        {
+            "question": "211. \u201cI don't know why they haven't  signed the papers and accepted  the gift,\u201d said Crene to me.",
+            "options": [
+                "(1) Crene told me that he didn\u2019t know why they hadn't signed the papers and accepted the",
+                "(2) Crene told me that he don\u2019t know why they haven't signed the papers and accepted the gift.",
+                "(3) Crene told me that I don't know why they haven't signed the papers and accepted the gift.",
+                "(4) Crene said to me that he didn\u2019t know why they hadn't signed the papers and accepted the gift."
+            ],
+            "answer": "Answer: 1",
+            "exp": ""
+        },
+        {
+            "question": "212. She said, \u201cI must have a  computer to prepare a  powerpoint presentation.\u201d",
+            "options": [
+                "(1) She said she had to have a computer to prepare a powerpoint presentation.",
+                "(2) She said she should have a computer to prepare a power point presentation.",
+                "(3) She said she would have a computer to prepare a powerpoint presentation.",
+                "(4) She said she could have a computer to prepare a powerpoint presentation."
+            ],
+            "answer": "Answer: 2",
+            "exp": ""
+        }
+    ]
+}
