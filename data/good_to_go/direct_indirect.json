@@ -1,4 +1,5 @@
-{
+let direct_indirect = [
+    {
     "direct_indirect": [
         {
             "question": "1. He said, \u201cRavi, why are you sounding so depressed today?\u201d",
@@ -2334,3 +2335,4 @@
         }
     ]
 }
+]
